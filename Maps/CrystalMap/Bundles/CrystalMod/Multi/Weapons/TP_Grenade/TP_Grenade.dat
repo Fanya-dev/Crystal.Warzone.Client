@@ -1,0 +1,28 @@
+GUID 0bf39a536df942f1a4cc7c5d582953d1
+Type Throwable
+Rarity Epic
+Useable Throwable
+ID 47343
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Player_Damage 0
+Zombie_Damage 0
+Animal_Damage 0
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+
+
+
+Range 5
+Explosion 43314
+
+Explosive
+
+Explosion_Launch_Speed 10
+

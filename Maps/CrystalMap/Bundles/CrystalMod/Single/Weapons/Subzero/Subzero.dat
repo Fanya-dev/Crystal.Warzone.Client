@@ -1,0 +1,19 @@
+GUID 4f84b2d2bd64406994f7c40266c878f3
+Type Barrel
+ID 12837
+
+Size_X 3
+Size_Y 1
+Size_Z 0.3
+
+Calibers 1
+Caliber_0 43318
+
+Braked
+Silenced 
+Volume 0.5
+
+Recoil_X 0.9
+Recoil_Y 0.9
+
+Spread 0.75

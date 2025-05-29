@@ -1,0 +1,25 @@
+GUID 42ef63600b944fdca54f0818fb009378
+Type Magazine
+ID 14244
+
+Size_X 3
+Size_Y 3
+Size_Z 0.8
+
+Amount 200
+Count_Min 100
+Count_Max 200
+
+Calibers 1
+Caliber_0 16163
+
+Pellets 4
+
+Tracer 49
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 14244
+Blueprint_0_Build 30
+

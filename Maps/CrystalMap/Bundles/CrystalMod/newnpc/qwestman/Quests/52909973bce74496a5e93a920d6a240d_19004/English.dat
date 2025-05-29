@@ -1,0 +1,6 @@
+﻿// Made in NPC Maker by BowieD
+Name <color=#DCB413><b>Hey, Party Maker?</b></color>
+Description Bring to <color=#4B64FA>Retro</color> pirate coins and clean hazard zones from zombies!
+Condition_1 Kill zombies at Devils Arch {0}/{1}
+Condition_2 Kill zombies at mili {0}/{1}
+Condition_3 Kill zombies at City {0}/{1}

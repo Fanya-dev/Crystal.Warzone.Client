@@ -1,0 +1,44 @@
+﻿"Metadata"
+{
+	"GUID" "14561b81c33b41b886f1f1ec990af0cd"
+	"Type" "SDG.Unturned.ItemCurrencyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ValueFormat" "{0:N0} Bender clothes"
+	"Entries"
+	[
+		{
+			"Item"
+			{
+				"GUID" "e481ee3e735a49f1af1dcb00cdcb57d3"
+			}
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "True"
+		}
+		{
+			"Item"
+			{
+				"GUID" "c347235c67d1462fa2e734cdd4d3b730"
+			}
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "True"
+		}
+		{
+			"Item"
+			{
+				"GUID" "1bbb803160704f4c84a4791d16336d54"
+			}
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "True"
+		}
+		{
+			"Item"
+			{
+				"GUID" "b6b169afaef048478b6f8ad5debb8212"
+			}
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "True"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+GUID cbeabc3f87b6462e89491d898266370e
+Type Shirt
+Rarity Rare
+Useable Clothing
+ID 42150
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 6
+Height 4
+
+Armor 0.2
+Armor_Explosion 0.4
+
+Has_1P_Character_Mesh_Override True
+Character_Mesh_3P_Override_LODs 1
+Has_Character_Material_Override True
+
+Beard_Visible False
+Hair_Visible False

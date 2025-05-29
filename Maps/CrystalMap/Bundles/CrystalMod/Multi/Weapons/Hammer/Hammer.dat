@@ -1,0 +1,44 @@
+GUID 4aeaa74be75a4d099505c5f87321e3fd
+Type Melee
+Rarity Mythical
+Useable Melee
+Slot Secondary
+ID 19932
+
+Size_X 2
+Size_Y 2
+Size_Z 0.85
+Size2_Z 0.85
+
+Range 7
+Strength 1.5
+Weak 0.37
+Strong 0.37
+Stamina 10
+
+Player_Damage 450
+Player_Leg_Multiplier 0.3
+Player_Arm_Multiplier 0.3
+Player_Spine_Multiplier 0.5
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 1500
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.9
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 1550
+Animal_Leg_Multiplier 0.9
+Animal_Spine_Multiplier 1.1
+Animal_Skull_Multiplier 1.5
+
+Barricade_Damage 1
+Structure_Damage 1
+Vehicle_Damage 1
+Resource_Damage 1
+Object_Damage 1
+
+Durability 0.175
+
+Asset_Bundle_Version 3

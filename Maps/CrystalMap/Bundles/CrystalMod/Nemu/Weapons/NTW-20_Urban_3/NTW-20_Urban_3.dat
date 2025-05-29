@@ -1,0 +1,26 @@
+GUID c321f13cf5d7494f8d2dd2159f967981
+Type Magazine
+ID 6045
+
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Amount 3
+Count_Min 1
+Count_Max 3
+
+Calibers 1
+Caliber_0 225
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 1192
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 298
+Blueprint_1_Build 30
+
+Bypass_Hash_Verification

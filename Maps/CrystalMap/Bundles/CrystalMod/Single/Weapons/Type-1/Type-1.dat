@@ -1,0 +1,28 @@
+GUID f560ca5ae7c94e7aa2a9cc70862b2ee0
+Type Throwable
+Rarity Epic
+Useable Throwable
+ID 64322
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Player_Damage 500
+Zombie_Damage 50000
+Animal_Damage 1000
+Barricade_Damage 560
+Structure_Damage 560
+Vehicle_Damage 350
+Resource_Damage 350
+Object_Damage 350
+
+
+
+Range 12
+Explosion 33332
+
+Explosive
+
+Explosion_Launch_Speed 10
+

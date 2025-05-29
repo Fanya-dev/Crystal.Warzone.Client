@@ -1,0 +1,17 @@
+GUID f736596120524b358e2f30081454f466
+Type Pants
+Rarity Epic
+Useable Clothing
+ID 34906
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 8
+Height 6
+
+Armor 0.34
+Armor_Explosion 0.65
+
+Should_Drop_On_Death False

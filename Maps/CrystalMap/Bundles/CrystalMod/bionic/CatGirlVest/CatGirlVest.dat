@@ -1,0 +1,18 @@
+GUID 697f7f87441e4912ba0ce948fb77ffb3
+Type Vest
+Rarity Rare
+Useable Clothing
+ID 13461
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Width 15
+Height 8
+
+
+Armor 0.23
+Armor_Explosion 0.08
+
+Exclude_From_Master_Bundle

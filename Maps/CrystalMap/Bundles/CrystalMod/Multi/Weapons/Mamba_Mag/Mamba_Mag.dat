@@ -1,0 +1,31 @@
+GUID 5fc92cfa7a534bfab083cb1bc8135d94
+Type Magazine
+Rarity Mythical
+ID 51631
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+Amount 120
+Count_Min 80
+Count_Max 120
+
+Calibers 1
+Caliber_0 51277
+
+Tracer 48
+Speed 0.85
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 51631
+Blueprint_1_Build 30
+
+
+Paintable

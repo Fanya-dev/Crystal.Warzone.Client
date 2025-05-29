@@ -1,0 +1,28 @@
+GUID 41c7b8810d424b438c5e53f13e3bb786
+
+Type Supply
+ID 12348
+
+Size_X 2
+Size_Y 1
+Size_Z 0.8
+
+Blueprints 3
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 12344
+Blueprint_0_Supply_0_Amount 20
+Blueprint_0_Build 17
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 12345
+Blueprint_1_Supply_0_Amount 10
+Blueprint_1_Build 17
+
+Blueprint_2_Type Supply
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 12346
+Blueprint_2_Supply_0_Amount 5
+Blueprint_2_Build 17

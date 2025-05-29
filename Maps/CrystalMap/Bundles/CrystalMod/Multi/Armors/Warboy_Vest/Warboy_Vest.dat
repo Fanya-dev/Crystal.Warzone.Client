@@ -1,0 +1,17 @@
+GUID 648c842c15da4fc099ff6d6203278b5d
+Type Vest
+Rarity Legendary
+Useable Clothing
+ID 47985
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Width 4
+Height 7
+
+Armor 0.7
+Armor_Explosion 0.82
+
+Should_Drop_On_Death False

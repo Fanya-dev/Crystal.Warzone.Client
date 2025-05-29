@@ -1,0 +1,22 @@
+GUID 800f8b1140bc4bbe8c57f43bb4cb14e6
+
+Type Vest
+Rarity Epic
+Useable Clothing
+ID 35134
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Width 8
+Height 8
+
+Armor 0.8
+
+
+Should_Drop_On_Death False
+
+Allow_Manual_Drop False
+
+Bypass_Hash_Verification

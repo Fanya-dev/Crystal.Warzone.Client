@@ -1,0 +1,17 @@
+GUID 58e1e29529d74b2880926b562e10836f
+Type Structure
+Rarity Rare
+Useable Structure
+Construct Pillar
+ID 33124
+
+Size_X 2
+Size_Y 2
+Size_Z 0.7
+
+Health 50000
+Range 8
+
+Explosion 29
+
+Asset_Bundle_Version 2

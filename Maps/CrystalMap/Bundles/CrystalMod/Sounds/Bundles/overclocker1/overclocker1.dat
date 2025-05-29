@@ -1,0 +1,19 @@
+GUID 60916b03737249b691d14579fc209dfe
+
+
+Type Tactical
+Rarity Epic
+ID 26763
+
+Size_X 2
+Size_Y 2
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 49328
+
+Firerate 1
+
+Asset_Bundle_Version 4
+
+Exclude_From_Master_Bundle

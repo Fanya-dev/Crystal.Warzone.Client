@@ -1,0 +1,21 @@
+GUID 34f1ee4a36344bb88f5251d92356394e
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Door
+ID 33127
+
+Size_X 2
+Size_Y 2
+Size_Z 0.7
+
+Health 40000
+Range 4
+Radius 0
+Offset 1.25
+
+Locked
+
+Explosion 35
+
+Asset_Bundle_Version 2

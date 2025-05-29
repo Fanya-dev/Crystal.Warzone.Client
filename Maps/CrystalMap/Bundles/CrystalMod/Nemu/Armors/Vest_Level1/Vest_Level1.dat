@@ -1,0 +1,29 @@
+GUID 5edd35a0212b4f6eaaa27f3ee01c13f0
+Type Vest
+Rarity Rare
+Useable Clothing
+ID 7465
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Width 6
+Height 5
+
+Armor 0.34
+Armor_Explosion 0.8
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 7465
+Blueprint_0_Product 67
+Blueprint_0_Products 3
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 6
+Blueprint_1_Build 32
+
+Bypass_Hash_Verification

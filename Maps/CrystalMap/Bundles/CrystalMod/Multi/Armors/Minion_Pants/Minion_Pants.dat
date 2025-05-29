@@ -1,0 +1,17 @@
+GUID c8863afec25d4494be9b540c987fbff1
+Type Pants
+Rarity Uncommon
+Useable Clothing
+ID 29519
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Width 5
+Height 7
+
+Armor 0.35
+Armor_Explosion 0.7
+
+Should_Drop_On_Death False

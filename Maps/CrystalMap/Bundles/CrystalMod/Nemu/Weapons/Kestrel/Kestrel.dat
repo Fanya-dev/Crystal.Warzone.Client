@@ -1,0 +1,81 @@
+GUID 47e3c58cfbad42b3b225e8e243f856b3
+Type Gun
+Rarity Mythical
+Useable Gun
+//Slot Primary
+ID 13035
+
+Size_X 5
+Size_Y 2
+Size_Z 0.55
+Size2_Z 0.01
+
+Sight 13037
+Magazine 13096
+Tactical 1438
+
+Ammo_Min 1
+Ammo_Max 1
+
+Safety
+Semi
+
+Caliber 13191
+
+Firerate 25
+Replace 3
+Action Rocket
+
+Player_Damage 200
+Zombie_Damage 200
+Animal_Damage 200
+Barricade_Damage 3000
+Structure_Damage 3000
+Vehicle_Damage 2500
+Resource_Damage 2000
+Object_Damage 1000
+
+Range 13
+Explosion 31755
+
+Durability 0.999
+
+Invulnerable
+
+Wear 5
+
+Spread_Aim 0.1
+Spread_Hip 0.1
+
+Ballistic_Force 500
+
+Recoil_Min_X 2
+Recoil_Min_Y 5
+Recoil_Max_X 3
+Recoil_Max_Y 8
+
+Recover_X 1
+Recover_Y 1
+
+Shake_Min_X -0.025
+Shake_Min_Y 0.025
+Shake_Min_Z -0.01
+Shake_Max_X 0.025
+Shake_Max_Y -0.025
+Shake_Max_Z -0.02
+
+Reload_Time 1.8
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 13035
+Blueprint_0_Product 67
+Blueprint_0_Products 6
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 3
+
+Projectile_Explosion_Launch_Speed 5
+
+

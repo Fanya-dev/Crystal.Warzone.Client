@@ -1,0 +1,20 @@
+﻿"Metadata"
+{
+	"GUID" "0de1845f85a64c178aef33c09f5505f8"
+	"Type" "SDG.Unturned.ItemCurrencyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ValueFormat" "{0:N0} Coins"
+	"Entries"
+	[
+		{
+			"Item"
+			{
+				"GUID" "525d9130334a437ba18703280f04f0a2"
+			}
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "True"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+GUID 7f99985b7b09447ba61dfe8e9a623d98
+Type Magazine
+Rarity Rare
+ID 55934
+
+Size_X 1
+Size_Y 2
+Size_Z 0.25
+
+Amount 150
+Count_Min 5
+Count_Max 150
+
+Calibers 1
+Caliber_0 52721
+
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 55934
+Blueprint_1_Build 30
+
+
+Paintable

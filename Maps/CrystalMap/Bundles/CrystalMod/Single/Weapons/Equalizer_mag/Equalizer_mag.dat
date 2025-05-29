@@ -1,0 +1,29 @@
+GUID 3584c4b5895442388dfae4177ece4d05
+Type Magazine
+Rarity Rare
+ID 35593
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Amount 60
+Count_Min 40
+Count_Max 60
+
+Calibers 1
+Caliber_0 29377
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 35593
+Blueprint_1_Build 30
+
+Paintable

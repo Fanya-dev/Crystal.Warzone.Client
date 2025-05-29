@@ -1,0 +1,20 @@
+GUID 84cd57df7e484d5bb707c453230f5ff5
+
+Type Shirt
+Rarity Mythical
+Useable Clothing
+ID 49653
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 8
+Height 10
+
+Armor 0.25
+Armor_Explosion 0.1
+
+Should_Drop_On_Death False
+
+Allow_Manual_Drop False

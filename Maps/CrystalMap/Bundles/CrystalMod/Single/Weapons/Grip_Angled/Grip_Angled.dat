@@ -1,0 +1,19 @@
+GUID c5e6eff3f9c14fcd84f407fc58a5c0b4
+Type Grip
+Rarity Rare
+ID 22745
+
+Size_X 1
+Size_Y 2
+Size_Z 0.75
+
+Recoil_X 0.7
+Recoil_Y 0.5
+
+Spread 0.75
+Sway 0.65
+Shake 0.7
+
+Aim_Duration_Multiplier 0.6
+
+Paintable

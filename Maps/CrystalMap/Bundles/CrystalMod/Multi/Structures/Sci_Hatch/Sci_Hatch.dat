@@ -1,0 +1,20 @@
+GUID 85fc6a26f3054e2a8260d7e7f356fe0e
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Hatch
+ID 24312
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Health 15000
+Range 4
+Radius 0.5
+
+Locked
+
+Explosion 36
+
+Bypass_Hash_Verification

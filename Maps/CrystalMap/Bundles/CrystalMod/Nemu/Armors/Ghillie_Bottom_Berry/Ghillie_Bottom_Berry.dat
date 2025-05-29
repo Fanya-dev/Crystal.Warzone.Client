@@ -1,0 +1,29 @@
+GUID 27ec748aa94249d09b7588cbc71ac384
+Type Pants
+Rarity Epic
+Useable Clothing
+ID 6340
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 4
+Height 2
+
+Armor 0.38
+Armor_Explosion 0.8
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 6340
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Build 27
+
+Bypass_Hash_Verification

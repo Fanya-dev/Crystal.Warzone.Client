@@ -1,0 +1,26 @@
+GUID 584213931cf049189d42ed6374cf9083
+Type Magazine
+Rarity Mythical
+ID 41453
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 41443
+
+Player_Damage 9999999
+Zombie_Damage 9999999
+Animal_Damage 9999999
+Barricade_Damage 9999999
+Structure_Damage 9999999
+Vehicle_Damage 9999999
+Resource_Damage 9999999
+Object_Damage 9999999
+
+Tracer 48

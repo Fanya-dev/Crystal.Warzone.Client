@@ -1,0 +1,45 @@
+GUID ff0e05e69013482682ecb3ff22569655
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 13601
+
+Magazine 13607
+
+Ammo_Min 1
+Ammo_Max 5
+
+Safety
+Semi
+
+Caliber 13501
+
+Firerate 10
+Replace 2
+Action Rocket
+
+Player_Damage 230
+Zombie_Damage 300
+Animal_Damage 40
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 1500
+Resource_Damage 2500
+Object_Damage 1000
+
+Range 13
+Explosion 37717
+
+Spread_Aim 0
+Spread_Hip 0
+
+Ballistic_Force 2500
+
+Turret
+
+Asset_Bundle_Version 3
+
+Bypass_Hash_Verification
+
+Projectile_Explosion_Launch_Speed 5

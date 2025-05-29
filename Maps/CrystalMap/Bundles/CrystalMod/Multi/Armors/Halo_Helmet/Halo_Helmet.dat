@@ -1,0 +1,45 @@
+GUID 6b2cdba8ff5344b9a389f13af0354502
+
+Type Hat
+Rarity Mythical
+Useable Clothing
+ID 11924
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Earpiece
+
+Armor 0.1
+Armor_Explosion 0.1
+
+Blueprints 3
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 11924
+Blueprint_0_Supply_1_ID 18658
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 11923
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 17
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 11924
+Blueprint_1_Supply_1_ID 18658
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 11925
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 17
+
+Blueprint_2_Type Supply
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 11924
+Blueprint_2_Supply_1_ID 18658
+Blueprint_2_Outputs 1
+Blueprint_2_Output_0_ID 11926
+Blueprint_2_Output_0_Amount 1
+Blueprint_2_Build 17
+

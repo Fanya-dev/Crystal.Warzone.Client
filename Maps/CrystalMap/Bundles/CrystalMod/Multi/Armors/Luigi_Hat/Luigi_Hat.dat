@@ -1,0 +1,17 @@
+GUID a115d5455aad4bfe960053751684e3a9
+
+Type Hat
+Rarity Epic
+Useable Clothing
+ID 32256
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Beard
+
+Armor 0.35
+Armor_Explosion 0.45
+
+Should_Drop_On_Death False

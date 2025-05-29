@@ -1,0 +1,18 @@
+GUID 581a25502e4a43cebb83f875285e8ab1
+Type Grip
+Rarity Rare
+ID 51793
+
+Size_X 1
+Size_Y 2
+Size_Z 0.2
+
+Recoil_X 0.7
+Recoil_Y 0.4
+
+Calibers 1
+Caliber_0 36255
+
+Spread 0.8
+Sway 0.75
+Shake 0.8

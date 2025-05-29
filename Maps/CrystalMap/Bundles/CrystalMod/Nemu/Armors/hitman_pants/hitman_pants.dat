@@ -1,0 +1,28 @@
+GUID 2cf84e9eea324d6c804d5865246e45c4
+Type Pants
+ID 10046
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 8
+Height 8
+
+Armor 0.33
+Armor_Explosion 0.8
+
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 307
+Blueprint_0_Product 66
+Blueprint_0_Products 3
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Build 32
+
+Bypass_Hash_Verification

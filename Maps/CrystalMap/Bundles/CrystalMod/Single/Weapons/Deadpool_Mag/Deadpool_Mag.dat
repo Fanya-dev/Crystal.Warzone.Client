@@ -1,0 +1,25 @@
+GUID d9591be2ee504bf79f02675ddc84b288
+Type Magazine
+Rarity Mythical
+ID 23925
+
+Size_X 1
+Size_Y 1
+Size_Z 0.275
+
+Amount 14
+Count_Min 3
+Count_Max 14
+
+Calibers 1
+Caliber_0 44987
+
+Tracer 48
+
+Pellets 2
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 30

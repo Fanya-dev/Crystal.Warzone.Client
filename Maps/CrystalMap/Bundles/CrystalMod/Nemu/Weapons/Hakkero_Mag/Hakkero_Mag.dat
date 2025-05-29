@@ -1,0 +1,27 @@
+GUID a5e763e1125e42f3802d7381af49bd86
+Type Magazine
+Rarity Rare
+ID 35875
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Amount 40
+Count_Min 40
+Count_Max 40
+
+Calibers 1
+Caliber_0 5669
+
+Pellets 5
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 35500
+Blueprint_0_Supply_0_Amount 5
+
+Tracer 48
+
+Delete_Empty

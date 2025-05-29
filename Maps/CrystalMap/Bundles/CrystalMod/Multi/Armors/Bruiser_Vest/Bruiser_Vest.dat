@@ -1,0 +1,31 @@
+GUID d97e80ac1a4042b9a83f69ef8da065e5
+Type Vest
+Rarity Legendary
+Useable Clothing
+ID 57978
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Width 4
+Height 7
+
+Armor 0.33
+Armor_Explosion 0.28
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 1169
+Blueprint_0_Product 67
+Blueprint_0_Products 4
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 7
+Blueprint_1_Build 32
+
+Asset_Bundle_Version 3
+
+Should_Drop_On_Death False

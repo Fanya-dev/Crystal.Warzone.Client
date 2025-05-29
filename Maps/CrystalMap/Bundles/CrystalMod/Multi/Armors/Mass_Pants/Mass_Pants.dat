@@ -1,0 +1,15 @@
+GUID f96b39fe451d49bc96239c0a46d9f09e
+Type Pants
+Useable Clothing
+ID 36251
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 4
+Height 8
+
+Armor 0.15
+Armor_Explosion 0.2
+

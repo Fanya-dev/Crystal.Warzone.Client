@@ -1,0 +1,80 @@
+GUID eeef86cf93404e74a6b6f460b51124be
+
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Secondary
+ID 38507
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+Size2_Z 0.5
+
+Magazine 38605
+Tactical 151
+
+Ammo_Min 2
+Ammo_Max 3
+
+Safety
+Semi
+
+Caliber 3812
+
+Range 125
+Firerate 8
+Action Trigger
+Shell 0
+
+Player_Damage 50
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 125
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 99
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 35
+Structure_Damage 30
+Vehicle_Damage 50
+Resource_Damage 40
+Object_Damage 50
+
+Durability 0.6
+Invulnerable
+
+Ballistic_Steps 24
+Ballistic_Travel 12.5
+Ballistic_Drop 0
+
+Spread_Aim 0.05
+Spread_Hip 0.2
+
+Recoil_Min_X -5
+Recoil_Min_Y 15
+Recoil_Max_X -10
+Recoil_Max_Y 20
+
+Recover_X 0.5
+Recover_Y 0.5
+
+Shake_Min_X -0.01
+Shake_Min_Y 0.01
+Shake_Min_Z -0.1
+Shake_Max_X 0.01
+Shake_Max_Y -0.01
+Shake_Max_Z -0.15
+
+Muzzle 42
+
+Bypass_Hash_Verification

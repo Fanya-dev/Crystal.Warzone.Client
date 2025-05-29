@@ -1,0 +1,45 @@
+GUID 1795f772738a42d897f04da964c52daf
+
+Type Vest
+Rarity Mythical
+Useable Clothing
+ID 57240
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Width 10
+Height 7
+
+Armor 0.22
+Armor_Explosion 0.1
+
+Blueprints 3
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 57240
+Blueprint_0_Supply_1_ID 18658
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 57243
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 17
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 57240
+Blueprint_1_Supply_1_ID 18658
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 57242
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 17
+
+Blueprint_2_Type Supply
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 57240
+Blueprint_2_Supply_1_ID 18658
+Blueprint_2_Outputs 1
+Blueprint_2_Output_0_ID 57241
+Blueprint_2_Output_0_Amount 1
+Blueprint_2_Build 17

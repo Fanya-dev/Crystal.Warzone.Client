@@ -1,0 +1,31 @@
+GUID cacc1a9c0e964497a76265864b6346d3
+Type Magazine
+Rarity Epic
+ID 51633
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Amount 60
+Count_Min 50
+Count_Max 60
+
+Calibers 1
+Caliber_0 51712
+
+Tracer 48
+Speed 0.85
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 51633
+Blueprint_1_Build 30
+
+
+Paintable

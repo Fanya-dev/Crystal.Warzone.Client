@@ -1,0 +1,27 @@
+GUID 138e633c4b4c4a40b53f4f585c1cdb2d
+Type Magazine
+Rarity Mythical
+ID 2522
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Amount 50
+Count_Min 50
+Count_Max 50
+
+Calibers 1
+Caliber_0 51732
+
+Tracer 49
+
+Speed 1.28
+
+Should_Drop_On_Death False
+
+Allow_Manual_Drop False
+
+Should_Fill_After_Detach True
+
+Exclude_From_Master_Bundle

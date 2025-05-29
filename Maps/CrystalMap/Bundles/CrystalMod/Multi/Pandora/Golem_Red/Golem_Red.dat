@@ -1,0 +1,19 @@
+GUID 0ed9fc9dcfe84895afddaba67a094dfb
+Type Animal
+ID 37236
+
+Speed_Run 7
+Speed_Walk 4
+
+Behaviour Offense
+
+Health 10000
+Regen 0.2
+Damage 100
+
+Reward_ID 523
+Reward_XP 30
+Reward_Min 3
+Reward_Max 4
+
+Roars 3

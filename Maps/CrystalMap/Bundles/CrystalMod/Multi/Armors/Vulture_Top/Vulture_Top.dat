@@ -1,0 +1,25 @@
+GUID 3a25788986b64df28de39ac7c55dc5ab
+
+Type Shirt
+Rarity Mythical
+Useable Clothing
+ID 17577
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 14
+Height 8
+
+Armor 0.28
+Armor_Explosion 0.27
+
+Has_1P_Character_Mesh_Override True
+Character_Mesh_3P_Override_LODs 1
+Has_Character_Material_Override False
+
+Beard_Visible False
+Hair_Visible False
+
+Asset_Bundle_Version 3

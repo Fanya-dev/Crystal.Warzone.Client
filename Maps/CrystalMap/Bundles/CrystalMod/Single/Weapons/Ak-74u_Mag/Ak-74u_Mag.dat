@@ -1,0 +1,26 @@
+GUID b17460988c164d36a1fd6f5a26bc3f71
+Type Magazine
+Rarity Rare
+ID 26439
+
+Size_X 1
+Size_Y 2
+Size_Z 0.275
+
+Amount 30
+Count_Min 5
+Count_Max 30
+
+Calibers 1
+Caliber_0 25931
+
+Tracer 48
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 26439
+Blueprint_0_Build 30
+
+
+Paintable

@@ -1,0 +1,22 @@
+GUID 659b25187f6a4a0594043164ffa3f67c
+
+Type Shirt
+Useable Clothing
+ID 52243
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 10
+Height 8
+
+Armor 0.24
+Armor_Explosion 0.25
+
+Has_1P_Character_Mesh_Override True
+Character_Mesh_3P_Override_LODs 1
+Has_Character_Material_Override True
+
+Beard_Visible False
+Hair_Visible False

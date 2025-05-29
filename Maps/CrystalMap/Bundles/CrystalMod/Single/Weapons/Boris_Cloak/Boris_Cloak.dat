@@ -1,0 +1,17 @@
+GUID 6d55897304f74b039c3e36f46ffe22f8
+Type Shirt
+Rarity Epic
+Useable Clothing
+ID 17622
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Has_1P_Character_Mesh_Override True
+Character_Mesh_3P_Override_LODs 1
+Has_Character_Material_Override True
+
+Beard_Visible False
+
+Bypass_Hash_Verification

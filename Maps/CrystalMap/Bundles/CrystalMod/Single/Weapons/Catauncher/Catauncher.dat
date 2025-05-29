@@ -1,0 +1,61 @@
+GUID 46db3b0edcaa4229abb2a616d5ead018
+
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 57755
+
+Size_X 5
+Size_Y 2
+Size_Z 0.45
+Size2_Z 0.7
+
+
+Magazine 57756
+
+
+Ammo_Min 1
+Ammo_Max 1
+
+Safety
+Semi
+
+Caliber 26668
+
+Firerate 1
+Replace 2
+Action Rocket
+
+Fire_Delay_Seconds 0.8
+
+
+Player_Damage 1000
+Zombie_Damage 200
+Animal_Damage 200
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 5000
+Resource_Damage 9999
+Object_Damage 100
+
+Range 100
+Explosion 45458
+
+Spread_Aim 0.2
+Spread_Hip 0.05
+
+Ballistic_Force 6000
+
+Recoil_Min_X -3
+Recoil_Min_Y 3
+Recoil_Max_X 3
+Recoil_Max_Y 5
+
+Recover_X 0.7
+Recover_Y 0.7
+
+
+Reload_time 2
+
+Projectile_Explosion_Launch_Speed 20

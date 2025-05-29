@@ -1,0 +1,19 @@
+GUID 4c94a2f199054368a54e9a9d58785d9f
+
+Type Hat
+Rarity Mythical
+Useable Clothing
+ID 49651
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Earpiece
+
+Armor 0.1
+Armor_Explosion 0.1
+
+Should_Drop_On_Death False
+
+Allow_Manual_Drop False

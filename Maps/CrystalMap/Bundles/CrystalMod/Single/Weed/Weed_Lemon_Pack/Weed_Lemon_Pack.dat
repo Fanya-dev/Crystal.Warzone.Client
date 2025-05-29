@@ -1,0 +1,18 @@
+GUID 4061e1d4805446a98a8e013c73e47f30
+Type Supply
+Rarity Mythical
+ID 33251
+
+Size_X 2
+Size_Y 2
+Size_Z 0.8
+
+Blueprints 1
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 33251
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 33126
+Blueprint_0_Output_0_Amount 3

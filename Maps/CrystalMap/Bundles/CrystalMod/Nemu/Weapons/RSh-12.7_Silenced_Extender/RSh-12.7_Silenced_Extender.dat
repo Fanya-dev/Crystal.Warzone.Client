@@ -1,0 +1,27 @@
+GUID d24e70be525747fca0b3eaf4e3157426
+Type Barrel
+ID 6087
+
+Size_X 3
+Size_Y 1
+Size_Z 0.3
+
+Calibers 1
+Caliber_0 226
+
+Braked
+Silenced 
+Volume 0.5
+
+Recoil_X 0.9
+Recoil_Y 0.9
+
+Damage 0.8
+Spread 0.9
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 6054
+Blueprint_0_Supply_1_ID 6055
+Blueprint_0_Build 27

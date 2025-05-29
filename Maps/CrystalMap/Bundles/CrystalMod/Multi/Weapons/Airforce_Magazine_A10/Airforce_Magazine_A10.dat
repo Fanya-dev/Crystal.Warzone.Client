@@ -1,0 +1,28 @@
+GUID 4b3e74933745449d96edab1f32faaf3b
+
+Type Magazine
+Rarity Uncommon
+ID 41342
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Amount 1
+
+Range 1
+Player_Damage 0
+Zombie_Damage 0
+Animal_Damage 0
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 20
+Explosion 41345
+Explosive
+
+Calibers 1
+Caliber_0 41243
+
+Asset_Bundle_Version 2

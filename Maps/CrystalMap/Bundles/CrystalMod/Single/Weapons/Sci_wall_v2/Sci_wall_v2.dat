@@ -1,0 +1,22 @@
+GUID 109e6b153fff4e8a93adbf1f61737bd2
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 58974
+
+Size_X 1
+Size_Y 1
+Size_Z 0.7
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 35501
+Blueprint_0_Supply_0_Amount 3
+
+Health 30000
+Range 4
+Radius 0.5
+Offset 1.25
+
+Explosion 28

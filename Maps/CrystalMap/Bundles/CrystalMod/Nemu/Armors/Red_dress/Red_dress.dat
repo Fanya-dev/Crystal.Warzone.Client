@@ -1,0 +1,17 @@
+GUID e358792ee82443beba6f8153fe1f9a81
+Type Vest
+Rarity Rare
+Useable Clothing
+ID 39500
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 6
+Height 4
+
+Armor 0.26
+Armor_Explosion 0.6
+
+Bypass_Hash_Verification

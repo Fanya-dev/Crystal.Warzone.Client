@@ -1,0 +1,48 @@
+GUID e696fa4608a84bfc8280ff7ad97421c1
+Type Supply
+Rarity Epic
+ID 57690
+
+Size_X 6
+Size_Y 4
+Size_Z 1.6
+
+Blueprints 2
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 7
+Blueprint_0_Supply_0_ID 58617
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 58618
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 58619
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 58616
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Supply_4_ID 58620
+Blueprint_0_Supply_4_Amount 1
+Blueprint_0_Supply_5_ID 58615
+Blueprint_0_Supply_5_Amount 1
+Blueprint_0_Supply_6_ID 58614
+Blueprint_0_Supply_6_Amount 1
+Blueprint_0_Build 17
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 57690
+Blueprint_1_Outputs 7
+Blueprint_1_Output_0_ID 58617
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Output_1_ID 58618
+Blueprint_1_Output_1_Amount 1
+Blueprint_1_Output_2_ID 58619
+Blueprint_1_Output_2_Amount 1
+Blueprint_1_Output_3_ID 58616
+Blueprint_1_Output_3_Amount 1
+Blueprint_1_Output_4_ID 58620
+Blueprint_1_Output_4_Amount 1
+Blueprint_1_Output_5_ID 58615
+Blueprint_1_Output_5_Amount 1
+Blueprint_1_Output_6_ID 58614
+Blueprint_1_Output_6_Amount 1
+Blueprint_1_Build 17

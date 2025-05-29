@@ -1,0 +1,25 @@
+GUID 2ccdd873f57d43c4b2eb5de09be652f6
+Type Magazine
+Rarity Mythical
+ID 45946
+
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Amount 10
+Count_Min 1
+Count_Max 10
+
+Calibers 1
+Caliber_0 15628
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 1192
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 45946
+Blueprint_1_Build 30

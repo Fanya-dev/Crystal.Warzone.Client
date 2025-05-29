@@ -1,0 +1,25 @@
+GUID 6f1913a3c1684eaa99bc97d2f85df019
+Type Supply
+ID 59917
+
+Size_X 4
+Size_Y 2
+Size_Z 0.5
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59917
+Blueprint_0_Outputs 5
+Blueprint_0_Output_0_ID 46254
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 46255
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 46256
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Output_3_ID 46257
+Blueprint_0_Output_3_Amount 1
+Blueprint_0_Output_4_ID 59482
+Blueprint_0_Output_4_Amount 1
+Blueprint_0_Build 27
+

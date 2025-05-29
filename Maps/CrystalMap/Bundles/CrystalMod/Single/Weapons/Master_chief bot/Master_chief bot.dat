@@ -1,0 +1,19 @@
+GUID 670ae55b4d994069985af59c186d6e73
+Type Pants
+Rarity Mythical
+Useable Clothing
+ID 42615
+
+Size_X 3
+Size_Y 2
+Size_Z 0.65
+
+Width 6
+Height 4
+
+Armor 0.2
+Armor_Explosion 0.4
+
+Asset_Bundle_Version 2
+
+Bypass_Hash_Verification

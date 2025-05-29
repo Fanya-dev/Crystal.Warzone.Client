@@ -1,0 +1,17 @@
+GUID 4cc8d681bf6a48698a32007e9d173d07
+
+Type Medical
+Rarity Legendary
+Useable Consumeable
+ID 19191
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Aid
+Bleeding
+Broken
+Health 100
+
+Should_Drop_On_Death False

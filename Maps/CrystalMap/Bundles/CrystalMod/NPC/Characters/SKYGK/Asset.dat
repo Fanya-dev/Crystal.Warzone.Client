@@ -1,0 +1,20 @@
+GUID 5df51b3508b4469482583d651a74dcc3
+
+
+Type NPC
+ID 32223
+
+Shirt 52622
+Pants 52623
+Hat 52620
+Vest 52621
+
+
+Primary 52451
+Equipped Primary
+
+Face 14
+Color_Skin #F7E8D0
+Color_Hair #464442
+
+Dialogue 15252

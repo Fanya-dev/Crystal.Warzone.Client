@@ -1,0 +1,24 @@
+GUID 6b0e1b42dc9c4eacae7d5d6ff82fc1f3
+
+Type Storage
+Rarity Legendary
+Useable Barricade
+Build Storage
+ID 16256
+
+Size_X 3
+Size_Y 3
+Size_Z 0.8
+
+Health 1000
+Range 5
+Radius 0.1
+Offset 0.75
+
+Storage_X 8
+Storage_Y 20
+
+Explosion 36
+
+
+Should_Close_When_Outside_Range true

@@ -1,0 +1,17 @@
+GUID 28c351c1cce4425a82ff31d6483dd9fe
+Type Structure
+Rarity Epic
+Useable Structure
+Construct Roof
+ID 43564
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 15000
+Range 8
+
+Explosion 36
+
+Bypass_Hash_Verification

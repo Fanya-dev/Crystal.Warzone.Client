@@ -1,0 +1,17 @@
+GUID 560d30e75e414bd4b83bb6d9704c2e6a
+Type Barrel
+ID 22740
+
+Size_X 2
+Size_Y 1
+Size_Z 0.75
+
+Braked
+Volume 0.8
+
+Recoil_X 0.9
+Recoil_Y 0.9
+
+Ballistic_Damage_Multiplier 1.02
+
+Spread 0.75

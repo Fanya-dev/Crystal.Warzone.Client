@@ -1,0 +1,20 @@
+GUID d27660985df14bc9bedbd985cac5efb2
+Type Barrel
+ID 61845
+
+Size_X 3
+Size_Y 1
+Size_Z 0.3
+
+Calibers 1
+Caliber_0 46881
+
+Braked
+Silenced 
+Volume 0.5
+
+Recoil_X 0.8
+Recoil_Y 0.8
+
+Spread 0.75
+Ballistic_Damage_Multiplier 1.4

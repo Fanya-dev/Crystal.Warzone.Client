@@ -1,0 +1,20 @@
+GUID 0357571776de4b5fbfbfe9f9cf02a998
+Type Magazine
+Rarity Mythical
+ID 31753
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 15656
+
+Tracer 48
+
+
+Paintable

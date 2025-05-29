@@ -1,0 +1,20 @@
+﻿"Metadata"
+{
+	"GUID" "84cef6982bd54aab876c8d63d101f0dd"
+	"Type" "SDG.Unturned.ItemCurrencyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ValueFormat" "{0:N0} Gold TvT Cup"
+	"Entries"
+	[
+		{
+			"Item"
+			{
+				"GUID" "49c0bad016134cee91f06034b055af5d"
+			}
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "True"
+		}
+	]
+}

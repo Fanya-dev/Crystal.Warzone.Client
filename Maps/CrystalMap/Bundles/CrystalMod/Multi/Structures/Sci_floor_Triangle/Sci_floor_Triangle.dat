@@ -1,0 +1,17 @@
+GUID 10f28a547fd14bc8aca1a5b3ac8426db
+Type Structure
+Rarity Epic
+Useable Structure
+Construct Floor_Poly
+ID 43378
+
+Size_X 2
+Size_Y 2
+Size_Z 0.325
+
+Health 15000
+Range 8
+
+Explosion 36
+
+Bypass_Hash_Verification

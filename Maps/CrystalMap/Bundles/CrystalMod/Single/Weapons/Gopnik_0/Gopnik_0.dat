@@ -1,0 +1,25 @@
+GUID 4ac0dc0c09e24fa895bb59d533b80825
+
+Type Animal
+ID 12565
+
+Speed_Run 6
+Speed_Walk 1.5
+
+Behaviour Offense
+
+Health 200
+Regen 0.2
+Damage 50
+
+Reward_ID 525
+Reward_XP 30
+Reward_Min 1
+Reward_Max 3
+
+Attack_Anim_Variants 4
+Eat_Anim_Variants 4
+
+Roars 11
+
+Asset_Bundle_Version 3

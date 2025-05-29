@@ -1,0 +1,27 @@
+GUID 7accf703a0884fe9bf27003628b13596
+
+Type Storage
+Rarity Legendary
+Useable Barricade
+Build Storage
+ID 51447
+
+Size_X 3
+Size_Y 3
+Size_Z 0.8
+
+Health 50000
+Range 5
+Radius 0.1
+Offset 0.95
+
+Storage_X 10
+Storage_Y 16
+
+Locked
+
+Explosion 36
+
+Should_Close_When_Outside_Range true
+
+Bypass_Hash_Verification 

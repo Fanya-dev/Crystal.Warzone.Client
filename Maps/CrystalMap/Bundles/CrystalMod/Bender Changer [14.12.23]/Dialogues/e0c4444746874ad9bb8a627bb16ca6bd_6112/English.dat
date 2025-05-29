@@ -1,0 +1,4 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 Hi, do you want to change your clothes?
+Response_0 <color=#008000>Go</color>
+Response_1 <color=#FF0000>No</color>

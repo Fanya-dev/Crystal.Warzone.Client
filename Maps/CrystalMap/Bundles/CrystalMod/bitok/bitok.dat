@@ -1,0 +1,21 @@
+GUID 65e196f24469416c806bf8b358085e4b
+Type Spawn
+ID 3576
+
+Tables 8
+Table_0_Asset_ID 1
+Table_0_Weight 75
+Table_1_Asset_ID 12353
+Table_1_Weight 70
+Table_2_Asset_ID 67
+Table_2_Weight 65
+Table_3_Asset_ID 38
+Table_3_Weight 60
+Table_4_Asset_ID 75
+Table_4_Weight 50
+Table_5_Asset_ID 12351
+Table_5_Weight 50
+Table_6_Asset_ID 12352
+Table_6_Weight 42
+Table_7_Asset_ID 12350
+Table_7_Weight 35

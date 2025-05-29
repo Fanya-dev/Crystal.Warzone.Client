@@ -1,0 +1,17 @@
+GUID 478ead0f1a07444fb72a98658c7f460b
+Type Structure
+Rarity Rare
+Useable Structure
+Construct Wall
+ID 43376
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Health 15000
+Range 8
+
+Explosion 29
+
+Bypass_Hash_Verification

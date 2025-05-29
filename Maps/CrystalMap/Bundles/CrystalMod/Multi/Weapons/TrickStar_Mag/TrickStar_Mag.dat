@@ -1,0 +1,36 @@
+GUID 8f10b0fcf87f4beabfdafe12e29bf792
+Type Magazine
+Rarity Mythical
+ID 47731
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+Size2_Z 0.3
+
+Amount 5
+Count_Min 1
+Count_Max 5
+
+Calibers 1
+Caliber_0 29002
+
+Range 1
+Player_Damage 30
+Zombie_Damage 100
+Animal_Damage 100
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 100
+Resource_Damage 100
+Object_Damage 125
+Explosion 12933
+Explosive
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 47731
+Blueprint_0_Build 30
+
+Explosion_Launch_Speed 0

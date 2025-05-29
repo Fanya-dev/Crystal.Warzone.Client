@@ -1,0 +1,46 @@
+GUID bb21889f61ea464998a4e3a615b8493e
+
+Type Quest
+ID 33296
+
+Conditions 3
+
+Condition_0_Type Kills_Zombie
+Condition_0_ID 12488
+Condition_0_Value 200
+Condition_0_Nav 8
+Condition_0_Reset
+Condition_1_Type Kills_Zombie
+Condition_1_ID 242
+Condition_1_Value 1
+Condition_1_Zombie Boss_Magma
+Condition_1_Spawn
+Condition_1_Nav 7
+Condition_1_Reset
+Condition_2_Type Item
+Condition_2_ID 1452
+Condition_2_Amount 10
+Condition_2_Reset
+
+Rewards 2
+
+Reward_0_Type Item
+Reward_0_ID 15176
+Reward_0_Amount 1
+
+Reward_1_Type Item
+Reward_1_ID 15177
+Reward_1_Amount 1
+
+
+
+
+
+
+
+
+
+
+
+
+

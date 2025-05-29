@@ -1,0 +1,22 @@
+GUID ab41cbf545fc4c7ba5d9d2db609d6f29
+Type Shirt
+Useable Clothing
+ID 63642
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 8
+Height 6
+
+Armor 0.22
+Armor_Explosion 0.4
+
+Has_1P_Character_Mesh_Override True
+Character_Mesh_3P_Override_LODs 1
+Has_Character_Material_Override True
+
+Beard_Visible False
+Hair_Visible False
+

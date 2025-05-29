@@ -1,0 +1,15 @@
+﻿// Made in NPC Maker by BowieD
+GUID 114f2043c0b34a3eb1c9eea73c0ab9a5
+ID 2394
+Type NPC
+Shirt 46256
+Pants 46254
+Vest 46257
+Hat 278
+Face 10
+Beard 0
+Hair 0
+Color_Skin #BEA582
+Color_Hair #BEA582
+Pose Sit
+Pose_Lean 0.2279191

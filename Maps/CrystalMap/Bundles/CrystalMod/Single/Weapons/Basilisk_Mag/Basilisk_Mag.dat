@@ -1,0 +1,28 @@
+GUID abf4eb031ed24b1a9227946e6a1d3ac2
+Type Magazine
+Rarity Mythical
+ID 31612
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Amount 250
+Count_Min 50
+Count_Max 250
+
+Calibers 1
+Caliber_0 59122
+
+Pellets 3
+
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 31612
+Blueprint_1_Build 30

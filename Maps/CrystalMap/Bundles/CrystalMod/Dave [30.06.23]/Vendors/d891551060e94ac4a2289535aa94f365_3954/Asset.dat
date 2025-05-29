@@ -1,0 +1,35 @@
+﻿// Made in NPC Maker by BowieD
+GUID d891551060e94ac4a2289535aa94f365
+Type Vendor
+ID 3954
+Selling 14
+Selling_0_ID 25985
+Selling_0_Cost 3
+Selling_1_ID 41924
+Selling_1_Cost 6
+Selling_2_ID 16837
+Selling_2_Cost 4
+Selling_3_ID 54243
+Selling_3_Cost 2
+Selling_4_ID 56761
+Selling_4_Cost 1
+Selling_5_ID 12349
+Selling_5_Cost 1
+Selling_6_ID 55110
+Selling_6_Cost 1
+Selling_7_ID 55111
+Selling_7_Cost 1
+Selling_8_ID 55112
+Selling_8_Cost 1
+Selling_9_ID 55113
+Selling_9_Cost 1
+Selling_10_ID 50042
+Selling_10_Cost 2
+Selling_11_ID 50047
+Selling_11_Cost 1
+Selling_12_ID 50048
+Selling_12_Cost 1
+Selling_13_ID 50049
+Selling_13_Cost 1
+Disable_Sorting
+Currency 2c97e87692ab474c8d6918d83a2fec17

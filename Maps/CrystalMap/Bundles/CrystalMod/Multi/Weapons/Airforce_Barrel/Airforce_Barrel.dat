@@ -1,0 +1,19 @@
+GUID 399ef1d934d24397868bd61dfb60911b
+Type Barrel
+ID 11827
+
+Size_X 3
+Size_Y 1
+Size_Z 0.3
+
+Calibers 1
+Caliber_0 41243
+
+Braked
+Silenced 
+Volume 0.25
+
+Recoil_X 0
+Recoil_Y 0
+
+Spread 0.1

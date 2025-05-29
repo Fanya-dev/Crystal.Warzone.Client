@@ -1,0 +1,78 @@
+GUID cb81e2b29e0844c1a1b51bbf49f2bb83
+Type Gun
+Rarity Rare
+Useable Gun
+Slot Primary
+ID 16832
+
+Size_X 4
+Size_Y 2
+Size_Z 0.8
+Size2_Z 0.8
+
+Magazine 16833
+Sight 16834
+
+Hook_Sight
+Hook_Tactical
+Hook_Grip
+Hook_Barrel
+
+Ammo_Min 60
+Ammo_Max 150
+
+Safety
+Auto
+Semi
+Bursts 3
+
+Caliber 54621
+
+Range 350
+Firerate 4
+Action Trigger
+
+Player_Damage 80
+Player_Leg_Multiplier 0.5
+Player_Arm_Multiplier 0.5
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 1.2
+
+Zombie_Damage 99
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 40
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 20
+Structure_Damage 15
+Vehicle_Damage 35
+Resource_Damage 15
+Object_Damage 25
+
+Durability 0.2
+
+Spread_Aim 0.05
+Spread_Hip 0.1
+
+Recoil_Min_X 0.5
+Recoil_Min_Y 3
+Recoil_Max_X 1.5
+Recoil_Max_Y 4
+
+Recover_X 0.4
+Recover_Y 0.4
+
+Shake_Min_X -0.0025
+Shake_Min_Y 0.0025
+Shake_Min_Z -0.01
+Shake_Max_X 0.0025
+Shake_Max_Y -0.0025
+Shake_Max_Z -0.02
+
+Muzzle 3

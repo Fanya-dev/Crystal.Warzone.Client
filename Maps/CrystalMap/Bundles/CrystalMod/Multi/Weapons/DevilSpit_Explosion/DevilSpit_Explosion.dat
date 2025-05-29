@@ -1,0 +1,16 @@
+GUID 60295b53553f47398cf7ddf600a3c0db
+
+Type Effect
+ID 44952
+
+Lifetime 6
+Lifetime_Spread 0
+
+Splatter 1
+Splatters 32
+Splatter_Liquid
+Splatter_Temperature Burning
+Splatter_Lifetime 6
+Splatter_Lifetime_Spread 1
+
+Asset_Bundle_Version 3

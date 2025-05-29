@@ -1,0 +1,26 @@
+GUID f1f2f5c5189847a99a2536150ccc115d
+
+Type Supply
+ID 40310
+
+Size_X 4
+Size_Y 2
+Size_Z 0.5
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 40310
+Blueprint_0_Outputs 5
+Blueprint_0_Output_0_ID 11923
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 11924
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 11925
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Output_3_ID 11926
+Blueprint_0_Output_3_Amount 1
+Blueprint_0_Output_4_ID 53924
+Blueprint_0_Output_4_Amount 1
+Blueprint_0_Build 27
+

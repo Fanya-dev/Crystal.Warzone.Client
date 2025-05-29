@@ -1,0 +1,45 @@
+GUID 8b1fa745e85c443d896bdb20a0dae0c7
+Type Hat
+Rarity Mythical
+Useable Clothing
+ID 10700
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+
+Armor 0.17
+Armor_Explosion 0.1
+
+
+Exclude_From_Master_Bundle
+
+Blueprints 3
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 10700
+Blueprint_0_Supply_1_ID 12461
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 10703
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 17
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 10700
+Blueprint_1_Supply_1_ID 12461
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 10702
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 17
+
+Blueprint_2_Type Supply
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 10700
+Blueprint_2_Supply_1_ID 12461
+Blueprint_2_Outputs 1
+Blueprint_2_Output_0_ID 10701
+Blueprint_2_Output_0_Amount 1
+Blueprint_2_Build 17

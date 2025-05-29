@@ -1,0 +1,31 @@
+GUID 4c4f9920c44847e9840143042cd2ac60
+Type Magazine
+Rarity Rare
+ID 35135
+
+Size_X 2
+Size_Y 1
+Size_Z 0.14
+
+Amount 120
+Count_Min 6
+Count_Max 120
+
+Calibers 1
+Caliber_0 51501
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 44
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 35135
+Blueprint_1_Build 30
+
+Should_Drop_On_Death False
+
+Allow_Manual_Drop False

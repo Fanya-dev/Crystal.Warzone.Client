@@ -1,0 +1,38 @@
+GUID b9cae797222b469ebcf63d01e76abaed
+Type Charge
+Rarity Legendary
+Useable Barricade
+Build Charge
+ID 57060
+
+Size_X 2
+Size_Y 3
+Size_Z 0.6
+Size2_Z 0.65
+
+Health 5
+Range 7
+Offset 0.05
+
+Player_Damage 9999
+Zombie_Damage 9999
+Animal_Damage 9999
+
+Barricade_Damage 8500
+Structure_Damage 8500
+Vehicle_Damage 9999
+Resource_Damage 9999
+Object_Damage 9999
+
+Range2 30
+Explosion2 45
+
+Explosion 31755
+Vulnerable
+Unrepairable
+Proof_Explosion
+
+
+Explosion_Launch_Speed 10
+
+Allow_Placement_Inside_Clip_Volumes False

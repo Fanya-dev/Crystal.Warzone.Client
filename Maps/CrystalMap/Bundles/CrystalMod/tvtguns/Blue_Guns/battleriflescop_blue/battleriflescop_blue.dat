@@ -1,0 +1,18 @@
+GUID 3c18bf172ec04d2f87537dc35f767dd4
+Type Sight
+Rarity Mythical
+ID 2420
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+
+Paintable
+Asset_Bundle_Version 3
+
+Should_Drop_On_Death False
+
+Allow_Manual_Drop False
+
+Exclude_From_Master_Bundle

@@ -1,0 +1,4 @@
+Name Kill 150 zombies at Chao Hut
+Description <color=rare>Doc</color> wants you to kill 150 zombies at Chao Hut.
+
+Condition_0 Kill 150 zombies at Chao Hut {0}/{1}

@@ -1,0 +1,48 @@
+GUID 56fcc372071c485ca716bcc24e46f0f1
+Type Charge
+Rarity Legendary
+Useable Barricade
+Build Charge
+ID 23335
+
+Size_X 2
+Size_Y 2
+Size_Z 0.8
+
+Health 1
+Range 4
+Offset 0.05
+
+Player_Damage 600
+Zombie_Damage 3500
+Animal_Damage 3500
+Barricade_Damage 12000
+Structure_Damage 12000
+Vehicle_Damage 3500
+Resource_Damage 3500
+Object_Damage 3500
+
+Range2 18
+Explosion2 31755
+
+Explosion 36
+Vulnerable
+Unrepairable
+Proof_Explosion
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 1241
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 32
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 35500
+Blueprint_1_Supply_0_Amount 3
+
+Explosion_Launch_Speed 5
+
+Allow_Placement_Inside_Clip_Volumes False

@@ -1,0 +1,17 @@
+GUID 8bb6e626c06f4d8783947346742511f4
+Type Structure
+Rarity Epic
+Useable Structure
+Construct Roof_Poly
+ID 47727
+
+Size_X 2
+Size_Y 2
+Size_Z 0.325
+
+Health 15000
+Range 8
+
+Explosion 36
+
+Bypass_Hash_Verification

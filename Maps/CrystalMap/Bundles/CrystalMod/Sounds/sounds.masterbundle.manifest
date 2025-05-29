@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 384155929
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e17b0327e238942a27930e632783948
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 06b3c4882d380e5fe8ce10e0f2e14683
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Bundles/Sounds/illbepoppin/Effect.prefab
+- Assets/Sounds/Bundles/Sounds/tyagi/Effect.prefab
+- Assets/Sounds/Bundles/Sounds/podkovan/Effect.prefab
+- Assets/Sounds/Bundles/Sounds/shotiphone/Effect.prefab
+- Assets/Sounds/Bundles/Sounds/trahalivkabine/Effect.prefab
+- Assets/Sounds/Bundles/Sounds/danynaxui/Effect.prefab
+- Assets/Sounds/Bundles/Sounds/Schnip-schnapi/Effect.prefab
+- Assets/Sounds/Bundles/Sounds/sharishvteme/Effect.prefab
+- Assets/Sounds/Bundles/Sounds/klubnika/Effect.prefab
+Dependencies: []

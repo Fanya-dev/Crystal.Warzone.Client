@@ -1,0 +1,72 @@
+﻿// Made in NPC Maker by BowieD
+GUID 4b51c2621f7944d28a8908c0889a01f5
+Type Dialogue
+ID 24002
+Messages 4
+Message_0_Pages 1
+Message_0_Responses 2
+Message_0_Response_0 0
+Message_0_Response_1 3
+Message_0_Conditions 1
+Message_0_Condition_0_Type Quest
+Message_0_Condition_0_ID 25000
+Message_0_Condition_0_Status None
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Ignore_NPC False
+
+Message_1_Pages 1
+Message_1_Responses 2
+Message_1_Response_0 2
+Message_1_Response_1 3
+Message_1_Conditions 1
+Message_1_Condition_0_Type Quest
+Message_1_Condition_0_ID 25000
+Message_1_Condition_0_Status Active
+Message_1_Condition_0_Logic Equal
+Message_1_Condition_0_Ignore_NPC False
+
+Message_2_Pages 1
+Message_2_Responses 2
+Message_2_Response_0 1
+Message_2_Response_1 3
+Message_2_Conditions 1
+Message_2_Condition_0_Type Quest
+Message_2_Condition_0_ID 25000
+Message_2_Condition_0_Status Ready
+Message_2_Condition_0_Logic Equal
+Message_2_Condition_0_Ignore_NPC False
+
+Message_3_Pages 1
+Message_3_Responses 1
+Message_3_Response_0 3
+Message_3_Conditions 1
+Message_3_Condition_0_Type Quest
+Message_3_Condition_0_ID 25000
+Message_3_Condition_0_Status Completed
+Message_3_Condition_0_Logic Equal
+Message_3_Condition_0_Ignore_NPC False
+Message_3_Condition_0_Reset 
+
+Responses 4
+Response_0_Messages 1
+Response_0_Message_0 0
+Response_0_Dialogue 24000
+Response_0_Quest 25000
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 25000
+
+Response_1_Messages 1
+Response_1_Message_0 2
+Response_1_Dialogue 24001
+Response_1_Quest 25000
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 25000
+Response_1_Condition_0_Status Ready
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_Ignore_NPC False
+Response_1_Condition_0_Reset 
+
+Response_2_Messages 1
+Response_2_Message_0 1

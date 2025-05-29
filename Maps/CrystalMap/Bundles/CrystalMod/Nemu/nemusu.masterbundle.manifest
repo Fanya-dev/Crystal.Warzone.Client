@@ -1,0 +1,711 @@
+ManifestFileVersion: 0
+CRC: 3221793775
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a7a02db9a18787cbc7fd6c8fc82750c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 809acc88f85018869466758741a64f84
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e41552cceb47eae4680dd39123ca4e1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/NemusuMasterBundle/Armors/Ghillie_Bottom_Berry/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Maple/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/1DSMG/Equip.wav
+- Assets/NemusuMasterBundle/Misc/Batjet/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Vest_Level1/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/Microgun/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/bandit_mg3_50/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Kestrel_Scope/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_groza/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/m2_mag/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/3_IronCurtain/Equip.wav
+- Assets/NemusuMasterBundle/Weapons/bandit_groza_20/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Tron_Disc/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/AWP/Hammer.wav
+- Assets/NemusuMasterBundle/Armors/Red-Backequip/Backpack.prefab
+- Assets/NemusuMasterBundle/Weapons/honeybadger_suppressor/Barrel.prefab
+- Assets/NemusuMasterBundle/Weapons/Blood_Dragon/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/1DSMG_acc/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/rsh-12.7_5/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/VSSK_Forest_Suppressor/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Panther/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/honeybadger_suppressor/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/ntw-20_urban/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_vector/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/BarrelMagicMedium/Barrel.prefab
+- Assets/NemusuMasterBundle/Armors/Ghillie_Top_Berry/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/ntw-20_urban/Aim.wav
+- Assets/NemusuMasterBundle/Weapons/Desert_Eagle/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_m27/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_vertical_grip/Grip.prefab
+- Assets/NemusuMasterBundle/Weapons/1DSMG_particle/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_m60/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/bandit_m27_sight/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/2bounceball/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Pubg pants/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/Scorpion_Drum/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Oof_Barrel/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Tron_Disc/Vest.prefab
+- Assets/NemusuMasterBundle/Weapons/suppressor_50/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Type99/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/aug/Reload.wav
+- Assets/NemusuMasterBundle/Armors/Luke_top/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/rsh-12.7/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Recon_Pants/Material.mat
+- Assets/NemusuMasterBundle/Weapons/vssk_forest_bipod/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Flex_Down/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Tiger_Boonie/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/FNAF2/Mask.prefab
+- Assets/NemusuMasterBundle/Weapons/Millitary_Magazine/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Vest_Level1/Vest.prefab
+- Assets/NemusuMasterBundle/Misc/S-mine/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/Mini Detonator/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/XR-9_Vaporizor_150/Magazine.prefab
+- Assets/NemusuMasterBundle/Armors/Esketit shirt/Shirt.png
+- Assets/NemusuMasterBundle/Weapons/Panther/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Ghillie_Hood_Berry/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Red-Backequip/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/3_IronCurtain/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Pubg pants/Material.mat
+- Assets/NemusuMasterBundle/Weapons/vssk_forest/Animations.prefab
+- Assets/NemusuMasterBundle/Misc/Admin_Glass/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/3penny/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/Hakkero/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/FNAF4/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/1Ashen Embrace/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Jug_Top/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/suppressor_50/Barrel.prefab
+- Assets/NemusuMasterBundle/Armors/Flex_Up/Material.mat
+- Assets/NemusuMasterBundle/Weapons/Panther/Hammer.wav
+- Assets/NemusuMasterBundle/Armors/Ghillie_Vest_Berry/Vest.prefab
+- Assets/NemusuMasterBundle/Armors/Red-Backequip/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/2Admiral/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/suppressor_50/Shoot.wav
+- Assets/NemusuMasterBundle/Misc/S-mine/Nav.prefab
+- Assets/NemusuMasterBundle/Armors/Flex_Up/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Ghillie_Bottom_Berry/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/1robot/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Recon_Straps/Backpack.prefab
+- Assets/NemusuMasterBundle/Weapons/Nokia/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Desert_Eagle_Mag/Magazine.prefab
+- Assets/NemusuMasterBundle/Misc/Sentry/Clip.prefab
+- Assets/NemusuMasterBundle/Weapons/3-EnergyCell/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/Scorpion/Shoot.wav
+- Assets/NemusuMasterBundle/Armors/BNK_Locks_Rainbow/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/1DSMG_silenced/Aim.wav
+- Assets/NemusuMasterBundle/Misc/Batjet/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Ghillie_Bottom_Berry/Ghillie_Bottom_Berry.mat
+- Assets/NemusuMasterBundle/Weapons/Ingram/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/BarrelMagicMedium/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Jug_Bottom/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_asval_20/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/rsh-12.7/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/DSR50_laser/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Red_Dot_Sights/Sight.prefab
+- Assets/NemusuMasterBundle/Weapons/1robot/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/Hakkero/Hammer.wav
+- Assets/NemusuMasterBundle/Weapons/2Bouncer/Projectile.prefab
+- Assets/NemusuMasterBundle/Weapons/Ballistic_Missile/Projectile.prefab
+- Assets/NemusuMasterBundle/Weapons/1DSMG/Reload.wav
+- Assets/NemusuMasterBundle/Armors/FNAF2/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Microgun/Shoot.wav
+- Assets/NemusuMasterBundle/Armors/Luke_top/Material.mat
+- Assets/NemusuMasterBundle/Armors/Ghillie_Top_Berry/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/Kestrel/Hammer.wav
+- Assets/NemusuMasterBundle/Misc/MkIIMine/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Flex_Up/Shirt.png
+- Assets/NemusuMasterBundle/Weapons/2Bouncer/Loop.wav
+- Assets/NemusuMasterBundle/Weapons/Hakkero/Reload.wav
+- Assets/NemusuMasterBundle/Armors/BNK_Locks_White/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_pistol_suppressor/Shoot.wav
+- Assets/NemusuMasterBundle/Armors/Jug_Bottom/Material.mat
+- Assets/NemusuMasterBundle/Armors/BNK_Teo/Mask.prefab
+- Assets/NemusuMasterBundle/Weapons/Negotiator_HE_250/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_mg3_sight/Sight.prefab
+- Assets/NemusuMasterBundle/Weapons/Blood_Dragon/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_glock18c_33/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/rsh-12.7/Equip.wav
+- Assets/NemusuMasterBundle/Armors/FNAF3/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/C4_Throw/Throwable.prefab
+- Assets/NemusuMasterBundle/Armors/Tiger_Pack/Backpack.prefab
+- Assets/NemusuMasterBundle/Armors/Cigarette/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/stanag_cmag/Item.prefab
+- Assets/NemusuMasterBundle/Armors/hitman_shirt/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_cmag_100/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/2Bouncer/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/XR-9_Vaporizor/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/AWP/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/Preved/Hammer.wav
+- Assets/NemusuMasterBundle/Weapons/2Bouncer/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Birch/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_vertical_grip/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Cloak_Device/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/Preved/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/Ballistic_Missile/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/1DSMG/Hammer.wav
+- Assets/NemusuMasterBundle/Armors/Jug_Bottom/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Tiger_Pants/Tiger_Pants.mat
+- Assets/NemusuMasterBundle/Weapons/goldenak/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/1DSMG_silenced/Reload.wav
+- Assets/NemusuMasterBundle/Armors/BNK_Ayo/Mask.prefab
+- Assets/NemusuMasterBundle/Armors/Red_Hat/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_glock18c/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/vssk_forest/Item.prefab
+- Assets/NemusuMasterBundle/Misc/Admin_Glass/Nav.prefab
+- Assets/NemusuMasterBundle/Armors/Esketit shirt/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Vest_Level1/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Mdical_Syringe/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Assault_Rifle_Magazine/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/1Ashen Embrace/Aim.wav
+- Assets/NemusuMasterBundle/Weapons/shadowst_245/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_m60_sights/Sight.prefab
+- Assets/NemusuMasterBundle/Weapons/Desert_Eagle/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/Scorpion/Hammer.wav
+- Assets/NemusuMasterBundle/Weapons/XR-9_Vaporizor/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/Ingram_Magazine/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/Scorpion_Magazine/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Pubg shirt/Shirt.png
+- Assets/NemusuMasterBundle/Misc/Admin_Glass/Barricade.prefab
+- Assets/NemusuMasterBundle/Weapons/ntw-20_urban/Equip.wav
+- Assets/NemusuMasterBundle/Misc/Admin_Glass/Clip.prefab
+- Assets/NemusuMasterBundle/Weapons/Ingram/Animations.prefab
+- Assets/NemusuMasterBundle/Misc/MkIIMine/Nav.prefab
+- Assets/NemusuMasterBundle/Weapons/EXE_AKS-74USuppressor/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/honeybadger_suppressor/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/80GM/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/Oof_Barrel/Barrel.prefab
+- Assets/NemusuMasterBundle/Armors/Tiger_Camo/Shirt.png
+- Assets/NemusuMasterBundle/Armors/Red_Hat/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_krissvector_sight/Sight.prefab
+- Assets/NemusuMasterBundle/Weapons/Ingram_Suppressor/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Tiger_Camo/Tiger_Camo.mat
+- Assets/NemusuMasterBundle/Armors/Recon_Pants/Pants.png
+- Assets/NemusuMasterBundle/Armors/Flex_Down/Material.mat
+- Assets/NemusuMasterBundle/Weapons/556_aug/Item.prefab
+- Assets/NemusuMasterBundle/Armors/BNK_Locks_Rainbow/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Ballistic_1/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Recon_Pants/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Ricardo_Pants/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Tron_Pants/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_m60/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Scorpion/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/Ingram/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/AWP_10/Magazine.prefab
+- Assets/NemusuMasterBundle/Armors/Ricardo_Hat/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_mg3_50/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/Dragonfly/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_m27/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/AWP/Shoot.wav
+- Assets/NemusuMasterBundle/Armors/FNAF4/Shirt.png
+- Assets/NemusuMasterBundle/Armors/Versace_Top/Shirt.png
+- Assets/NemusuMasterBundle/Armors/Cigarette/Use.wav
+- Assets/NemusuMasterBundle/Weapons/556_aug/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/3_IronCurtain/Projectile.prefab
+- Assets/NemusuMasterBundle/Weapons/M2/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/pcs_mine/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Ingram/Hammer.wav
+- Assets/NemusuMasterBundle/Weapons/Ballistic_Missile/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/XR-9_Vaporizor_150/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/goldenakmag/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Tiger_Boonie/Hat.prefab
+- Assets/NemusuMasterBundle/Weapons/DSR50_scope/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Ballistic_1/Magazine.prefab
+- Assets/NemusuMasterBundle/Armors/BNK_Locks_Lil/Hat.prefab
+- Assets/NemusuMasterBundle/Weapons/1DSMG_acc/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/Microgun_Box/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/EXE_AKS-74USuppressor/Shoot.wav
+- Assets/NemusuMasterBundle/Armors/Recon_Parka/Material.mat
+- Assets/NemusuMasterBundle/Armors/BNK_Locks_White/Hat.prefab
+- Assets/NemusuMasterBundle/Weapons/Kestrel/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/XR-9_Vaporizor/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/vssk_forest_bipod/Grip.prefab
+- Assets/NemusuMasterBundle/Armors/Red_dress/Vest.prefab
+- Assets/NemusuMasterBundle/Weapons/M2/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/Blood_Dragon/Minigun.wav
+- Assets/NemusuMasterBundle/Armors/Tron_Pants/Pants.png
+- Assets/NemusuMasterBundle/Weapons/EXE_AKS-74USuppressor/Barrel.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_m60_150/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/120DM/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Suppressor_Pistol/Shoot.wav
+- Assets/NemusuMasterBundle/Armors/Recon_Hood/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/80GM/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Jug_Top/Shirt.png
+- Assets/NemusuMasterBundle/Weapons/goldenakmag/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/Kestrel_1_1/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/1DSMG_particle/Shoot.wav
+- Assets/NemusuMasterBundle/Armors/Tron_Hat/Glasses.prefab
+- Assets/NemusuMasterBundle/Weapons/M2/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Tiger_Pack/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Type99_mag/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/1DSMG_silenced/Equip.wav
+- Assets/NemusuMasterBundle/Weapons/2AdmiralFire/Effect.prefab
+- Assets/NemusuMasterBundle/Armors/Gucci pants/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_asval/Hammer.wav
+- Assets/NemusuMasterBundle/Weapons/2bounceball/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/Suppressor_Pistol/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/vssk_forest/Equip.wav
+- Assets/NemusuMasterBundle/Misc/MkIIMine/Barricade.prefab
+- Assets/NemusuMasterBundle/Weapons/1DSMG_silenced/Shoot.wav
+- Assets/NemusuMasterBundle/Armors/Ricardo_Hat/Hat.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_groza_sight/Sight.prefab
+- Assets/NemusuMasterBundle/Weapons/Ballistic_Missile/Missile.wav
+- Assets/NemusuMasterBundle/Weapons/bandit_mg3/Shoot.wav
+- Assets/NemusuMasterBundle/Armors/Maple/Hat.prefab
+- Assets/NemusuMasterBundle/Weapons/Dragonfly_QM81/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/1DSMG/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/3penny/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/goldenak/Equip.wav
+- Assets/NemusuMasterBundle/Weapons/Negotiator_Laser_Item/Tactical.prefab
+- Assets/NemusuMasterBundle/Weapons/Panther/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/BNK_Teo/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/FNAF3/Pants.png
+- Assets/NemusuMasterBundle/Armors/Tiger_Camo/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/rsh-12.7_silenced_extender/Barrel.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_m27/Hammer.wav
+- Assets/NemusuMasterBundle/Weapons/1DSMG_acc/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/Henry_Cartridges/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_krissvector_grip/Item.prefab
+- Assets/NemusuMasterBundle/Armors/hitman_shirt/Shirt.png
+- Assets/NemusuMasterBundle/Weapons/Kestrel/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/240AC/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Negotiator_Laser_Item/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Pubg shirt/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/1DSMG_acc/Equip.wav
+- Assets/NemusuMasterBundle/Armors/Recon_Parka/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Tiger_Pack/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/rsh-12.7_iron_sights/Sight.prefab
+- Assets/NemusuMasterBundle/Weapons/aug/Hammer.wav
+- Assets/NemusuMasterBundle/Weapons/bandit_asval/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Tron_Pants/Material.mat
+- Assets/NemusuMasterBundle/Weapons/m2_mag/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_mg3/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Preved/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/Hakkero_Mag/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_glock18c/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/goldenak/Item.prefab
+- Assets/NemusuMasterBundle/Armors/BNK_Locks_White/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Jug_Top/Material.mat
+- Assets/NemusuMasterBundle/Weapons/Vest/Use.wav
+- Assets/NemusuMasterBundle/Weapons/Blood_Dragon/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/Assault_Rifle/Shoot.wav
+- Assets/NemusuMasterBundle/Armors/FNAF4/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/1robot/Hammer.wav
+- Assets/NemusuMasterBundle/Weapons/Assault_Rifle/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Tiger_Pants/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Ghillie_Hood_Berry/Hat.prefab
+- Assets/NemusuMasterBundle/Weapons/Desert_Eagle/Hammer.wav
+- Assets/NemusuMasterBundle/Weapons/bandit_pistol_suppressor/Barrel.prefab
+- Assets/NemusuMasterBundle/Weapons/goldenak/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/3_IronCurtain/Hammer.wav
+- Assets/NemusuMasterBundle/Armors/Gucci pants/Pants.png
+- Assets/NemusuMasterBundle/Weapons/2Bouncer/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/aug/Item.prefab
+- Assets/NemusuMasterBundle/Misc/Sentry/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Recon_Hood/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/rsh-12.7/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Tron_Hat/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Desert_Eagle/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/rsh-12.7_5/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/2Admiral/Hammer.wav
+- Assets/NemusuMasterBundle/Weapons/IED/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/1DSMG_silenced/Hammer.wav
+- Assets/NemusuMasterBundle/Weapons/M2/Hammer.wav
+- Assets/NemusuMasterBundle/Armors/Red_dress/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/rsh-12.7_silenced_extender/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Dragonfly_QM81/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/3_IronCurtain/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Ghillie_Hood_Berry/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Scorpion/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/C4_Throw/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_krissvector_25/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/Desert_Eagle/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Preved_5/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/1DSMG_silenced/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/IED_Ex/Explosion.wav
+- Assets/NemusuMasterBundle/Armors/Mdical_Syringe/Use.wav
+- Assets/NemusuMasterBundle/Weapons/Kestrel/Equip.wav
+- Assets/NemusuMasterBundle/Weapons/shadow3/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/DSR50_laser/Tactical.prefab
+- Assets/NemusuMasterBundle/Weapons/Microgun/Minigun.wav
+- Assets/NemusuMasterBundle/Armors/Pubg shirt/Item.prefab
+- Assets/NemusuMasterBundle/Armors/BNK_Ayo/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/Assault_Rifle/Reload.wav
+- Assets/NemusuMasterBundle/Armors/Luke_top/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_hk416_30/Magazine.prefab
+- Assets/NemusuMasterBundle/Armors/Jug_AH/Hat.prefab
+- Assets/NemusuMasterBundle/Weapons/rsh-12.7_silenced_extender_2/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/1Ashen Embrace/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/2Admiralsight/Sight.prefab
+- Assets/NemusuMasterBundle/Weapons/spray/Effect.prefab
+- Assets/NemusuMasterBundle/Armors/Jug_Top/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/aug/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/Nokia/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/rsh-12.7_barrel_extender/Barrel.prefab
+- Assets/NemusuMasterBundle/Weapons/1Alpha_1/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_quickshot/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/1DSMG_particle/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/AWP/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Ricardo_Hat/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/3_IronCurtain/Shoot.wav
+- Assets/NemusuMasterBundle/Armors/Pine/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_krissvector_grip/Grip.prefab
+- Assets/NemusuMasterBundle/Weapons/1Ashen Embrace/Equip.wav
+- Assets/NemusuMasterBundle/Weapons/XR-9_Vaporizor/Equip.wav
+- Assets/NemusuMasterBundle/Weapons/Dragonfly/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/Assault_Rifle/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Kestrel/Aim.wav
+- Assets/NemusuMasterBundle/Weapons/M2/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/rsh-12.7_silenced_extender_2/Barrel.prefab
+- Assets/NemusuMasterBundle/Weapons/rsh-12.7/Aim.wav
+- Assets/NemusuMasterBundle/Armors/Cloak_Device/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_m60_sights/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Pubg pants/Pants.png
+- Assets/NemusuMasterBundle/Weapons/1Alpha_1/Sight.prefab
+- Assets/NemusuMasterBundle/Weapons/ntw-20_urban_3/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Type99/Hammer.wav
+- Assets/NemusuMasterBundle/Weapons/bandit_vector/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Tron_Top/Emission.png
+- Assets/NemusuMasterBundle/Weapons/1DSMG_acc/Hammer.wav
+- Assets/NemusuMasterBundle/Armors/hitman_pants/New Material.mat
+- Assets/NemusuMasterBundle/Weapons/bandit_mg3/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/1Ashen Embrace/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/BarrelMagicMedium/Shoot.wav
+- Assets/NemusuMasterBundle/Armors/FNAF1/Vest.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_m60_150/Magazine.prefab
+- Assets/NemusuMasterBundle/Misc/S-mine/Clip.prefab
+- Assets/NemusuMasterBundle/Armors/Jug_AH/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Tiger_Pants/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Type99/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_vector/Hammer.wav
+- Assets/NemusuMasterBundle/Weapons/Kestrel_1_0/Magazine.prefab
+- Assets/NemusuMasterBundle/Armors/Tron_Top/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_krissvector_sight/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_groza/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/Kestrel_1_0/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Suppressor_Pistol/Barrel.prefab
+- Assets/NemusuMasterBundle/Weapons/1CrescentRose/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Versace_Pants/Pants.png
+- Assets/NemusuMasterBundle/Weapons/bandit_cmag_100/Magazine.prefab
+- Assets/NemusuMasterBundle/Armors/Ghillie_Vest_Berry/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_groza_20/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_folding_grip/Grip.prefab
+- Assets/NemusuMasterBundle/Weapons/1DSMG_particle/Hammer.wav
+- Assets/NemusuMasterBundle/Armors/Jug_GM/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/XR-9_Vaporizor/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/1Ashen Embrace/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/3-ironC.Effect/Splatter_0.prefab
+- Assets/NemusuMasterBundle/Weapons/ntw-20_urban_bipod/Grip.prefab
+- Assets/NemusuMasterBundle/Armors/Tron_Disc/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_groza_sight/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Blood_Dragon/Equip.wav
+- Assets/NemusuMasterBundle/Weapons/Type99/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Recon_Straps/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/1DSMG/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/Millitary_Magazine/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/rsh-12.7_silenced_extender/Shoot.wav
+- Assets/NemusuMasterBundle/Armors/BNK_Locks_Lil/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Tron_Pants/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Blood_Dragon/Shoot.wav
+- Assets/NemusuMasterBundle/Armors/Red_Hat/Hat.prefab
+- Assets/NemusuMasterBundle/Weapons/Henry_Cartridges/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/th55_exp/Effect.prefab
+- Assets/NemusuMasterBundle/Armors/Tiger_Camo/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/Negotiator_HE_250/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/vssk_forest_5/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/1robot/Equip.wav
+- Assets/NemusuMasterBundle/Weapons/IED/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/rsh-12.7_barrel_extender/Item.prefab
+- Assets/NemusuMasterBundle/Armors/FNAF4/Material.mat
+- Assets/NemusuMasterBundle/Weapons/AWP_10/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/1DSMG_particle/Equip.wav
+- Assets/NemusuMasterBundle/Weapons/bandit_groza/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/vssk_forest_5/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/rsh-12.7_silenced_extender_2/Shoot.wav
+- Assets/NemusuMasterBundle/Armors/Jug_GG/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/carexplode_fx/Effect.prefab
+- Assets/NemusuMasterBundle/Weapons/2Admiralsight/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_mg3/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/Kestrel_1_1/Item.prefab
+- Assets/NemusuMasterBundle/Armors/hitman_pants/Pants.png
+- Assets/NemusuMasterBundle/Weapons/Type99/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/vssk_forest/Aim.wav
+- Assets/NemusuMasterBundle/Armors/Pubg pants/Item.prefab
+- Assets/NemusuMasterBundle/Armors/FNAF3/Material.mat
+- Assets/NemusuMasterBundle/Misc/S-mine/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Kestrel/Projectile.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_m27_sight/Sight.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_krissvector_suppressor/Barrel.prefab
+- Assets/NemusuMasterBundle/Armors/Tron_Top/Shirt.png
+- Assets/NemusuMasterBundle/Weapons/bandit_eotechxps2/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Versace_Pants/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/1CrescentRose/Use.wav
+- Assets/NemusuMasterBundle/Armors/Birch/Hat.prefab
+- Assets/NemusuMasterBundle/Weapons/1robot/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/bandit_m27/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Flex_Down/Pants.png
+- Assets/NemusuMasterBundle/Weapons/bandit_glock18c/Shoot.wav
+- Assets/NemusuMasterBundle/Misc/MkIIMine/Clip.prefab
+- Assets/NemusuMasterBundle/Weapons/ntw-20_urban_bipod/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Ghillie_Top_Berry/Shirt.png
+- Assets/NemusuMasterBundle/Misc/Admin_Glass/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_krissvector_25/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Suppressor/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/Suppressor/Barrel.prefab
+- Assets/NemusuMasterBundle/Weapons/shadow3/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/C4_Throw/Use.wav
+- Assets/NemusuMasterBundle/Weapons/1CrescentRose/Equip.wav
+- Assets/NemusuMasterBundle/Weapons/Assault_Rifle/Hammer.wav
+- Assets/NemusuMasterBundle/Weapons/Scorpion_Drum/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/Oof_Barrel/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/bandit_pistol_suppressor/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/shadowst_245/Magazine.prefab
+- Assets/NemusuMasterBundle/Armors/Pubg shirt/Material.mat
+- Assets/NemusuMasterBundle/Weapons/bandit_asval/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/bandit_hk416_30/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/1DSMG_particle/Aim.wav
+- Assets/NemusuMasterBundle/Weapons/bandit_groza/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/pcs_mine/Barricade.prefab
+- Assets/NemusuMasterBundle/Armors/hitman_shirt/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/1DSMG_acc/Shoot.wav
+- Assets/NemusuMasterBundle/Armors/Tron_Top/Material.mat
+- Assets/NemusuMasterBundle/Weapons/2Admiral/Item.prefab
+- Assets/NemusuMasterBundle/Misc/Admin_Glass/Use.wav
+- Assets/NemusuMasterBundle/Weapons/IED_Ex/Effect.prefab
+- Assets/NemusuMasterBundle/Armors/Esketit shirt/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/C4_Throw/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/M60D_Mag/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/2Bouncer/Equip.wav
+- Assets/NemusuMasterBundle/Weapons/3-EnergyCell/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Tiger_Carrier/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/BNK_Locks_Lil/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/AWP/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/2Bouncer/reload.wav
+- Assets/NemusuMasterBundle/Weapons/Scorpion/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Ingram_Magazine/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/2Bouncer/Aim.wav
+- Assets/NemusuMasterBundle/Weapons/Mini Detonator/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/120DM/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/pcs_mine/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/Ingram/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/Kestrel_Scope/Sight.prefab
+- Assets/NemusuMasterBundle/Armors/BNK_Locks_Rainbow/Hat.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_mg3_sight/Item.prefab
+- Assets/NemusuMasterBundle/Armors/BNK_Ayo/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Microgun/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/3-ironC.Effect/Effect.prefab
+- Assets/NemusuMasterBundle/Weapons/Red_Dot_Sights/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/vssk_forest/Hammer.wav
+- Assets/NemusuMasterBundle/Weapons/Preved/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/Preved/Item.prefab
+- Assets/NemusuMasterBundle/Armors/hitman_shirt/New Material.mat
+- Assets/NemusuMasterBundle/Weapons/Type99_mag/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Ballistic_Missile/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/stanag_cmag/Magazine.prefab
+- Assets/NemusuMasterBundle/Armors/Birch/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/vssk_forest/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/pcs_mine/Clip.prefab
+- Assets/NemusuMasterBundle/Armors/Flex_Down/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Tron_Top/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_asval_20/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/DSR50_scope/Sight.prefab
+- Assets/NemusuMasterBundle/Weapons/honeybadger_sights/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Vest/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_krissvector_suppressor/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Tiger_Carrier/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Kestrel/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/3_IronCurtain/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/ntw-20_urban_3/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/Hakkero_Mag/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/aug_sights/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_glock18c_33/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/IED/Barricade.prefab
+- Assets/NemusuMasterBundle/Misc/Sentry/Nav.prefab
+- Assets/NemusuMasterBundle/Armors/Cloak_Device/Vest.prefab
+- Assets/NemusuMasterBundle/Armors/Recon_Parka/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/aug/Shoot.wav
+- Assets/NemusuMasterBundle/Armors/Jug_GM/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_groza/Equip.wav
+- Assets/NemusuMasterBundle/Weapons/Vodka/Item.prefab
+- Assets/NemusuMasterBundle/Armors/BNK_Teo/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/aug_sights/Sight.prefab
+- Assets/NemusuMasterBundle/Armors/Tiger_Boonie/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Tiger_Carrier/Vest.prefab
+- Assets/NemusuMasterBundle/Weapons/Desert_Eagle/Equip.wav
+- Assets/NemusuMasterBundle/Weapons/rsh-12.7_iron_sights/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/ntw-20_urban/Hammer.wav
+- Assets/NemusuMasterBundle/Weapons/bandit_m60/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/ntw-20_urban/Shoot.wav
+- Assets/NemusuMasterBundle/Armors/FNAF1/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Ghillie_Vest_Berry/Item.prefab
+- Assets/NemusuMasterBundle/Armors/hitman_pants/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/rsh-12.7/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/Ballistic_Missile/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_asval/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Ghillie_Bottom_Berry/Pants.png
+- Assets/NemusuMasterBundle/Misc/S-mine/Barricade.prefab
+- Assets/NemusuMasterBundle/Weapons/shadow3/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Assault_Rifle/Equip.wav
+- Assets/NemusuMasterBundle/Weapons/Suppressor/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Mini Detonator/Use.wav
+- Assets/NemusuMasterBundle/Weapons/Hakkero/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/shadow3/Reload.wav
+- Assets/NemusuMasterBundle/Armors/Recon_Parka/Shirt.png
+- Assets/NemusuMasterBundle/Weapons/Ingram_Suppressor/Barrel.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_m27/Shoot.wav
+- Assets/NemusuMasterBundle/Armors/Jug_AP/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/Preved_5/Magazine.prefab
+- Assets/NemusuMasterBundle/Misc/Sentry/Use.wav
+- Assets/NemusuMasterBundle/Armors/Jug_Bottom/Pants.png
+- Assets/NemusuMasterBundle/Armors/Pine/Hat.prefab
+- Assets/NemusuMasterBundle/Armors/Tron_Pants/Emission.png
+- Assets/NemusuMasterBundle/Weapons/VSSK_Forest_Suppressor/Barrel.prefab
+- Assets/NemusuMasterBundle/Armors/Jug_AP/Backpack.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_folding_grip/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Panther/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/1DSMG_silenced/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Versace_Pants/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Mdical_Syringe/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Gucci pants/Pants.mat
+- Assets/NemusuMasterBundle/Weapons/2Admiral/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Versace_Top/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_glock18c/Hammer.wav
+- Assets/NemusuMasterBundle/Weapons/Hakkero/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Jug_AP/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Jug_GG/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/vssk_forest/Reload.wav
+- Assets/NemusuMasterBundle/Armors/Versace_Top/Shirt.mat
+- Assets/NemusuMasterBundle/Weapons/3_IronCurtain/Aim.wav
+- Assets/NemusuMasterBundle/Weapons/Scorpion_Magazine/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_vector/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Jug_AH/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/Microgun/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/Nokia/Use.wav
+- Assets/NemusuMasterBundle/Armors/Ghillie_Top_Berry/Shirt 1.mat
+- Assets/NemusuMasterBundle/Misc/Sentry/Barricade.prefab
+- Assets/NemusuMasterBundle/Misc/MkIIMine/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Ingram_Suppressor/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/bandit_glock18c/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/honeybadger_sights/Sight.prefab
+- Assets/NemusuMasterBundle/Weapons/goldenak/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Ricardo_Pants/Vest.prefab
+- Assets/NemusuMasterBundle/Armors/Red_dress/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/1DSMG/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Cigarette/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_asval/Equip.wav
+- Assets/NemusuMasterBundle/Weapons/1CrescentRose/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Jug_GG/Glasses.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_groza/Hammer.wav
+- Assets/NemusuMasterBundle/Armors/Mdical_Syringe/Aid.wav
+- Assets/NemusuMasterBundle/Weapons/C4_Ex/Explosion.wav
+- Assets/NemusuMasterBundle/Armors/FNAF2/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/ntw-20_urban/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Versace_Pants/Pants.mat
+- Assets/NemusuMasterBundle/Weapons/C4_Ex/Effect.prefab
+- Assets/NemusuMasterBundle/Weapons/240AC/Magazine.prefab
+- Assets/NemusuMasterBundle/Armors/Luke_top/Shirt.png
+- Assets/NemusuMasterBundle/Weapons/ntw-20_urban/Reload.wav
+- Assets/NemusuMasterBundle/Weapons/1DSMG/Aim.wav
+- Assets/NemusuMasterBundle/Weapons/1robot/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Tiger_Pants/Pants.png
+- Assets/NemusuMasterBundle/Armors/Gucci pants/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Flex_Up/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/M60D_Mag/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Recon_Straps/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Jug_AV/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Pine/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_krissvector_suppressor/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/1DSMG_particle/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_quickshot/Sight.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_eotechxps2/Sight.prefab
+- Assets/NemusuMasterBundle/Armors/Jug_AV/Vest.prefab
+- Assets/NemusuMasterBundle/Weapons/2Admiral/Equip.wav
+- Assets/NemusuMasterBundle/Weapons/XR-9_Vaporizor/Minigun.wav
+- Assets/NemusuMasterBundle/Armors/Maple/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/1robot/Aim.wav
+- Assets/NemusuMasterBundle/Weapons/rsh-12.7_barrel_extender/Shoot.wav
+- Assets/NemusuMasterBundle/Armors/Esketit shirt/Shirt.mat
+- Assets/NemusuMasterBundle/Weapons/Vest/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/Tron_Hat/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/Vodka/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/bandit_m60/Animations.prefab
+- Assets/NemusuMasterBundle/Weapons/1DSMG_acc/Aim.wav
+- Assets/NemusuMasterBundle/Weapons/Microgun_Box/Magazine.prefab
+- Assets/NemusuMasterBundle/Armors/Versace_Top/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Jug_AV/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/hitman_pants/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/IED/Nav.prefab
+- Assets/NemusuMasterBundle/Weapons/2Admiral/Aim.wav
+- Assets/NemusuMasterBundle/Weapons/Dragonfly/Animations.prefab
+- Assets/NemusuMasterBundle/Armors/FNAF3/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/IED/Clip.prefab
+- Assets/NemusuMasterBundle/Weapons/Desert_Eagle_Mag/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Recon_Pants/Item.prefab
+- Assets/NemusuMasterBundle/Armors/Jug_GM/Mask.prefab
+- Assets/NemusuMasterBundle/Weapons/pcs_mine/Use.wav
+- Assets/NemusuMasterBundle/Armors/Ricardo_Pants/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/2Admiral/Reload.wav
+- Assets/NemusuMasterBundle/Armors/Recon_Hood/Hat.prefab
+- Assets/NemusuMasterBundle/Armors/FNAF1/Item.prefab
+- Assets/NemusuMasterBundle/Weapons/Assault_Rifle_Magazine/Magazine.prefab
+- Assets/NemusuMasterBundle/Weapons/VSSK_Forest_Suppressor/Shoot.wav
+- Assets/NemusuMasterBundle/Weapons/bandit_vector/Shoot.wav
+Dependencies: []

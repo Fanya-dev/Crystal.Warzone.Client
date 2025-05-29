@@ -1,0 +1,25 @@
+GUID ade6e535742549de9c4a1bccfcc84e19
+
+Type Backpack
+Rarity Legendary
+Useable Clothing
+ID 9920
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Width 9
+Height 14
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 9920
+Blueprint_0_Product 66
+Blueprint_0_Products 5
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 5
+Blueprint_1_Build 32

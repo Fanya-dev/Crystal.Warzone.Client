@@ -1,0 +1,17 @@
+GUID a7c5be092fa144e389068870788e879a
+Type Structure
+Rarity Rare
+Useable Structure
+Construct Floor
+ID 43377
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 15000
+Range 8
+
+Explosion 29
+
+Bypass_Hash_Verification

@@ -1,0 +1,28 @@
+GUID 1af480b1f0124b2eae7ec4a83f5b11e7
+Type Magazine
+Rarity Legendary
+ID 14120
+
+Size_X 1
+Size_Y 3
+Size_Z 0.8
+
+Amount 1
+
+Calibers 1
+Caliber_0 19349
+
+Range 12
+Player_Damage 250
+Zombie_Damage 500
+Animal_Damage 1200
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 1500
+Resource_Damage 5
+Object_Damage 1
+Explosion 53
+Explosive
+
+
+Paintable

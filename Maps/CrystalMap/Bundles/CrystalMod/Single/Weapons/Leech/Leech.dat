@@ -1,0 +1,25 @@
+GUID f8be1f5321b74f6182009b1e63ae7a75
+Type Barrel
+Rarity Epic
+ID 22923
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 36721
+
+
+Silenced 
+Volume 0.7
+
+Recoil_X 0.8
+Recoil_Y 0.8
+
+Spread 0.75
+Ballistic_Damage_Multiplier 1.13
+
+
+Paintable
+

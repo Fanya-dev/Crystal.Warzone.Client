@@ -1,0 +1,29 @@
+GUID 11691e69a86c46b19c45fb1eec4d4e7d
+Type Magazine
+Rarity Rare
+ID 16836
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Amount 8
+Count_Min 5
+Count_Max 8
+
+Calibers 1
+Caliber_0 45912
+
+Range 10
+Player_Damage 100
+Zombie_Damage 250
+Animal_Damage 250
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 1000
+Resource_Damage 2500
+Object_Damage 250
+Explosion 51788
+Explosive
+
+Tracer 50

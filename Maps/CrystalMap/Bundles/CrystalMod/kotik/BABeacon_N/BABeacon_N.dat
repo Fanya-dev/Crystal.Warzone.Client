@@ -1,0 +1,29 @@
+GUID f8c358c6affa4224b7011b5677969fd5
+Type Beacon
+Rarity Mythical
+Useable Barricade
+Build Beacon
+ID 13742
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 7000
+Range 6
+Radius 1.5
+Offset 1
+
+Explosion 36
+Unpickupable
+
+Eligible_For_Pooling false
+PlacementPreviewPrefab Placement.prefab
+
+
+Wave 200
+Rewards 15
+Reward_ID 13900
+
+PlacementAudioClip core.masterbundle:Sounds/MetalPlacement.mp3
+Has_Clip_Prefab false

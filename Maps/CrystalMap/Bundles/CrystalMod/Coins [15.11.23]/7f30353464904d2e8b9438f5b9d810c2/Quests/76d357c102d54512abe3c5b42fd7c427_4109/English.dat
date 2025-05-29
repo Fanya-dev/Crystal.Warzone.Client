@@ -1,0 +1,4 @@
+﻿// Made in NPC Maker by BowieD
+Name <color=#000000>[Qwest]</color> <color#FF4500>Pirate</color>
+Description Bring 30 pirate coins.
+Condition_0 Bring the coins {0}/{1}

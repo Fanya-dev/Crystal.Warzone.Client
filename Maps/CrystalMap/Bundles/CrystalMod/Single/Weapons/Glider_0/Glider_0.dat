@@ -1,0 +1,58 @@
+GUID f970689d8393474eb553e1d01798e92f
+Type Vehicle
+Rarity Legendary
+ID 13500
+
+Speed_Min -55
+Speed_Max 55
+
+Steer_Min 50
+Steer_Max 50
+
+Brake 1000
+
+Fuel 1500
+
+Health_Min 1500
+Health_Max 6000
+Health 6000
+
+LockMouse
+Engine Helicopter
+Zip
+Sleds
+Traction
+Reclined
+Crawler
+
+Battery_Powered flag
+BatteryMode_Driving_Burn_Rate 0
+BatteryMode_Empty_Burn_Rate 0
+BatteryMode_Headlights_Burn_Rate 0
+BatteryMode_Sirens_Burn_Rate 0
+
+
+Exit 0
+
+Explosion 20
+
+Invulnerable
+Tires_Invulnerable
+Bumper_Invulnerable
+Passenger_Explosion_Armor 0.5
+
+
+Cam_Follow_Distance 10
+
+Turrets 1
+Turret_0_Seat_Index 0
+Turret_0_Item_ID 13601
+Turret_0_Yaw_Min 0
+Turret_0_Yaw_Max 0
+Turret_0_Pitch_Min 90
+Turret_0_Pitch_Max 90
+Turret_0_Ignore_Aim_Camera
+
+Asset_Bundle_Version 3
+
+Bypass_Hash_Verification

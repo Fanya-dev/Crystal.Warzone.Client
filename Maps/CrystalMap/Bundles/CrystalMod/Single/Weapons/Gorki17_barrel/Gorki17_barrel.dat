@@ -1,0 +1,28 @@
+GUID fa4c1c87193a48498c7b96dddd63029d
+Type Barrel
+Rarity Mythical
+ID 31950
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 31955
+
+
+Silenced 
+Volume 0.6
+
+Paintable
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Tool 76
+Blueprint_0_Level 2
+Blueprint_0_Skill Repair
+Blueprint_0_Build 27
+

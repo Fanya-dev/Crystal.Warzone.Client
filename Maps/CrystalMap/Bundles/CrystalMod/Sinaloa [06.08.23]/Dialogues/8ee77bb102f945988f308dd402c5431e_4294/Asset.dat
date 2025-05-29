@@ -1,0 +1,35 @@
+﻿// Made in NPC Maker by BowieD
+GUID 8ee77bb102f945988f308dd402c5431e
+Type Dialogue
+ID 4294
+Messages 1
+Message_0_Pages 1
+Responses 3
+Response_0_Dialogue 4293
+Response_0_Quest 4292
+Response_0_Conditions 1
+Response_0_Condition_0_Type Flag_Bool
+Response_0_Condition_0_ID 7621
+Response_0_Condition_0_Value False
+Response_0_Condition_0_Allow_Unset 
+Response_0_Condition_0_Logic Equal
+
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 4292
+
+Response_1_Dialogue 4291
+Response_2_Dialogue 4290
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_ID 4292
+Response_2_Condition_0_Status Ready
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_Ignore_NPC False
+Response_2_Condition_0_Reset 
+
+Response_2_Rewards 1
+Response_2_Reward_0_Type Flag_Bool
+Response_2_Reward_0_ID 7621
+Response_2_Reward_0_Value True
+

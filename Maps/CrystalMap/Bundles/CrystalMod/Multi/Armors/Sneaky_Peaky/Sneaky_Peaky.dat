@@ -1,0 +1,23 @@
+GUID 1d7fa7d26fad4627b4fe93cf1b478e58
+Type Shirt
+Rarity Epic
+Useable Clothing
+ID 56761
+
+Size_X 3
+Size_Y 3
+Size_Z 0.5
+Size2_Z 0.5
+
+Width 10
+Height 20
+
+Armor 0.2
+Has_1P_Character_Mesh_Override True
+Character_Mesh_3P_Override_LODs 1
+Has_Character_Material_Override True
+
+Hair_Visible False
+Beard_Visible False
+
+Asset_Bundle_Version 3

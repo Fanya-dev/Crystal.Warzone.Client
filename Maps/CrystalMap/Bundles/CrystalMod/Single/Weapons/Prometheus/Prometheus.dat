@@ -1,0 +1,59 @@
+GUID 48a2614797b04c4c946057730d4c2ded
+Type Gun
+Rarity Mythical
+Useable Gun
+Slot Primary
+ID 31940
+
+Size_X 4
+Size_Y 2
+Size_Z 0.45
+Size2_Z 0.5
+
+Magazine 31941
+Tactical 31942
+Sight 31943
+
+Ammo_Min 1
+Ammo_Max 2
+
+Safety
+Semi
+
+Caliber 31949
+
+Range 300
+Firerate 50
+Action Rail
+
+Player_Damage 750
+Zombie_Damage 900
+Animal_Damage 650
+Barricade_Damage 1
+Structure_Damage 1
+Vehicle_Damage 2000
+Resource_Damage 4000
+Object_Damage 2000
+
+Durability 1
+Wear 1.5
+
+Spread_Aim 0.1
+Spread_Hip 0.1
+
+Recoil_Min_X -15
+Recoil_Min_Y 25
+Recoil_Max_X 15
+Recoil_Max_Y 30
+
+Recover_X 0.7
+Recover_Y 0.7
+
+Shake_Min_X -0.0025
+Shake_Min_Y 0.0025
+Shake_Min_Z -0.01
+Shake_Max_X 0.0025
+Shake_Max_Y -0.0025
+Shake_Max_Z -0.02
+
+Asset_Bundle_Version 3

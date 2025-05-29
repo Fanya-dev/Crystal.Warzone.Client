@@ -1,0 +1,19 @@
+GUID 5ae6efab767648a9b7333d197094f723
+
+Type Hat
+Rarity Mythical
+Useable Clothing
+ID 25954
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+
+Armor 0.21
+Armor_Explosion 0.49
+
+asset_bundle_version 3
+
+
+Should_Drop_On_Death False

@@ -1,0 +1,75 @@
+GUID cb6dba33dc354b5390d041f95ecc5984
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Primary
+ID 26337
+
+Size_X 5
+Size_Y 3
+Size_Z 7
+Size2_Z 5
+
+Magazine 26338
+
+Ammo_Min 1
+Ammo_Max 1
+
+Safety
+Semi
+
+Caliber 21328
+
+Firerate 50
+Replace 0.34
+Action Rocket
+
+Player_Damage 2000
+Zombie_Damage 200
+Animal_Damage 200
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 2000
+Resource_Damage 5000
+Object_Damage 2000
+
+
+
+Range 15
+Explosion 45458
+
+Durability 1
+Wear 5
+
+Spread_Aim 0.1
+Spread_Hip 0.1
+
+Ballistic_Force 750
+
+Recoil_Min_X -45
+Recoil_Min_Y 45
+Recoil_Max_X 55
+Recoil_Max_Y 30
+
+Recover_X 0.7
+Recover_Y 0.7
+
+Shake_Min_X -0.0065
+Shake_Min_Y 0.0065
+Shake_Min_Z -0.04
+Shake_Max_X 0.0075
+Shake_Max_Y -0.0075
+Shake_Max_Z -0.06
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 519
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 67
+Blueprint_0_Output_0_Amount 17
+Blueprint_0_Output_1_ID 61
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 27
+
+Projectile_Explosion_Launch_Speed 20

@@ -1,0 +1,21 @@
+GUID 155498376b0f4dbb8d78e130b6e5794f
+Type Barrel
+ID 12932
+
+Size_X 3
+Size_Y 1
+Size_Z 0.3
+
+Calibers 1
+Caliber_0 43349
+
+Braked
+Silenced 
+Volume 0.4
+
+Recoil_X 0.9
+Recoil_Y 0.9
+
+Spread 0.75
+Ballistic_Damage_Multiplier 1.18
+Asset_Bundle_Version 3

@@ -1,0 +1,60 @@
+﻿"Metadata"
+{
+	"GUID" "73890c1b403a490185403a6b2fda8c24"
+	"Type" "SDG.Unturned.ItemCurrencyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ValueFormat" "{0:N0} Euro"
+	"Entries"
+	[
+		{
+			"Item"
+			{
+				"GUID" "6082dd2b56884099988421e2373dda00"
+			}
+			"Value" "50"
+			"Is_Visible_In_Vendor_Menu" "True"
+		}
+		{
+			"Item"
+			{
+				"GUID" "2d919c43b76e44c0ad79c75ab404bd31"
+			}
+			"Value" "500"
+			"Is_Visible_In_Vendor_Menu" "True"
+		}
+		{
+			"Item"
+			{
+				"GUID" "5ecc0b0aecb44b07b35c76a1b6244b74"
+			}
+			"Value" "5"
+			"Is_Visible_In_Vendor_Menu" "True"
+		}
+		{
+			"Item"
+			{
+				"GUID" "66c3b97fc95b4f8da7dbd8d3f9c568cd"
+			}
+			"Value" "20"
+			"Is_Visible_In_Vendor_Menu" "True"
+		}
+		{
+			"Item"
+			{
+				"GUID" "41c7b8810d424b438c5e53f13e3bb786"
+			}
+			"Value" "100"
+			"Is_Visible_In_Vendor_Menu" "True"
+		}
+		{
+			"Item"
+			{
+				"GUID" "ad5262ea1faa40a6b2d74542ede62c92"
+			}
+			"Value" "10"
+			"Is_Visible_In_Vendor_Menu" "True"
+		}
+	]
+}

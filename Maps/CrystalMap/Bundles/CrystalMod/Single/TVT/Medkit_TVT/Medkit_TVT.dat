@@ -1,0 +1,18 @@
+GUID d9ab767f06e542ba894f75d19e5321cb
+Type Medical
+Rarity Legendary
+Useable Consumeable
+ID 55585
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Aid
+Bleeding
+Broken
+Health 75
+
+Allow_Manual_Drop False
+
+Should_Drop_On_Death False

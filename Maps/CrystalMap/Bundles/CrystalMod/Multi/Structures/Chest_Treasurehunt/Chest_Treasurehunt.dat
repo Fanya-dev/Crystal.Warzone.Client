@@ -1,0 +1,30 @@
+GUID 067de8a26b934cd0a0fb68a8183b22a1
+
+Type Storage
+Rarity Legendary
+Useable Barricade
+Build Storage
+ID 17227
+
+Size_X 3
+Size_Y 3
+Size_Z 0.8
+
+Health 3500
+Range 5
+Radius 0.1
+Offset 0.95
+
+Storage_X 10
+Storage_Y 16
+
+Explosion 36
+
+
+Should_Close_When_Outside_Range true
+
+Bypass_Hash_Verification
+
+Eligible_For_Pooling false
+
+Asset_Bundle_Version 3

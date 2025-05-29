@@ -1,0 +1,20 @@
+GUID d9d3c172471f44b89d3bd5a892fdfa28
+Type Hat
+Rarity Legendary
+Useable Clothing
+ID 29515
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Earpiece
+
+Armor 0.4
+Armor_Explosion 0.57
+
+Beard_Visible False
+Hair_Visible False
+
+
+Should_Drop_On_Death False

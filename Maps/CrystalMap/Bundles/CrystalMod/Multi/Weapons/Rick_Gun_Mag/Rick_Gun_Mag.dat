@@ -1,0 +1,27 @@
+GUID a2de9409b9214f0f88629b4371900b08
+Type Magazine
+Rarity Legendary
+ID 16157
+
+Size_X 1
+Size_Y 3
+Size_Z 0.8
+
+Amount 1
+
+Calibers 1
+Caliber_0 43349
+
+Range 1
+Player_Damage 0
+Zombie_Damage 0
+Animal_Damage 0
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+Explosive
+
+
+Paintable

@@ -1,0 +1,29 @@
+GUID 040c2c579fc14ee1adaad479443fe04c
+Type Magazine
+Rarity Epic
+ID 12531
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Amount 100
+Count_Min 60
+Count_Max 100
+
+Calibers 1
+Caliber_0 23381
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 12531
+Blueprint_1_Build 30
+
+Paintable

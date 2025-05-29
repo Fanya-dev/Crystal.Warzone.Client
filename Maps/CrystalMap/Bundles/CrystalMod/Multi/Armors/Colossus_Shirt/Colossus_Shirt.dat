@@ -1,0 +1,55 @@
+GUID 764dbd68d52747ecb4779fe282003983
+
+Type Shirt
+Rarity Epic
+Useable Clothing
+ID 51925
+
+Size_X 3
+Size_Y 3
+Size_Z 0.8
+
+Armor 0.22
+Armor_Explosion 0.1
+
+
+Beard_Visible False
+Hair_Visible False
+
+Width 10
+Height 10
+
+Asset_Bundle_Version 3
+
+Blueprints 3
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 51925
+Blueprint_0_Supply_1_ID 18658
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 51923
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 17
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 51925
+Blueprint_1_Supply_1_ID 18658
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 51924
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 17
+
+Blueprint_2_Type Supply
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 51925
+Blueprint_2_Supply_1_ID 18658
+Blueprint_2_Outputs 1
+Blueprint_2_Output_0_ID 51926
+Blueprint_2_Output_0_Amount 1
+Blueprint_2_Build 17
+
+Has_1P_Character_Mesh_Override True
+Character_Mesh_3P_Override_LODs 1
+Has_Character_Material_Override False

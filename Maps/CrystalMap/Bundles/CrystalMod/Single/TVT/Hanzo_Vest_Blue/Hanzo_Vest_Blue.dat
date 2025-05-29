@@ -1,0 +1,22 @@
+GUID 97adce51fdb34307922f8108ac9da98f
+
+Type Vest
+Rarity Mythical
+Useable Clothing
+ID 49655
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Width 8
+Height 10
+
+Armor 0.22
+Armor_Explosion 0.1
+
+Asset_Bundle_Version 3
+
+Should_Drop_On_Death False
+
+Allow_Manual_Drop False

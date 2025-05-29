@@ -1,0 +1,19 @@
+GUID 5df0418f8ced43058f246b5d089ae619
+
+Type Pants
+Rarity Epic
+Useable Clothing
+ID 33338
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 4
+Height 8
+
+Armor 0.33
+Armor_Explosion 0.55
+
+
+Should_Drop_On_Death False

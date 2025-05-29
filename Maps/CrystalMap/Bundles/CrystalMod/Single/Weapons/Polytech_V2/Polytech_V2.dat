@@ -1,0 +1,16 @@
+GUID bdd1790b11474dae8240a54c6d0df9eb
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 47696
+
+Size_X 1
+Size_Y 1
+Size_Z 0.7
+
+Health 15000
+Range 4
+Radius 0.5
+Offset 1.25
+
+Explosion 28

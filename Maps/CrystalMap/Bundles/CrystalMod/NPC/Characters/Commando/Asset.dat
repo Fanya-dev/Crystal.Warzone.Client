@@ -1,0 +1,23 @@
+GUID f3fe2c5f4dc243f8bd1df22f541c14c4
+
+
+Type NPC
+ID 56292
+
+Face 29
+Hair 6
+
+Color_Hair #C7EBF1
+Color_Skin #F9D8B6
+
+Shirt 46256
+Pants 52687
+Hat 52684
+Vest 42103
+Glasses 502
+
+Primary 29525
+Equipped Primary
+
+
+Dialogue 56293

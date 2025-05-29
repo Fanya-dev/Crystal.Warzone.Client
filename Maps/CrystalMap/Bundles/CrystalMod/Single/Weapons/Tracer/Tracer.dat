@@ -1,0 +1,77 @@
+GUID 74610201e0614fd38e2230fa349ef00d
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Secondary
+ID 40050
+
+Size_X 3
+Size_Y 2
+Size_Z 0.4
+
+
+Magazine 40051
+
+Ammo_Min 23
+Ammo_Max 30
+
+Semi
+Bursts 3
+
+Caliber 11967
+
+Firerate 3
+Replace 0.5
+Action Trigger
+
+Player_Damage 90
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 150
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 150
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 100
+Resource_Damage 2000
+Object_Damage 1000
+
+Range 5
+Explosion 13135
+
+Durability 0.2
+
+Spread_Aim 0.01
+Spread_Hip 0.2
+
+Ballistic_Force 3000
+
+Recoil_Aim 0.25
+Recoil_Min_X 0.5
+Recoil_Min_Y 3
+Recoil_Max_X 1.5
+Recoil_Max_Y 4
+
+Recover_X 0.5
+Recover_Y 0.5
+
+Shake_Min_X -0.0025
+Shake_Min_Y 0.0025
+Shake_Min_Z -0.01
+Shake_Max_X 0.0025
+Shake_Max_Y -0.0025
+Shake_Max_Z -0.02
+
+
+Asset_Bundle_Version 3

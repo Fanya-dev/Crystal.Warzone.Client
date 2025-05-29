@@ -1,0 +1,20 @@
+GUID bd4b904918f149c2b8e11bd7eb787ba1
+Type Mask
+Rarity Mythical
+Useable Clothing
+ID 19781
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Hair
+
+
+Quality_Min 200
+Quality_Max 300
+
+Armor 0.95
+
+
+Should_Drop_On_Death False

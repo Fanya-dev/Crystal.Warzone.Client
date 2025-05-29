@@ -1,0 +1,45 @@
+GUID 82a452c58bc44cc98f830227eb3ca7a4
+
+Type Shirt
+Rarity Mythical
+Useable Clothing
+ID 11925
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 10
+Height 10
+
+Armor 0.25
+Armor_Explosion 0.1
+
+Blueprints 3
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 11925
+Blueprint_0_Supply_1_ID 18658
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 11923
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 17
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 11925
+Blueprint_1_Supply_1_ID 18658
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 11924
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 17
+
+Blueprint_2_Type Supply
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 11925
+Blueprint_2_Supply_1_ID 18658
+Blueprint_2_Outputs 1
+Blueprint_2_Output_0_ID 11926
+Blueprint_2_Output_0_Amount 1
+Blueprint_2_Build 17

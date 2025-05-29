@@ -1,0 +1,19 @@
+GUID 71eeb19d5ede4e2dba69f0b4d18c35b7
+Type Hat
+Rarity Legendary
+Useable Clothing
+ID 47100
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Beard
+
+Armor 0.1
+Armor_Explosion 0.1
+
+Beard_Visible False
+Hair_Visible False
+
+Should_Drop_On_Death False

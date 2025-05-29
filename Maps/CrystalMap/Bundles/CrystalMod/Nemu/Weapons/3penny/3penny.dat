@@ -1,0 +1,34 @@
+GUID b6162475d80e4bb89e4b2fdee75647f6
+
+Type Magazine
+Rarity Legendary
+ID 38605
+
+Size_X 1
+Size_Y 1
+Size_Z 0.07
+
+Amount 3
+Count_Min 3
+Count_Max 3
+
+Calibers 1
+Caliber_0 3812
+
+Tracer 49
+
+Range 6
+Player_Damage 100
+Zombie_Damage 100
+Animal_Damage 100
+Barricade_Damage 50
+Structure_Damage 50
+Vehicle_Damage 100
+Resource_Damage 100
+Object_Damage 125
+Explosion 136
+Explosive
+
+Bypass_Hash_Verification
+
+Delete_Empty

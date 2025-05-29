@@ -1,0 +1,29 @@
+GUID 3cc30fb1c37c437e9998f85006504786
+Type Magazine
+Rarity Rare
+ID 16833
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Amount 150
+Count_Min 60
+Count_Max 150
+
+Calibers 1
+Caliber_0 54621
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 16833
+Blueprint_1_Build 30
+
+Paintable

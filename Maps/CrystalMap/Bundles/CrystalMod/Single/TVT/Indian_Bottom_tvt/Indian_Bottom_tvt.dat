@@ -1,0 +1,22 @@
+GUID 674ca3f08c214256af7c1fea32f6e297
+
+Type Pants
+Rarity Epic
+Useable Clothing
+ID 35136
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 8
+Height 7
+
+Armor 0.75
+
+
+Should_Drop_On_Death False
+
+Allow_Manual_Drop False
+
+Bypass_Hash_Verification

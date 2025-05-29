@@ -1,0 +1,17 @@
+GUID d7d3e86e94d847b4939926ffe753e78b
+Type NPC
+ID 29250
+
+Shirt 768
+Pants 757
+Hat 1681
+Vest 952
+Backpack 956 
+Mask 24268
+
+Face 26
+Hair 1
+Color_Skin #f3cca5
+Color_Hair #000000
+
+Dialogue 29251

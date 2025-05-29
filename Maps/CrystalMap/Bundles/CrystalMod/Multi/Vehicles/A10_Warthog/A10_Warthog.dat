@@ -1,0 +1,58 @@
+GUID e3e2b126c20f4446b5e7a2651ad31074
+
+
+Type Vehicle
+Rarity Mythical
+ID 34140
+
+Speed_Min -8
+Speed_Max 65
+
+Steer_Min 32
+Steer_Max 32
+
+Brake 32
+Lift 5
+
+Fuel 5500
+
+Health_Min 3000
+Health_Max 8000
+Health 8000
+
+LockMouse
+Engine Plane
+Sleds
+Traction
+Reclined
+
+Cam_Follow_Distance 15
+
+Air_Turn_Responsiveness 8
+Air_Steer_Min 78
+Air_Steer_Max 78
+
+
+Explosion 20
+Invulnerable
+Tires_Invulnerable
+
+Pitch_Drive 0.008
+
+Turrets 2
+Turret_0_Seat_Index 0
+Turret_0_Item_ID 21939
+Turret_0_Yaw_Min -135
+Turret_0_Yaw_Max 135
+Turret_0_Pitch_Min 85
+Turret_0_Pitch_Max 180
+Turret_0_Ignore_Aim_Camera
+
+Turret_1_Seat_Index 1
+Turret_1_Item_ID 51540
+Turret_1_Yaw_Min -135
+Turret_1_Yaw_Max 135
+Turret_1_Pitch_Min 85
+Turret_1_Pitch_Max 180
+
+Asset_Bundle_Version 3

@@ -1,0 +1,18 @@
+GUID a8fb57a11c75412eabb6b35ffba1b917
+
+Type Pants
+Rarity Mythical
+Useable Clothing
+ID 25955
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 9
+Height 9
+
+Armor 0.27
+Armor_Explosion 0.76
+
+Should_Drop_On_Death False

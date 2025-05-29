@@ -1,0 +1,17 @@
+GUID f36362b066004487ab87c5e3ad3688e2
+
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 22334
+
+Size_X 1
+Size_Y 2
+Size_Z 0.2
+
+
+Oxygen 100
+
+Should_Delete_After_Use False
+
+Bypass_Hash_Verification

@@ -1,0 +1,26 @@
+GUID 603d0763d7454b8ca767dc02d6750777
+Type Shirt
+Rarity Legendary
+Useable Clothing
+ID 47101
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 10
+Height 10
+
+Armor 0.2
+Armor_Explosion 0.1
+
+Should_Drop_On_Death False
+
+Has_1P_Character_Mesh_Override True
+Character_Mesh_3P_Override_LODs 1
+Has_Character_Material_Override False
+
+Beard_Visible False
+Hair_Visible False
+
+Asset_Bundle_Version 3

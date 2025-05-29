@@ -1,0 +1,23 @@
+GUID b3a8670ad44e4576b2fcdc46ec94457a
+Type Magazine
+Rarity Epic
+ID 56461
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+Amount 81
+Count_Min 18
+Count_Max 81
+
+Calibers 1
+Caliber_0 4658
+
+Speed 2
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 56461
+Blueprint_0_Build 30

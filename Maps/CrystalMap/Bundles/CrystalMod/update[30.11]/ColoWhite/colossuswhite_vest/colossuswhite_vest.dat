@@ -1,0 +1,18 @@
+GUID 1ccabd7397414d52b6f411072270e124
+
+Type Vest
+Rarity Epic
+Useable Clothing
+ID 40014
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Width 10
+Height 10
+
+Armor 0.2
+Armor_Explosion 0.1
+
+Exclude_From_Master_Bundle

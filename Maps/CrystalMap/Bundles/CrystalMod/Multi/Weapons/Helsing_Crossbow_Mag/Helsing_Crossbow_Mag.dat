@@ -1,0 +1,35 @@
+GUID b1b57e5b46e743c797698eb2c7e43695
+Type Magazine
+Rarity Mythical
+ID 59437
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Amount 7
+Count_Min 1
+Count_Max 7
+
+Calibers 1
+Caliber_0 11812
+
+Range 6
+Player_Damage 25
+Zombie_Damage 25
+Animal_Damage 25
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 350
+Resource_Damage 550
+Object_Damage 250
+Explosion 22218
+Explosive
+
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59437
+Blueprint_0_Build 30
+

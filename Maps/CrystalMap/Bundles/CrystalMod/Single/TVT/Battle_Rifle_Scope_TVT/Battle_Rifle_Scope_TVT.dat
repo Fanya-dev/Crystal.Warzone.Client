@@ -1,0 +1,16 @@
+GUID b4324713181a48dea316bc3bd35366e0
+Type Sight
+Rarity Mythical
+ID 49642
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+
+Paintable
+Asset_Bundle_Version 3
+
+Should_Drop_On_Death False
+
+Allow_Manual_Drop False

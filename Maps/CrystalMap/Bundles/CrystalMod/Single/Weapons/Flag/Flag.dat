@@ -1,0 +1,21 @@
+GUID 2108d15b25e14c7686c72a9c54b720a5
+Type Barricade
+Rarity Legendary
+Useable Barricade
+Build Claim
+ID 51864
+
+Size_X 2
+Size_Y 2
+Size_Z 0.7
+
+Health 50000
+Range 4
+Radius 0.5
+Offset 0.48
+
+Explosion 36
+Vulnerable
+Proof_Explosion
+
+Bypass_Hash_Verification

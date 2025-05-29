@@ -1,0 +1,19 @@
+GUID 22059cf63a234400b6f092d5738061ae
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Door
+ID 42121
+
+Size_X 1
+Size_Y 2
+Size_Z 0.65
+
+Health 15000
+Range 4
+Radius 1
+Offset 1.25
+
+Locked
+
+Explosion 19

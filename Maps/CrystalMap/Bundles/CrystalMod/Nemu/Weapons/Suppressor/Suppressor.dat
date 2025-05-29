@@ -1,0 +1,23 @@
+GUID afb477cd6f634e8fb88f481bed2ee987
+Type Barrel
+Rarity Epic
+ID 16233
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 6
+Caliber_0 16200
+Caliber_1 16205
+Caliber_2 16210
+Caliber_3 6700
+Caliber_4 16214
+Caliber_5 16216
+
+Silenced 
+Volume 0.8
+
+Damage 0.8
+
+Paintable

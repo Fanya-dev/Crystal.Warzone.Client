@@ -1,0 +1,19 @@
+GUID 074798640ac64f9baaab55d111ff4aae
+Type Shirt
+Rarity Mythical
+Useable Clothing
+ID 42614
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 7
+Height 4
+
+Armor 0.2
+Armor_Explosion 0.4
+
+Asset_Bundle_Version 2
+
+Bypass_Hash_Verification

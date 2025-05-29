@@ -1,0 +1,52 @@
+GUID 05aeedfdef8443da839f39b2b3c883ed
+Type Hat
+Rarity Mythical
+Useable Clothing
+ID 25981
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Beard
+
+Armor 0.26
+Armor_Explosion 0.01
+
+Blueprints 4
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 25981
+Blueprint_0_Supply_1_ID 18658
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 25984
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 17
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 25981
+Blueprint_1_Supply_1_ID 18658
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 25983
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 17
+
+Blueprint_2_Type Supply
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 25981
+Blueprint_2_Supply_1_ID 18658
+Blueprint_2_Outputs 1
+Blueprint_2_Output_0_ID 25982
+Blueprint_2_Output_0_Amount 1
+Blueprint_2_Build 17
+
+Blueprint_3_Type Supply
+Blueprint_3_Supplies 2
+Blueprint_3_Supply_0_ID 25981
+Blueprint_3_Supply_1_ID 18658
+Blueprint_3_Outputs 1
+Blueprint_3_Output_0_ID 25980
+Blueprint_3_Output_0_Amount 1
+Blueprint_3_Build 17

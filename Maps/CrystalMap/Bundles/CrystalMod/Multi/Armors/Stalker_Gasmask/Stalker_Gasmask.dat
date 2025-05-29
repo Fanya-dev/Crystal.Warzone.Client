@@ -1,0 +1,24 @@
+GUID 2ae962823c114d6b8e0b02aa6f6d08aa
+Type Mask
+Rarity Rare
+Useable Clothing
+ID 31884
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Quality_Min 90
+Quality_Max 100
+
+Proof_Radiation
+
+Hair
+Beard
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 31884
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 32

@@ -1,0 +1,21 @@
+GUID e7f4c05d031d45e88d58a364f698e9d7
+
+Type Magazine
+Rarity Legendary
+ID 44950
+
+Size_X 2
+Size_Y 2
+Size_Z 0.22
+
+Amount 10
+Count_Min 10
+Count_Max 10
+
+Calibers 1
+Caliber_0 49537
+
+Speed 0.8
+
+
+Asset_Bundle_Version 3

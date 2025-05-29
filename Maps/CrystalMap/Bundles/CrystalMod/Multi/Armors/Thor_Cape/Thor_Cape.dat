@@ -1,0 +1,17 @@
+GUID c85bc183d053402b8ce4bd2a39b1ac98
+
+Type Backpack
+Rarity Mythical
+Useable Clothing
+ID 24953
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Earpiece
+Width 15
+Height 15
+Proof_Water
+
+Should_Drop_On_Death False

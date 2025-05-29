@@ -1,0 +1,20 @@
+GUID feac64be0ceb4ac087a06f98a42c0ae2
+
+Type Shirt
+Rarity Epic
+Useable Clothing
+ID 32254
+
+Size_X 2
+Size_Y 2
+Size_Z 0.75
+
+Width 5
+Height 4
+
+Armor 0.35
+Armor_Explosion 0.45
+
+
+
+Should_Drop_On_Death False

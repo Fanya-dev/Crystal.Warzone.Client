@@ -1,0 +1,22 @@
+GUID 138d952af5584b99bd828d864c26e50d
+Type Farm
+Useable Barricade
+Build Farm
+ID 33250
+
+Size_X 1
+Size_Y 1
+Size_Z 0.7
+
+Health 1
+Range 4
+Radius 0
+Offset 0.25
+
+Growth 25200
+Grow 33256
+
+Explosion 43
+Vulnerable
+
+Asset_Bundle_Version 2

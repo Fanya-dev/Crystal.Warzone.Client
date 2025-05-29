@@ -1,0 +1,20 @@
+GUID 3854baff7d3548b0ad04f13ebeba2716
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 33122
+
+Size_X 3
+Size_Y 3
+Size_Z 0.7
+
+Health 50000
+Range 4
+Radius 0.4
+Offset 0.37
+
+Explosion 19
+
+
+Asset_Bundle_Version 2

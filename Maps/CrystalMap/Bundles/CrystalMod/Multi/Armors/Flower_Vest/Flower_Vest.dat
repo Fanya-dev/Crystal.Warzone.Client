@@ -1,0 +1,17 @@
+GUID 8e17ba936dbb455a8ad39aa2495f0994
+Type Vest
+Rarity Legendary
+Useable Clothing
+ID 29517
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Width 6
+Height 6
+
+Armor 0.5
+Armor_Explosion 0.65
+
+Should_Drop_On_Death False

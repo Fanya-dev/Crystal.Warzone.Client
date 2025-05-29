@@ -1,0 +1,20 @@
+GUID 6fd5063a5093463a98d7239961490326
+
+Type Hat
+Rarity Mythical
+Useable Clothing
+ID 15959
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+
+Armor 0.35
+Armor_Explosion 0.45
+
+asset_bundle_version 3
+
+
+Should_Drop_On_Death False
+

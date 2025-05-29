@@ -1,0 +1,52 @@
+GUID fd2d06a82f934c96b9148e88e62f226a
+Type Hat
+Rarity Legendary
+Useable Clothing
+ID 36245
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Earpiece
+
+Armor 0.1
+Armor_Explosion 0.1
+
+Blueprints 4
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 36245
+Blueprint_0_Supply_1_ID 18658
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 36246
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 17
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 36245
+Blueprint_1_Supply_1_ID 18658
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 36247
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 17
+
+Blueprint_2_Type Supply
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 36245
+Blueprint_2_Supply_1_ID 18658
+Blueprint_2_Outputs 1
+Blueprint_2_Output_0_ID 36248
+Blueprint_2_Output_0_Amount 1
+Blueprint_2_Build 17
+
+Blueprint_3_Type Supply
+Blueprint_3_Supplies 2
+Blueprint_3_Supply_0_ID 36245
+Blueprint_3_Supply_1_ID 18658
+Blueprint_3_Outputs 1
+Blueprint_3_Output_0_ID 52772
+Blueprint_3_Output_0_Amount 1
+Blueprint_3_Build 17

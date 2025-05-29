@@ -1,0 +1,21 @@
+GUID 7c7c609d22724054bbae925baf09b56c
+Type Barrel
+ID 12838
+
+Size_X 3
+Size_Y 1
+Size_Z 0.3
+
+Calibers 1
+Caliber_0 43349
+
+Braked
+Silenced 
+Volume 0.65
+
+Recoil_X 0.9
+Recoil_Y 0.9
+
+Spread 0.35
+Ballistic_Damage_Multiplier 1.17
+Asset_Bundle_Version 3

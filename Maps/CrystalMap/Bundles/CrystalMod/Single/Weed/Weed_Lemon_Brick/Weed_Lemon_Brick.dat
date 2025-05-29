@@ -1,0 +1,17 @@
+GUID 650584e5a61a4610ba258bc486eee8bf
+Type Supply
+ID 33253
+
+Size_X 2
+Size_Y 2
+Size_Z 0.8
+
+Blueprints 1
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 33255
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Supply_1_ID 69
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 17

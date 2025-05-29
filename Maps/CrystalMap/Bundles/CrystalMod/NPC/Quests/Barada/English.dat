@@ -1,0 +1,6 @@
+Name Kill 200 zombies at quarry and slay Magma Boss
+Description Kill 200 zombies at Sinaloa hideout and slay magma boss at Fire Station
+
+Condition_0 Kill 200 zombies at Sinaloa Hideout {0}/{1}
+Condition_1 Kill Magma Boss at Fire Station {0}/{1}
+Condition_2 Collect 10 coconuts  {0}/{1}

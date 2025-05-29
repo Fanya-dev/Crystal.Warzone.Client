@@ -1,0 +1,75 @@
+GUID be489098aa9043cca9465c27d688d422
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Secondary
+ID 17962
+
+Size_X 3
+Size_Y 2
+Size_Z 0.8
+Size2_Z 0.8
+
+Magazine 17963
+
+Hook_Sight
+Hook_Tactical
+Hook_Grip
+Hook_Barrel
+
+Ammo_Min 20
+Ammo_Max 20
+
+Safety
+Semi
+
+Caliber 49193
+
+Range 30
+Firerate 15
+Action Rail
+
+Player_Damage 20
+Player_Leg_Multiplier 0.8
+Player_Arm_Multiplier 0.8
+Player_Spine_Multiplier 1.2
+Player_Skull_Multiplier 1.2
+
+Zombie_Damage 99
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 40
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 20
+Structure_Damage 15
+Vehicle_Damage 35
+Resource_Damage 15
+Object_Damage 25
+
+Durability 0.2
+
+Spread_Aim 0.0001
+Spread_Hip 0.0001
+
+Recoil_Min_X 0.001
+Recoil_Min_Y 0.001
+Recoil_Max_X 0.001
+Recoil_Max_Y 0.001
+
+Recover_X 0.6
+Recover_Y 0.4
+
+Shake_Min_X -0.0045
+Shake_Min_Y 0.0045
+Shake_Min_Z -0.02
+Shake_Max_X 0.0045
+Shake_Max_Y -0.0045
+Shake_Max_Z -0.04
+
+Asset_Bundle_Version 3

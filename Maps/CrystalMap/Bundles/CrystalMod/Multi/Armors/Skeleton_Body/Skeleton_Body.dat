@@ -1,0 +1,25 @@
+GUID 86ffb59219104d039832db1bccca2e9a
+
+Type Shirt
+Rarity Legendary
+Useable Clothing
+ID 36291
+
+Size_X 3
+Size_Y 3
+Size_Z 0.8
+
+Has_1P_Character_Mesh_Override True
+Character_Mesh_3P_Override_LODs 1
+Has_Character_Material_Override True
+
+Beard_Visible False
+Hair_Visible False
+
+Width 8
+Height 8
+
+Armor 0.22
+Armor_Explosion 0.15
+
+Asset_Bundle_Version 2

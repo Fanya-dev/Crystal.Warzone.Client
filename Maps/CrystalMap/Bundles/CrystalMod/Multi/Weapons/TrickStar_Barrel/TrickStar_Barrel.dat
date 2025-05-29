@@ -1,0 +1,16 @@
+GUID 37250761765d4df5bdb128d6a50d832a
+Type Barrel
+ID 12934
+
+Size_X 3
+Size_Y 1
+Size_Z 0.3
+
+Calibers 1
+Caliber_0 29002
+
+Braked
+Silenced 
+Volume 0.95
+
+Asset_Bundle_Version 3

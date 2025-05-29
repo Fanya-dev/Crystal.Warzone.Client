@@ -1,0 +1,77 @@
+GUID 440f587c4f294a019e4bbc929acb089e
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Secondary
+ID 52753
+
+Size_X 2
+Size_Y 2
+Size_Z 0.75
+Size2_Z 0.55
+
+Magazine 52336
+
+Hook_Tactical
+Hook_Grip
+Hook_Barrel
+
+Ammo_Min 70
+Ammo_Max 90
+
+Safety
+Auto
+
+Caliber 40021
+
+Range 245
+Firerate 3
+Action Trigger
+
+Player_Damage 66
+Player_Leg_Multiplier 0.4
+Player_Arm_Multiplier 0.4
+Player_Spine_Multiplier 0.7
+Player_Skull_Multiplier 1.35
+
+Zombie_Damage 99
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 40
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 20
+Structure_Damage 15
+Vehicle_Damage 35
+Resource_Damage 15
+Object_Damage 25
+
+Durability 0.083
+
+Spread_Aim 0.05
+Spread_Hip 0.1
+
+Recoil_Min_X -0.55
+Recoil_Min_Y 2.8
+Recoil_Max_X 0.45
+Recoil_Max_Y 4.3
+
+Recover_X 0.6
+Recover_Y 0.6
+
+Shake_Min_X -0.0025
+Shake_Min_Y 0.0025
+Shake_Min_Z -0.01
+Shake_Max_X 0.0025
+Shake_Max_Y -0.0025
+Shake_Max_Z -0.02
+
+Muzzle 38550
+
+
+Can_Aim_During_Sprint True

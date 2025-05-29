@@ -1,0 +1,18 @@
+GUID 89371521c1a24ead91359775939e404f
+
+Type Shirt
+Rarity Mythical
+Useable Clothing
+ID 56164
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 10
+Height 10
+
+Armor 0.24
+Armor_Explosion 0.07
+
+Should_Drop_On_Death False

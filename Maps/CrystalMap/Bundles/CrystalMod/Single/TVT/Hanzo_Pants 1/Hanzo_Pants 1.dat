@@ -1,0 +1,20 @@
+GUID f61ab4c1bcdf4d3db36c6f22ea4f18cb
+
+Type Pants
+Rarity Mythical
+Useable Clothing
+ID 49652
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 8
+Height 10
+
+Armor 0.1
+Armor_Explosion 0.1
+
+Should_Drop_On_Death False
+
+Allow_Manual_Drop False

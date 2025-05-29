@@ -1,0 +1,27 @@
+GUID 6171a377aa674d8db1869384e2b67790
+Type Magazine
+Rarity Epic
+ID 11986
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+Amount 200
+Count_Min 199
+Count_Max 200
+
+Calibers 1
+Caliber_0 33
+
+Tracer 55
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 11986
+Blueprint_1_Build 30

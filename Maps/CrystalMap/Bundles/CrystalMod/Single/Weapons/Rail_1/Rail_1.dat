@@ -1,0 +1,28 @@
+GUID 5345084bf0a14afd89a050a21c6aa0c5
+Type Magazine
+Rarity Mythical
+ID 51114
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Amount 1
+
+Calibers 1
+Caliber_0 39871
+
+Range 6
+Player_Damage 10
+Zombie_Damage 25
+Animal_Damage 25
+Barricade_Damage 50
+Structure_Damage 50
+Vehicle_Damage 250
+Resource_Damage 250
+Object_Damage 75
+Explosion 45
+Impact 40367
+Explosive
+
+Tracer 50

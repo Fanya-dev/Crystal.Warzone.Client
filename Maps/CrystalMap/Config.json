@@ -1,0 +1,22 @@
+{
+	"Is_Aurora_Borealis_Visible": true,
+	"Visible_In_Matchmaking": true,
+	"PlayerUI_StaminaVisible": false,
+	"Should_Verify_Objects_Hash": true,	
+	"Use_Legacy_Ground": true,
+	"Trains":
+	[
+		{
+			"VehicleID": 18612,
+			"RoadIndex": 17,
+			"Min_Spawn_Placement": 0.1,
+			"Max_Spawn_Placement": 0.9
+		}
+	],
+	"Version": "1.15.3.7",
+	"Use_Legacy_Ground": true,
+	"Asset":
+	{
+		"GUID": "289ef133c66d46c7aff06566c55d4bae"
+	}
+}

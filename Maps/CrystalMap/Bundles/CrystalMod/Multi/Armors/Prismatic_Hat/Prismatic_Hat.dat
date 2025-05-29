@@ -1,0 +1,17 @@
+GUID ba04fff1ff6b431db800e73b584c538e
+
+Type Hat
+Rarity Mythical
+Useable Clothing
+ID 22343
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Earpiece
+
+Armor 0.11
+Armor_Explosion 0.3
+
+Should_Drop_On_Death False

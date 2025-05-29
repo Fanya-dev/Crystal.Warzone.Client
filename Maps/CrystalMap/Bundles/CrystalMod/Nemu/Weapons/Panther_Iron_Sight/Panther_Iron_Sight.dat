@@ -1,0 +1,27 @@
+GUID 76d86698fd6e4717a88ea2c6e5322d28
+
+
+Type Shirt
+Rarity Mythical
+Useable Clothing
+ID 22944
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 10
+Height 12
+
+Armor 0.18
+Armor_Explosion 0.1
+
+Has_1P_Character_Mesh_Override True
+Character_Mesh_3P_Override_LODs 1
+Has_Character_Material_Override True
+
+Beard_Visible False
+Hair_Visible False
+
+
+Bypass_Hash_Verification

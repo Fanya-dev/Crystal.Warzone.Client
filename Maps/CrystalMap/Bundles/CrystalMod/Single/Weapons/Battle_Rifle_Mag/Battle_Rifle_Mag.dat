@@ -1,0 +1,27 @@
+GUID 3d81f689f2cf46efae59de092b4ad142
+Type Magazine
+Rarity Mythical
+ID 53925
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Amount 50
+Count_Min 50
+Count_Max 50
+
+Calibers 1
+Caliber_0 43380
+
+Tracer 49
+
+Speed 1.28
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 53925
+Blueprint_0_Build 30
+
+

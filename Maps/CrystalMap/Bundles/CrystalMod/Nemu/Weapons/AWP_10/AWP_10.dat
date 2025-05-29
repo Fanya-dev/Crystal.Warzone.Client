@@ -1,0 +1,30 @@
+GUID 3e30cb90a83543ab8868390739f22609
+
+Type Magazine
+Rarity Rare
+ID 13051
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 10
+Count_Min 2
+Count_Max 6
+
+Calibers 1
+Caliber_0 6791
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 119
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 13051
+Blueprint_1_Build 30
+
+Paintable

@@ -1,0 +1,180 @@
+ManifestFileVersion: 0
+CRC: 3768813915
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d641e85c717ea5c893c339ac6f7c80d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a74eaa5f04f15ee77d941e7907c2cae7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/Boy/bender/bender_top/Model_1.prefab
+- Assets/Boy/doomslayer/doomslayer_top1/Model_0.prefab
+- Assets/Boy/dual_dubstep/Projectile_Electric_ES1.mat
+- Assets/Boy/doomslayer/doomslayer_vest1/Vest.prefab
+- Assets/Boy/captainhydra/captainhydra_bottom/Pants.png
+- Assets/Boy/captainhydra/captainhydra_top/Item.prefab
+- Assets/Boy/captainhydra/captainhydra_backpack/Animations.prefab
+- Assets/Boy/pink_wick/johnwick_helmet_pink/Item.prefab
+- Assets/Boy/dual_dubstep/Minigun.ogg
+- Assets/Boy/captainhydra/captainhydra_bottom/Animations.prefab
+- Assets/Boy/bender/bender_hat/Animations.prefab
+- Assets/Boy/doomslayer/doomslayer_helmet1/New Animation.anim
+- Assets/Boy/bender/bender_vest/Animations.prefab
+- Assets/Boy/bender/bender_vest/Equip.anim
+- Assets/Boy/doomslayer/doomslayer_helmet1/Item.prefab
+- Assets/Boy/doomslayer/doomslayer_helmet1/Hat.prefab
+- Assets/Boy/bender/bender_top/Equip.anim
+- Assets/Boy/pink_halo/halo_helmet_pink/Item.prefab
+- Assets/Boy/bender/bender_top/Animations.prefab
+- Assets/Boy/captainhydra/captainhydra_backpack/Backpack.prefab
+- Assets/Boy/doomslayer/doomslayer_helmet1/Animations.prefab
+- Assets/Boy/bender/bender_bottom/Use.anim
+- Assets/Boy/bender/bender_top/Character_Mesh_1P_Override_0.prefab
+- Assets/Boy/dual_dubstep/Gradient_greyscale.PNG
+- Assets/Boy/captainhydra/captainhydra_vest/Vest.prefab
+- Assets/Boy/dubstep_mag/Magazine.prefab
+- Assets/Boy/dual_dubstep/UniqueProjectiles_Additive8x8.png
+- Assets/Boy/pink_halo/halo_top_pink/Item.prefab
+- Assets/Boy/bender/bender_top/Shirt.png
+- Assets/Boy/dual_dubstep/Sprint_Stop.anim
+- Assets/Boy/dual_dubstep/Reload.anim
+- Assets/Boy/captainhydra/captainhydra_helmet/Item.prefab
+- Assets/Boy/doomslayer/doomslayer_bottom1/Item.prefab
+- Assets/Boy/captainhydra/captainhydra_backpack/Item.prefab
+- Assets/Boy/bender/bender_bottom/Equip.anim
+- Assets/Boy/dual_dubstep/Sprint_Start.anim
+- Assets/Boy/pink_wick/johnwick_bottom_pink/Material.mat
+- Assets/Boy/bender/bender_bottom/Material.mat
+- Assets/Boy/bender/bender_top/Use.anim
+- Assets/Boy/dual_dubstep/Noise02.png
+- Assets/Boy/doomslayer/doomslayer_helmet1/New Material.mat
+- Assets/Boy/pink_halo/halo_bottom_pink/Pants.png
+- Assets/Boy/captainhydra/captainhydra_backpack/Use.anim
+- Assets/Boy/dual_dubstep/Aim_Start.anim
+- Assets/Boy/pink_halo/halo_top_pink/Material.mat
+- Assets/Boy/pink_halo/halo_top_pink/Animations.prefab
+- Assets/Boy/bender/bender_hat/Use.anim
+- Assets/Boy/captainhydra/captainhydra_vest/Animations.prefab
+- Assets/Boy/dual_dubstep/Noise01.png
+- Assets/Boy/doomslayer/doomslayer_top1/model.asset
+- Assets/Boy/dual_dubstep/Item.prefab
+- Assets/Boy/bender/bender_top/Character_Mesh_3P_Override_0.prefab
+- Assets/Boy/bender/bender_bottom/Pants.png
+- Assets/Boy/pink_halo/halo_vest_pink/halovest.mat
+- Assets/Boy/pink_wick/johnwick_bottom_pink/Pants.png
+- Assets/Boy/dual_dubstep/Projectile_Electric_2x2.png
+- Assets/Boy/bender/bender_bottom/Item.prefab
+- Assets/Boy/captainhydra/captainhydra_top/Material.mat
+- Assets/Boy/pink_wick/johnwick_helmet_pink/New Material.mat
+- Assets/Boy/pink_halo/halo_helmet_pink/Animations.prefab
+- Assets/Boy/pink_halo/halo_bottom_pink/Animations.prefab
+- Assets/Boy/dual_dubstep/Attach_Start.anim
+- Assets/Boy/pink_halo/halo_bottom_pink/Material.mat
+- Assets/Boy/bender/bender_top/Model_0.014.asset
+- Assets/Boy/doomslayer/doomslayer_top1/Animations.prefab
+- Assets/Boy/doomslayer/doomslayer_top1/Character_Mesh_1P_Override_0.prefab
+- Assets/Boy/pink_wick/johnwick_top_pink/Material.mat
+- Assets/Boy/captainhydra/captainhydra_helmet/Hat.prefab
+- Assets/Boy/doomslayer/doomslayer_vest1/Item.prefab
+- Assets/Boy/dual_dubstep/Equip.anim
+- Assets/Boy/dual_dubstep/Animations.prefab
+- Assets/Boy/captainhydra/captainhydra_bottom/Item.prefab
+- Assets/Boy/bender/bender_vest/Item.prefab
+- Assets/Boy/doomslayer/doomslayer_top1/Default Take.anim
+- Assets/Boy/dual_dubstep/Projectile.prefab
+- Assets/Boy/pink_halo/halo_vest_pink/Vest.prefab
+- Assets/Boy/pink_halo/halo_vest_pink/halovest.asset
+- Assets/Boy/bender/bender_top/Model_0.011.asset
+- Assets/Boy/captainhydra/captainhydra_helmet/Animations.prefab
+- Assets/Boy/bender/bender_top/Character_Material_Override.mat
+- Assets/Boy/dual_dubstep/Inspect.anim
+- "Assets/Boy/doomslayer/doomslayer_helmet1/\u0410\u0440\u043C\u0430\u0442\u0443\u0440\u0430.controller"
+- Assets/Boy/pink_halo/halo_vest_pink/testhalolod.prefab
+- Assets/Boy/doomslayer/doomslayer_bottom1/Material.mat
+- Assets/Boy/bender/bender_hat/Item.prefab
+- Assets/Boy/pink_wick/johnwick_bottom_pink/Animations.prefab
+- Assets/Boy/captainhydra/captainhydra_bottom/Material.mat
+- Assets/Boy/bender/bender_top/Model_0.prefab
+- Assets/Boy/doomslayer/doomslayer_top1/Character_Material_Override.mat
+- Assets/Boy/pink_halo/halo_vest_pink/halovest_0.asset
+- Assets/Boy/pink_halo/halo_vest_pink/Item.prefab
+- Assets/Boy/pink_halo/halo_vest_pink/Animations.prefab
+- Assets/Boy/dual_dubstep/Additive_Scroll.shader
+- Assets/Boy/dual_dubstep/Attach_Stop.anim
+- Assets/Boy/pink_halo/halo_vest_pink/testhalo.prefab
+- Assets/Boy/bender/bender_hat/Equip.anim
+- Assets/Boy/bender/bender_vest/Vest.prefab
+- Assets/Boy/pink_wick/johnwick_helmet_pink/Hat.prefab
+- Assets/Boy/dual_dubstep/Aim_Stop.anim
+- Assets/Boy/captainhydra/captainhydra_top/Animations.prefab
+- Assets/Boy/pink_wick/johnwick_helmet_pink/Animations.prefab
+- Assets/Boy/pink_halo/halo_top_pink/Shirt.png
+- Assets/Boy/captainhydra/captainhydra_vest/Item.prefab
+- Assets/Boy/pink_wick/johnwick_top_pink/Item.prefab
+- Assets/Boy/bender/bender_vest/Use.anim
+- Assets/Boy/pink_halo/halo_helmet_pink/Hat.prefab
+- Assets/Boy/dual_dubstep/UniqueProjectiles_Additive_8x8.mat
+- Assets/Boy/pink_wick/johnwick_bottom_pink/Item.prefab
+- Assets/Boy/dual_dubstep/GradientCenter03.png
+- Assets/Boy/pink_wick/johnwick_top_pink/Shirt.png
+- Assets/Boy/doomslayer/doomslayer_bottom1/Animations.prefab
+- Assets/Boy/doomslayer/doomslayer_top1/Item.prefab
+- Assets/Boy/doomslayer/doomslayer_top1/Character_Mesh_3P_Override_0.prefab
+- Assets/Boy/doomslayer/doomslayer_vest1/Animations.prefab
+- Assets/Boy/bender/bender_top/Item.prefab
+- Assets/Boy/captainhydra/captainhydra_backpack/Equip.anim
+- Assets/Boy/pink_wick/johnwick_top_pink/Animations.prefab
+- Assets/Boy/dubstep_mag/Item.prefab
+- Assets/Boy/dual_dubstep/Hammer.anim
+- Assets/Boy/doomslayer/doomslayer_top1/Shirt.png
+- Assets/Boy/pink_halo/halo_bottom_pink/Item.prefab
+- Assets/Boy/captainhydra/captainhydra_top/Shirt.png
+- Assets/Boy/doomslayer/doomslayer_bottom1/Pants.png
+- Assets/Boy/bender/bender_bottom/Animations.prefab
+- Assets/Boy/bender/bender_hat/Hat.prefab
+- Assets/Boy/dual_dubstep/Equip.ogg
+- Assets/Boy/dual_dubstep/Trail02_ABScroll.mat
+Dependencies: []

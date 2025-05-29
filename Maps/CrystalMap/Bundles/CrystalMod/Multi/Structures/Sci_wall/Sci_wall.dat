@@ -1,0 +1,15 @@
+GUID f03d3d231ade49f081b39350f0868817
+Type Structure
+Rarity Rare
+Useable Structure
+Construct Wall
+ID 55771
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Health 15000
+Range 8
+
+Explosion 29

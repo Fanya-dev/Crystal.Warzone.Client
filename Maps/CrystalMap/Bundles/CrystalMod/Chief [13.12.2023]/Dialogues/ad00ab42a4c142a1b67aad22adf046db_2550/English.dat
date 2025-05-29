@@ -1,0 +1,5 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 Hi, <name_char> my name is Chief, I need you to <color=#FF0000>kill 500 zombies</color> in the location of the <color=#808000>Alicante</color> , can you handle it?
+Response_0 <color=#008000>Yes</color>
+Response_1 <color=#00FF00>I'm finished.</color>
+Response_2 <color=#FF0000>No</color>

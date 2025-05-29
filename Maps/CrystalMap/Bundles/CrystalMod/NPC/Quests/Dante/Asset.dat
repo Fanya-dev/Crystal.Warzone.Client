@@ -1,0 +1,30 @@
+GUID fdc600a8400a4c728cfd2e786967cc61
+
+Type Quest
+ID 56873
+
+Conditions 1
+Condition_0_Type Kills_Zombie
+Condition_0_ID 42478
+Condition_0_Value 150
+Condition_0_Nav 2
+Condition_0_Reset
+
+
+Rewards 1
+
+Reward_0_Type Item_Random
+Reward_0_ID 52895
+Reward_0_Amount 2
+
+
+
+
+
+
+
+
+
+
+
+

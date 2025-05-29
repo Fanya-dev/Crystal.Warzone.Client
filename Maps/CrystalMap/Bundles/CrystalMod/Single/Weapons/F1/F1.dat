@@ -1,0 +1,25 @@
+GUID ae9776edbad345afae32f8691a4d8c7d
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 31140
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Player_Damage 350
+Zombie_Damage 175
+Animal_Damage 175
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 100
+Resource_Damage 1000
+Object_Damage 500
+
+Range 17
+Explosion 37717
+
+Explosive
+
+Explosion_Launch_Speed 0

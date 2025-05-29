@@ -1,0 +1,28 @@
+GUID 7d61ce01a5fa4b27927f02a39982fed7
+Type Throwable
+Rarity Epic
+Useable Throwable
+ID 57027
+
+Size_X 2
+Size_Y 3
+Size_Z 0.25
+
+Player_Damage 250
+Zombie_Damage 250
+Animal_Damage 250
+Barricade_Damage 2000
+Structure_Damage 2000
+Vehicle_Damage 575
+Resource_Damage 2000
+Object_Damage 700
+
+Range 15
+Explosion 5701
+
+Explosive
+
+Asset_Bundle_Version 3
+
+
+Explosion_Launch_Speed 5

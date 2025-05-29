@@ -1,0 +1,36 @@
+GUID d1506674bc7e4f54b72f554a2be1665b
+Type Supply
+Rarity Mythical
+ID 50014
+
+Size_X 6
+Size_Y 4
+Size_Z 1.6
+
+Blueprints 2
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 41695
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 41696
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 41697
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 41698
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Build 17
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 50014
+Blueprint_1_Outputs 4
+Blueprint_1_Output_0_ID 41695
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Output_1_ID 41696
+Blueprint_1_Output_1_Amount 1
+Blueprint_1_Output_2_ID 41697
+Blueprint_1_Output_2_Amount 1
+Blueprint_1_Output_3_ID 41698
+Blueprint_1_Output_3_Amount 1
+Blueprint_1_Build 17

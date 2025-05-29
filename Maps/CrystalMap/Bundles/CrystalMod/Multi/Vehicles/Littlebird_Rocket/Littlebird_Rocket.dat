@@ -1,0 +1,54 @@
+GUID 7074881deda346c4830bc1b622511506
+
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 12004
+
+Size_X 5
+Size_Y 2
+Size_Z 0.45
+Size2_Z 0.7
+
+Sight 1301
+Magazine 12005
+
+Hook_Sight
+
+Ammo_Min 30
+Ammo_Max 40
+
+Semi
+Bursts 2
+Auto
+
+Caliber 728
+
+Firerate 8
+Action Rocket
+
+Player_Damage 180
+Zombie_Damage 300
+Animal_Damage 40
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 500
+Resource_Damage 1000
+Object_Damage 1000
+
+Invulnerable
+
+Range 18
+Explosion 31711
+
+
+Spread_Aim 0.1
+Spread_Hip 0.1
+
+Ballistic_Force 750
+
+Reload_Time 2
+Turret
+
+Explosion_Launch_Speed 3

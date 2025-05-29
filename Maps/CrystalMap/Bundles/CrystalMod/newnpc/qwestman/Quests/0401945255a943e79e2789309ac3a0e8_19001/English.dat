@@ -1,0 +1,4 @@
+﻿// Made in NPC Maker by BowieD
+Name <color=#1F871F><b>Money Twerk</b></color>
+Description <color=#4B64FA>Retro</color> wants for you kill some zombies anywhere from 30m
+Condition_0 Kill zombies anywhere {0}/{1}

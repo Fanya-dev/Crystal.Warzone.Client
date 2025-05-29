@@ -1,0 +1,18 @@
+GUID 6483e41c18c44c98873f6cb3ef038b2e
+
+Type Vest
+Rarity Mythical
+Useable Clothing
+ID 46624
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Width 8
+Height 10
+
+Armor 0.21
+Armor_Explosion 0.1
+
+Asset_Bundle_Version 3

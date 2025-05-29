@@ -1,0 +1,29 @@
+GUID 5c14fffe201d49499c19fc3d4b0c036c
+
+Type Shirt
+Rarity Epic
+Useable Clothing
+ID 40013
+
+Size_X 3
+Size_Y 3
+Size_Z 0.8
+
+Armor 0.21
+Armor_Explosion 0.1
+
+
+Beard_Visible False
+Hair_Visible False
+
+Width 10
+Height 10
+
+Asset_Bundle_Version 3
+
+
+Has_1P_Character_Mesh_Override True
+Character_Mesh_3P_Override_LODs 1
+Has_Character_Material_Override False
+
+Exclude_From_Master_Bundle

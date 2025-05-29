@@ -1,0 +1,40 @@
+GUID a4789b4a9b634daa9f170fc9d8f17f91
+Type Supply
+Rarity Epic
+ID 57696
+
+Size_X 6
+Size_Y 4
+Size_Z 1.6
+
+Blueprints 2
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 5
+Blueprint_0_Supply_0_ID 9920
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 42148
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 42151
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 42150
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Supply_4_ID 42149
+Blueprint_0_Supply_4_Amount 1
+Blueprint_0_Build 17
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 57696
+Blueprint_1_Outputs 5
+Blueprint_1_Output_0_ID 9920
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Output_1_ID 42148
+Blueprint_1_Output_1_Amount 1
+Blueprint_1_Output_2_ID 42151
+Blueprint_1_Output_2_Amount 1
+Blueprint_1_Output_3_ID 42150
+Blueprint_1_Output_3_Amount 1
+Blueprint_1_Output_4_ID 42149
+Blueprint_1_Output_4_Amount 1
+Blueprint_1_Build 17

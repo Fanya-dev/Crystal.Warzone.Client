@@ -1,0 +1,124 @@
+﻿// Made in NPC Maker by BowieD
+GUID 185cd4e72b0c435c8a9bcc92d41b77a7
+Type Dialogue
+ID 9992
+Messages 1
+Message_0_Pages 1
+Responses 10
+Response_0_Dialogue 9993
+Response_0_Quest 19000
+Response_0_Conditions 2
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_ID 19000
+Response_0_Condition_0_Status None
+Response_0_Condition_0_Logic Equal
+Response_0_Condition_0_Ignore_NPC False
+
+Response_0_Condition_1_Type Quest
+Response_0_Condition_1_ID 19000
+Response_0_Condition_1_Status Completed
+Response_0_Condition_1_Logic Not_Equal
+Response_0_Condition_1_Ignore_NPC False
+
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 19000
+
+Response_1_Dialogue 9993
+Response_1_Quest 19001
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 19001
+Response_1_Condition_0_Status None
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_Ignore_NPC False
+
+Response_1_Rewards 1
+Response_1_Reward_0_Type Quest
+Response_1_Reward_0_ID 19001
+
+Response_2_Dialogue 9993
+Response_2_Quest 19002
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_ID 19002
+Response_2_Condition_0_Status None
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_Ignore_NPC False
+
+Response_2_Rewards 1
+Response_2_Reward_0_Type Quest
+Response_2_Reward_0_ID 19002
+
+Response_3_Dialogue 9993
+Response_3_Quest 19003
+Response_3_Conditions 1
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_ID 19003
+Response_3_Condition_0_Status None
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_Ignore_NPC False
+
+Response_3_Rewards 1
+Response_3_Reward_0_Type Quest
+Response_3_Reward_0_ID 19003
+
+Response_4_Dialogue 9993
+Response_4_Quest 19004
+Response_4_Conditions 2
+Response_4_Condition_0_Type Quest
+Response_4_Condition_0_ID 19004
+Response_4_Condition_0_Status None
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_0_Ignore_NPC False
+
+Response_4_Condition_1_Type Quest
+Response_4_Condition_1_ID 19004
+Response_4_Condition_1_Status Completed
+Response_4_Condition_1_Logic Not_Equal
+Response_4_Condition_1_Ignore_NPC False
+
+Response_4_Rewards 1
+Response_4_Reward_0_Type Quest
+Response_4_Reward_0_ID 19004
+
+Response_5_Conditions 1
+Response_5_Condition_0_Type Quest
+Response_5_Condition_0_ID 19000
+Response_5_Condition_0_Status Ready
+Response_5_Condition_0_Logic Equal
+Response_5_Condition_0_Ignore_NPC False
+Response_5_Condition_0_Reset 
+
+Response_6_Conditions 1
+Response_6_Condition_0_Type Quest
+Response_6_Condition_0_ID 19004
+Response_6_Condition_0_Status Ready
+Response_6_Condition_0_Logic Equal
+Response_6_Condition_0_Ignore_NPC False
+Response_6_Condition_0_Reset 
+
+Response_7_Conditions 1
+Response_7_Condition_0_Type Quest
+Response_7_Condition_0_ID 19003
+Response_7_Condition_0_Status Ready
+Response_7_Condition_0_Logic Equal
+Response_7_Condition_0_Ignore_NPC False
+Response_7_Condition_0_Reset 
+
+Response_8_Conditions 1
+Response_8_Condition_0_Type Quest
+Response_8_Condition_0_ID 19002
+Response_8_Condition_0_Status Ready
+Response_8_Condition_0_Logic Equal
+Response_8_Condition_0_Ignore_NPC False
+Response_8_Condition_0_Reset 
+
+Response_9_Conditions 1
+Response_9_Condition_0_Type Quest
+Response_9_Condition_0_ID 19001
+Response_9_Condition_0_Status Ready
+Response_9_Condition_0_Logic Equal
+Response_9_Condition_0_Ignore_NPC False
+Response_9_Condition_0_Reset 
+

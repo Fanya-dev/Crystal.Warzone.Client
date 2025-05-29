@@ -1,0 +1,44 @@
+GUID 479a37b2ccd8411387691035c80abfe6
+Type Beacon
+Rarity Mythical
+Useable Barricade
+Build Beacon
+ID 56724
+
+Size_X 3
+Size_Y 3
+Size_Z 0.5
+
+Health 7500
+Range 6
+Radius 1.5
+Offset 1
+
+Explosion 36
+Unpickupable
+
+Blueprints 1
+
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 6
+Blueprint_0_Supply_0_ID 22771
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 22772
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 458
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 75
+Blueprint_0_Supply_3_Amount 10
+Blueprint_0_Supply_4_ID 1298
+Blueprint_0_Supply_4_Amount 1
+Blueprint_0_Supply_5_ID 73
+Blueprint_0_Supply_5_Amount 4
+Blueprint_0_Build 27
+
+Wave 300
+Rewards 37
+Reward_ID 38670
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Asset_Bundle_Version 3

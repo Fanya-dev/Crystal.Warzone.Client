@@ -1,0 +1,20 @@
+GUID 0606e7cbe5494f458b1ad614e6774d4c
+Type Barrel
+ID 51844
+
+Size_X 3
+Size_Y 1
+Size_Z 0.3
+
+Calibers 1
+Caliber_0 46887
+
+Braked
+Silenced 
+Volume 0.5
+
+Recoil_X 0.9
+Recoil_Y 0.9
+
+Spread 0.75
+Ballistic_Damage_Multiplier 1.2

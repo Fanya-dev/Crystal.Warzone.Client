@@ -1,0 +1,27 @@
+GUID 9a32b8b5739f48258eb11801df67c07d
+Type Dialogue
+ID 52292
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// I'd like to trade
+// Chef_Vendor_Completed
+Response_0_Dialogue 52293
+Response_0_Vendor 52295
+Response_0_Conditions 1
+Response_0_Condition_0_Type Flag_Bool
+Response_0_Condition_0_ID 66161
+Response_0_Condition_0_Value True
+Response_0_Condition_0_Logic Equal
+
+// Intro
+// German_Intro
+Response_1_Dialogue 52294
+Response_1_Rewards 1
+// Can_Sell_To_Chef
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 66161
+Response_1_Reward_0_Value True

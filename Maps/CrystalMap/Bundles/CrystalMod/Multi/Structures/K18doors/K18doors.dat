@@ -1,0 +1,24 @@
+GUID ef80e54f4f9e47e9bbdb1688dbe73779
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Gate
+ID 12385
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Health 50000
+Range 4
+Radius 1
+Offset 1.25
+
+Locked
+
+Explosion 36
+
+
+Asset_Bundle_Version 3
+
+Eligible_For_Pooling false

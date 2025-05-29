@@ -1,0 +1,19 @@
+GUID 2243c61080d8442b8d955e042e0272a8
+
+Type Vest
+Rarity Mythical
+Useable Clothing
+ID 15956
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Width 9
+Height 9
+
+Armor 0.36
+Armor_Explosion 0.58
+
+
+Should_Drop_On_Death False

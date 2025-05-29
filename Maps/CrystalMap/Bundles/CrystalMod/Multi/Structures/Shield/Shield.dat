@@ -1,0 +1,18 @@
+GUID 80888391249542e2bc808ca036ec8ca0
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 19274
+
+Size_X 1
+Size_Y 1
+Size_Z 0.7
+
+Health 1500
+Range 10
+Radius 1
+Offset 1.25
+
+Vulnerable
+
+Asset_Bundle_Version 3

@@ -1,0 +1,19 @@
+GUID dc500b0dba03433da61301f054a98f5c
+
+Type Shirt
+Rarity Mythical
+Useable Clothing
+ID 15957
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 9
+Height 9
+
+Armor 0.36
+Armor_Explosion 0.68
+
+
+Should_Drop_On_Death False

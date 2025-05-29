@@ -1,0 +1,24 @@
+GUID 3642c251817c47d1b17029da14028699
+Type Supply
+Rarity Epic
+ID 47695
+
+Size_X 6
+Size_Y 4
+Size_Z 0.6
+
+Blueprints 2
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 23335
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Build 17
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 47695
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Product 23335
+Blueprint_1_Products 10
+Blueprint_1_Build 19

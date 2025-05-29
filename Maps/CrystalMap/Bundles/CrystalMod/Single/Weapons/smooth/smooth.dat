@@ -1,0 +1,68 @@
+GUID e5ab6f545ce4401f9603dc447cbb5399
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 22512
+
+Size_X 5
+Size_Y 2
+Size_Z 0.7
+Size2_Z 0.7
+
+Magazine 22515
+
+Hook_Tactical
+
+Ammo_Min 1
+Ammo_Max 1
+
+Safety
+Semi
+
+Caliber 51037
+
+Firerate 25
+Replace 0.8
+Action Rocket
+
+Player_Damage 280
+Zombie_Damage 1500
+Animal_Damage 200
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 2500
+Resource_Damage 2000
+Object_Damage 1000
+
+Range 15
+Explosion 31755
+
+Durability 0.999
+
+
+Wear 5
+
+Spread_Aim 0.1
+Spread_Hip 0.1
+
+Ballistic_Force 6000
+
+Recoil_Min_X 2
+Recoil_Min_Y 5
+Recoil_Max_X 3
+Recoil_Max_Y 8
+
+Recover_X 1
+Recover_Y 1
+
+Shake_Min_X -0.025
+Shake_Min_Y 0.025
+Shake_Min_Z -0.01
+Shake_Max_X 0.025
+Shake_Max_Y -0.025
+Shake_Max_Z -0.02
+
+Reload_Time 1.8
+
+Projectile_Explosion_Launch_Speed 11

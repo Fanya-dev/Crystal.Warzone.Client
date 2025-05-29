@@ -1,0 +1,67 @@
+ManifestFileVersion: 0
+CRC: 2645301903
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92535bb031bb673abef592c4345b722a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6d13408524d4e4385970be10b11a1d99
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MasterBundles/StalsetMasterBundle/Set_1/Hat/Hat.prefab
+- Assets/MasterBundles/StalsetMasterBundle/Set_1/Shirt/Item.prefab
+- Assets/MasterBundles/StalsetMasterBundle/Set_1/Hat/Animations.prefab
+- Assets/MasterBundles/StalsetMasterBundle/Set_1/Pants/Material.mat
+- Assets/MasterBundles/StalsetMasterBundle/Set_1/Pants/Pants.png
+- Assets/MasterBundles/StalsetMasterBundle/Set_1/Shirt/Emission.png
+- Assets/MasterBundles/StalsetMasterBundle/Set_1/Shirt/Character_Mesh_3P_Override_0.prefab
+- Assets/MasterBundles/StalsetMasterBundle/Set_1/Pants/Animations.prefab
+- Assets/MasterBundles/StalsetMasterBundle/Set_1/Shirt/Shirt.png
+- Assets/MasterBundles/StalsetMasterBundle/Set_1/Backpack/Animations.prefab
+- Assets/MasterBundles/StalsetMasterBundle/Set_1/Shirt/Model_0.fbx
+- Assets/MasterBundles/StalsetMasterBundle/Set_1/Shirt/Animations.prefab
+- Assets/MasterBundles/StalsetMasterBundle/Set_1/Hat/Item.prefab
+- Assets/MasterBundles/StalsetMasterBundle/Set_1/Backpack/Item.prefab
+- Assets/MasterBundles/StalsetMasterBundle/Set_1/Supply/Item.prefab
+- Assets/MasterBundles/StalsetMasterBundle/Set_1/Vest/Animations.prefab
+- Assets/MasterBundles/StalsetMasterBundle/Set_1/Shirt/Character_Mesh_1P_Override_0.prefab
+- Assets/MasterBundles/StalsetMasterBundle/Set_1/Shirt/Character_Material_Override.mat
+- Assets/MasterBundles/StalsetMasterBundle/Set_1/Vest/Vest.prefab
+- Assets/MasterBundles/StalsetMasterBundle/Set_1/Shirt/Model_1.fbx
+- Assets/MasterBundles/StalsetMasterBundle/Set_1/Knight_1.fbx
+- Assets/MasterBundles/StalsetMasterBundle/Set_1/Backpack/Backpack.prefab
+- Assets/MasterBundles/StalsetMasterBundle/Set_1/Pants/Item.prefab
+- Assets/MasterBundles/StalsetMasterBundle/Set_1/Vest/Item.prefab
+- Assets/MasterBundles/StalsetMasterBundle/Set_1/Pants/Emission.png
+Dependencies: []

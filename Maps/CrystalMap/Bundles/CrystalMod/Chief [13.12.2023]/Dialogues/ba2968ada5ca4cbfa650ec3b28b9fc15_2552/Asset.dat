@@ -1,0 +1,14 @@
+﻿// Made in NPC Maker by BowieD
+GUID ba2968ada5ca4cbfa650ec3b28b9fc15
+Type Dialogue
+ID 2552
+Messages 1
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Quest
+Message_0_Condition_0_ID 2551
+Message_0_Condition_0_Status Completed
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Ignore_NPC False
+Message_0_Condition_0_Reset 
+

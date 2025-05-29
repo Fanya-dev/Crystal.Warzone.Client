@@ -1,0 +1,15 @@
+GUID 7499b24261024389baa3e0c0c39fccae
+Type Barrel
+ID 6055
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 226
+
+Recoil_X 0.6
+Recoil_Y 0.6
+
+Spread 0.6

@@ -1,0 +1,15 @@
+GUID b116e1d8ee8d4e5d822ad9c55102f48c
+
+Type Backpack
+Rarity Epic
+Useable Clothing
+ID 42254
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Width 10
+Height 10
+
+Should_Drop_On_Death False

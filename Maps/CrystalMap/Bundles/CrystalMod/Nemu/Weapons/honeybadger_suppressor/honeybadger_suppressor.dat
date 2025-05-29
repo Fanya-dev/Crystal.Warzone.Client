@@ -1,0 +1,18 @@
+GUID e83d8fa5cac742db8c087dbed2c4bdc5
+Type Barrel
+ID 5402
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 102
+
+Silenced 
+Volume 0.7
+Braked
+
+Spread 0.5
+
+Shake_Y 0.6

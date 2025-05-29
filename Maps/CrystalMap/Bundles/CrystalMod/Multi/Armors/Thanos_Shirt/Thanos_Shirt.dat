@@ -1,0 +1,19 @@
+GUID ef990d09f1a24a90b55a1280fa624fb6
+
+Type Shirt
+Rarity Mythical
+Useable Clothing
+ID 12684
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 9
+Height 9
+
+Armor 0.23
+Armor_Explosion 0.1
+
+
+Should_Drop_On_Death False

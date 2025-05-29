@@ -1,0 +1,17 @@
+GUID 851dd74307054338ab17a0ef82f7ffee
+Type NPC
+ID 52291
+
+Shirt 22684
+Pants 29285
+Hat 29686
+Vest 22683
+Backpack 24953
+Mask 19781
+
+Face 5
+Hair 15
+Color_Skin #ffe0bd
+Color_Hair #262420
+
+Dialogue 52292

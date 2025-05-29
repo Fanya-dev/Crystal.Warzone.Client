@@ -1,0 +1,20 @@
+GUID 380831d70a154eb394ff15523e577f5c
+
+Type Magazine
+Rarity Uncommon
+ID 38852
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Amount 3
+
+Calibers 1
+Caliber_0 3814
+
+Asset_Bundle_Version 2
+
+Bypass_Hash_Verification
+
+Delete_Empty

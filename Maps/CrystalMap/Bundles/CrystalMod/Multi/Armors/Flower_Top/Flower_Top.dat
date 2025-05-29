@@ -1,0 +1,16 @@
+GUID f9da49e691b24dcd91803cf1bb6ba8d4
+Type Shirt
+Useable Clothing
+ID 29516
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 5
+Height 7
+
+Armor 0.4
+Armor_Explosion 0.6
+
+Should_Drop_On_Death False

@@ -1,0 +1,34 @@
+GUID dbc2bfe70ebe443db00aab4b0488b04f
+Type Magazine
+Rarity Mythical
+ID 57351
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+Size2_Z 0.3
+
+Amount 60
+Count_Min 10
+Count_Max 60
+
+Calibers 1
+Caliber_0 26425
+
+Range 2
+Player_Damage 10
+Zombie_Damage 20
+Animal_Damage 20
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 100
+Resource_Damage 20
+Object_Damage 125
+Explosion 53
+Explosive
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 57351
+Blueprint_0_Build 30

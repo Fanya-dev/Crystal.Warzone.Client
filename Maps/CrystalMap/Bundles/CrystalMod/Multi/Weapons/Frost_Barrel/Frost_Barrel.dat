@@ -1,0 +1,19 @@
+GUID ac6df99c4c0c491a93337da30702a578
+Type Barrel
+ID 18816
+
+Size_X 3
+Size_Y 1
+Size_Z 0.3
+
+Calibers 1
+Caliber_0 35602
+
+Braked
+Silenced 
+Volume 1
+
+Recoil_X 1
+Recoil_Y 1
+
+Spread 1

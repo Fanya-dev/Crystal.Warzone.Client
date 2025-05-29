@@ -1,0 +1,22 @@
+GUID 2a15b08d72ab4585ab2e95a67574540e
+
+Type Shirt
+Rarity Epic
+Useable Clothing
+ID 35133
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 10
+Height 10
+
+Armor 0.9
+
+
+Should_Drop_On_Death False
+
+Allow_Manual_Drop False
+
+Bypass_Hash_Verification

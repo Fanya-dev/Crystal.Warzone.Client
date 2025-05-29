@@ -1,0 +1,95 @@
+GUID 65c5d0dc8f894c35afc70a28a18ce9dc
+Type Gun
+Rarity Mythical
+Useable Gun
+Slot Secondary
+ID 2421
+
+Size_X 5
+Size_Y 2
+Size_Z 0.57
+
+Magazine 2422
+Sight 2420
+Grip 49644
+Barrel 49640
+Tactical 49647
+
+Hook_Tactical
+Hook_Grip
+Hook_Barrel
+
+Ammo_Min 50
+Ammo_Max 50
+
+Safety
+Semi
+Auto
+
+Caliber 51732
+
+Range 345
+Firerate 3
+Action Trigger
+
+Player_Damage 115
+Player_Leg_Multiplier 1
+Player_Arm_Multiplier 1
+Player_Spine_Multiplier 1.1
+Player_Skull_Multiplier 1.2
+
+Zombie_Damage 134
+Zombie_Leg_Multiplier 1
+Zombie_Arm_Multiplier 1
+Zombie_Spine_Multiplier 1
+Zombie_Skull_Multiplier 2
+
+Animal_Damage 134
+Animal_Leg_Multiplier 1
+Animal_Spine_Multiplier 1
+Animal_Skull_Multiplier 2
+
+Barricade_Damage 1
+Structure_Damage 1
+Vehicle_Damage 240
+Resource_Damage 1
+Object_Damage 180
+
+
+Spread_Aim 0.03
+Spread_Hip 0.045
+
+
+Recoil_Min_X -0.03
+Recoil_Min_Y 2.40
+Recoil_Max_X 0.03
+Recoil_Max_Y 2.72
+
+Recover_X 0.9
+Recover_Y 0.9
+
+Shake_Min_X -0.00045
+Shake_Min_Y -0.00045
+Shake_Min_Z -0.015
+Shake_Max_X 0.00045
+Shake_Max_Y 0.00045
+Shake_Max_Z -0.03
+
+Muzzle 3
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 68
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 67
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Build 27
+
+Should_Drop_On_Death False
+
+Allow_Manual_Drop False
+
+Should_Fill_After_Detach True
+
+Exclude_From_Master_Bundle

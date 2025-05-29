@@ -1,0 +1,23 @@
+GUID d7a9b66d11864ca09ef7b60ec5a0740e
+
+Type Shirt
+Rarity Mythical
+Useable Clothing
+ID 55992
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 8
+Height 8
+
+Armor 0.26
+Armor_Explosion 0.1
+
+
+
+
+Has_1P_Character_Mesh_Override True
+Character_Mesh_3P_Override_LODs 1
+Has_Character_Material_Override True

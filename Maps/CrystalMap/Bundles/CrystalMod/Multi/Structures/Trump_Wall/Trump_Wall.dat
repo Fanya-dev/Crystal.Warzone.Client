@@ -1,0 +1,20 @@
+GUID d97ed2c7ef7f45898e778873bb82034f
+Type Trap
+Useable Barricade
+Build Wire
+ID 33561
+
+Size_X 1
+Size_Y 1
+Size_Z 0.7
+
+Health 5000
+Range 4
+Radius 0.5
+Offset 1.25
+
+Player_Damage 15
+Zombie_Damage 175
+Animal_Damage 175
+
+Explosion 28

@@ -1,0 +1,16 @@
+GUID f84e2a6fd39a46bdab7775b661b992bc
+
+Type Hat
+Useable Clothing
+ID 40012
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Armor 0.09
+Armor_Explosion 0.15
+
+Asset_Bundle_Version 3
+
+Exclude_From_Master_Bundle

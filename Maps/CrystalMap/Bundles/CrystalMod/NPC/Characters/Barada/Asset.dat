@@ -1,0 +1,21 @@
+GUID 79e6db59553648ac95c297523c7e6fa3
+
+
+Type NPC
+ID 33292
+
+Face 15
+Hair 6
+Beard 9
+
+Color_Hair #C7EBF1
+Color_Skin #F9D8B6
+
+Shirt 546
+Pants 790
+Hat 764
+Vest 606
+Glasses 935
+
+
+Dialogue 33293

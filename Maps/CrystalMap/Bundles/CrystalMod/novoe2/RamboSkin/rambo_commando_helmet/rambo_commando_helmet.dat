@@ -1,0 +1,20 @@
+GUID 75917e61b7ab468facd18b746bd90f61
+
+Type Hat
+Rarity Mythical
+Useable Clothing
+ID 55242
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Earpiece
+
+Armor 0.1
+Armor_Explosion 0.1
+
+Beard_Visible False
+Hair_Visible False
+
+Exclude_From_Master_Bundle

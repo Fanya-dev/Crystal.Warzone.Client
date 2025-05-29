@@ -1,0 +1,29 @@
+GUID a544027e8cc2438d84b4e759b60a61d2
+Type Magazine
+ID 14451
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Amount 50
+Count_Min 10
+Count_Max 50
+
+Calibers 1
+Caliber_0 45646
+
+Tracer 48
+Speed 1
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 20
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 14451
+
+Paintable
+

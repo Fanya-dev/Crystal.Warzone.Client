@@ -1,0 +1,19 @@
+GUID 49c353b657f64c85bf7348bd4c2d74a0
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Barricade
+ID 51779
+
+Size_X 3
+Size_Y 3
+Size_Z 0.5
+
+Health 5000
+Range 4
+Radius 1
+Offset 1
+
+Explosion 19
+
+Bypass_Hash_Verification

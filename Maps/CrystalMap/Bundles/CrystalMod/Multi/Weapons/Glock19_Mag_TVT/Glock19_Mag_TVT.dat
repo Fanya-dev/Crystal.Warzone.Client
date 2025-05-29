@@ -1,0 +1,25 @@
+GUID b15dd19e1ff84205bb77c171a3e0a2fc
+Type Magazine
+Rarity Epic
+ID 47987
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Amount 7
+Count_Min 6
+Count_Max 7
+
+Calibers 1
+Caliber_0 43727
+
+Paintable
+
+Should_Drop_On_Death False
+
+Allow_Manual_Drop False
+
+Should_Fill_After_Detach True
+
+Asset_Bundle_Version 3

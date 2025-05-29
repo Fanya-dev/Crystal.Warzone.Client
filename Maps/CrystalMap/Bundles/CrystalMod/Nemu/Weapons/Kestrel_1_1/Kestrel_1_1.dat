@@ -1,0 +1,17 @@
+GUID 12301121aa12301121ab12301121abca
+Type Magazine
+Rarity Legendary
+ID 13036
+
+Size_X 1
+Size_Y 4
+Size_Z 0.8
+Size2_Z 0.25
+
+Amount 1
+
+Calibers 2
+Caliber_0 13191
+Caliber_1 23191
+
+Asset_Bundle_Version 3

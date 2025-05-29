@@ -1,0 +1,34 @@
+GUID 25679eb1a49a47a1a9fb00b9e1d1c4f6
+
+Type Storage
+Rarity Legendary
+Useable Barricade
+Build Storage
+ID 14112
+
+Size_X 3
+Size_Y 3
+Size_Z 0.8
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 35501
+Blueprint_0_Supply_0_Amount 5
+
+Health 8500
+Range 5
+Radius 0.1
+Offset 0.75
+
+Storage_X 8
+Storage_Y 18
+
+Locked
+
+Explosion 36
+
+
+Should_Close_When_Outside_Range true
+
+Bypass_Hash_Verification

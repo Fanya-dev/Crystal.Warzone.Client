@@ -1,0 +1,25 @@
+GUID a497928dc7a047a38cd4a143651ff91f
+Type Barrel
+Rarity Epic
+ID 41730
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 32328
+
+
+Silenced 
+Volume 0.4
+
+Recoil_X 0.8
+Recoil_Y 0.8
+
+Spread 0.75
+Ballistic_Damage_Multiplier 1
+
+
+Paintable
+

@@ -1,0 +1,23 @@
+GUID f6ba1041b027423f94a94944034d2ee2
+Type Generator
+Rarity Epic
+Useable Barricade
+Build Generator
+ID 49713
+
+Size_X 3
+Size_Y 3
+Size_Z 0.5
+
+Health 1000
+Range 4
+Radius 1.25
+Offset 1.5
+
+Capacity 500
+Wirerange 0
+Burn 5
+
+Explosion 36
+
+PlacementAudioClip Sounds/MetalPlacement.mp3

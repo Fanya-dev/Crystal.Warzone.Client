@@ -1,0 +1,32 @@
+GUID 7516c7e7278b47c584b15bec6ad8dd4a
+Type Magazine
+Rarity Mythical
+ID 31941
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Amount 2
+
+Calibers 1
+Caliber_0 31949
+
+Range 15
+Player_Damage 400
+Zombie_Damage 900
+Animal_Damage 650
+Barricade_Damage 1
+Structure_Damage 1
+Vehicle_Damage 2000
+Resource_Damage 4000
+Object_Damage 2000
+Explosion 3444
+Impact 3444
+Explosive
+
+Tracer 50
+
+Explosion_Launch_Speed 20
+
+Asset_Bundle_Version 3

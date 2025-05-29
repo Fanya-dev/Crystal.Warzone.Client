@@ -1,0 +1,28 @@
+﻿"Metadata"
+{
+	"GUID" "2c97e87692ab474c8d6918d83a2fec17"
+	"Type" "SDG.Unturned.ItemCurrencyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ValueFormat" "{0:N0} Kilos"
+	"Entries"
+	[
+		{
+			"Item"
+			{
+				"GUID" "650584e5a61a4610ba258bc486eee8bf"
+			}
+			"Value" "1"
+			"Is_Visible_In_Vendor_Menu" "True"
+		}
+		{
+			"Item"
+			{
+				"GUID" "96c0cf0f128043f5b0ba8d284111cbfc"
+			}
+			"Value" "2"
+			"Is_Visible_In_Vendor_Menu" "True"
+		}
+	]
+}

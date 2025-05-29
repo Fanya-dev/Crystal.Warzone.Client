@@ -1,0 +1,23 @@
+GUID 48172cbce1864bb59bcb08b1f7d7dd8f
+Type Barricade
+Rarity Legendary
+Useable Barricade
+Build Claim
+ID 51349
+
+Size_X 2
+Size_Y 2
+Size_Z 0.7
+
+Health 2500
+Range 4
+Radius 0.5
+Offset 0.48
+
+Explosion 36
+Vulnerable
+Proof_Explosion
+
+Asset_Bundle_Version 3
+
+Bypass_Hash_Verification

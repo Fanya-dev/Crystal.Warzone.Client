@@ -1,0 +1,18 @@
+GUID e5d6506dcc494913959aa1988391466e
+
+Type Vest
+Rarity Epic
+Useable Clothing
+ID 32250
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Width 6
+Height 6
+
+Armor 0.45
+Armor_Explosion 0.7
+
+Should_Drop_On_Death False

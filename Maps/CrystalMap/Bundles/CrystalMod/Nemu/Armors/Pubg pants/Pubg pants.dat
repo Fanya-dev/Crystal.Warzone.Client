@@ -1,0 +1,19 @@
+GUID 1e59a0f90ab1463c8e6d4af8c4e9605a
+
+Type Pants
+Rarity Legendary
+Useable Clothing
+ID 42402
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 6
+Height 5
+
+Armor 0.34
+Armor_Explosion 0.65
+
+
+Bypass_Hash_Verification

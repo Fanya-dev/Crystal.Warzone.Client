@@ -1,0 +1,40 @@
+﻿// Made in NPC Maker by BowieD
+GUID dcf98b0ed86848fb8965b76a4fff7c3a
+Type Dialogue
+ID 2520
+Messages 1
+Message_0_Pages 1
+Responses 5
+Response_0_Dialogue 5741
+Response_0_Vendor 2522
+Response_1_Dialogue 5742
+Response_2_Quest 2521
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_ID 2521
+Response_2_Condition_0_Status Ready
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_Ignore_NPC False
+Response_2_Condition_0_Reset 
+
+Response_3_Quest 2521
+Response_3_Conditions 1
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_ID 2521
+Response_3_Condition_0_Status None
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_Ignore_NPC False
+Response_3_Condition_0_Reset 
+
+Response_3_Rewards 1
+Response_3_Reward_0_Type Quest
+Response_3_Reward_0_ID 2521
+
+Response_4_Vendor 5740
+Response_4_Conditions 1
+Response_4_Condition_0_Type Quest
+Response_4_Condition_0_ID 2521
+Response_4_Condition_0_Status Completed
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_0_Ignore_NPC False
+

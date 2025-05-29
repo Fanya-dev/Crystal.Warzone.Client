@@ -1,0 +1,22 @@
+GUID f0cdec998a734d37860ccc9429d349c1
+
+
+Type NPC
+ID 56884
+
+Face 3
+Hair 20
+
+Color_Hair #C7EBF1
+Color_Skin #F9D8B6
+
+Shirt 46252
+Pants 46250
+Hat 46251
+Vest 46253
+
+Primary 45944
+Equipped Primary
+
+
+Dialogue 56870

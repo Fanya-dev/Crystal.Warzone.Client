@@ -1,0 +1,18 @@
+GUID 055273aa1d8b45a19dea3d7c2ca2cdbf
+Type Barricade
+Useable Barricade
+Build Bed
+ID 36521
+
+Size_X 2
+Size_Y 1
+Size_Z 0.4
+
+Health 50000
+Range 4
+Radius 0.2
+Offset 0.2
+
+Explosion 37
+
+Bypass_Hash_Verification

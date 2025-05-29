@@ -1,0 +1,28 @@
+GUID 05acd0ff497949f18e370af22a346cd1
+
+Type Magazine
+Rarity Legendary
+ID 52333
+
+Size_X 1
+Size_Y 2
+Size_Z 0.15
+
+Amount 69
+Count_Min 20
+Count_Max 69
+
+Calibers 1
+Caliber_0 15701
+
+Tracer 55
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 52333
+Blueprint_1_Build 30

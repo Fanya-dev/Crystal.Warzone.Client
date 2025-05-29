@@ -1,0 +1,18 @@
+GUID 532c10271eb44f9c9ec19d9a67f8fa19
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 17774
+
+Size_X 1
+Size_Y 1
+Size_Z 0.7
+
+Health 50000
+Range 10
+Radius 1
+Offset 1.25
+
+Salvage_Duration_Multiplier 10
+
+Explosion 28

@@ -1,0 +1,28 @@
+GUID 9617ec9b47ed469997e8aaed2005ef30
+Type Storage
+Rarity Epic
+Useable Barricade
+Build Storage
+ID 15535
+
+Size_X 3
+Size_Y 3
+Size_Z 0.5
+
+Health 50000
+Range 4
+Radius 1
+Offset 1
+
+Storage_X 10
+Storage_Y 10
+
+Locked
+
+Explosion 23564
+
+Should_Close_When_Outside_Range true
+
+Bypass_Hash_Verification
+
+Eligible_For_Pooling false

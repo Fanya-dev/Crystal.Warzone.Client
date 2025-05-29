@@ -1,0 +1,24 @@
+GUID 48e5e6b84f5b427293019989c52d60c0
+Type Barrel
+ID 49646
+
+Size_X 3
+Size_Y 1
+Size_Z 0.3
+
+Calibers 1
+Caliber_0 51732
+
+Braked
+Silenced 
+Volume 0.5
+
+Recoil_X 0.9
+Recoil_Y 0.9
+
+Spread 0.75
+Ballistic_Damage_Multiplier 1.2
+
+Should_Drop_On_Death False
+
+Allow_Manual_Drop False

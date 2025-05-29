@@ -1,0 +1,78 @@
+GUID 1bf2bb5c865443af898fce224bdd9f04
+Type Gun
+Rarity Mythical
+Useable Gun
+Slot Primary
+ID 51973
+
+Size_X 4
+Size_Y 2
+Size_Z 0.45
+Size2_Z 0.9
+
+Sight 51970
+Magazine 51972
+Barrel 51971
+
+
+Ammo_Min 1
+Ammo_Max 5
+
+Safety
+Semi
+
+Caliber 55295
+
+Range 350
+Firerate 50
+Action Bolt
+
+Player_Damage 160
+Player_Leg_Multiplier 0.8
+Player_Arm_Multiplier 0.8
+Player_Spine_Multiplier 1.4
+Player_Skull_Multiplier 1.4
+
+Zombie_Damage 125
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.8
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 125
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 500
+Resource_Damage 2
+Object_Damage 2
+
+
+Durability 1
+Wear 3
+
+Spread_Aim 0
+Spread_Hip 0.5
+
+
+Recoil_Aim 0.0005
+Recoil_Min_X -0.0005
+Recoil_Min_Y 0.0005
+Recoil_Max_X -0.0005
+Recoil_Max_Y 0.0005
+
+Recover_X 0.25
+Recover_Y 0.25
+
+Shake_Min_X -0.0005
+Shake_Min_Y 0.0005
+Shake_Min_Z -0.005
+Shake_Max_X 0.0005
+Shake_Max_Y -0.0005
+Shake_Max_Z -0.001
+
+Muzzle 4
+

@@ -1,0 +1,28 @@
+GUID c7b947bbdc244762b3799e3eada96505
+Type Barrel
+ID 18012
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Calibers 15
+Caliber_0 51105
+Caliber_1 51114
+Caliber_2 51118
+Caliber_3 51301
+Caliber_4 51306
+Caliber_5 51311
+Caliber_6 51131
+Caliber_7 51316
+Caliber_8 51136
+Caliber_9 51501
+Caliber_10 51515
+Caliber_11 51153
+Caliber_12 51522
+Caliber_13 51528
+Caliber_14 51321
+
+Silenced
+Braked
+Volume 0.5

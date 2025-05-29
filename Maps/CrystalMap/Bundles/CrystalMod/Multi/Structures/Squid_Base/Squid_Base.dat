@@ -1,0 +1,25 @@
+GUID bcb2f56a4450404a8a03b4c89894145b
+Type Storage
+Useable Barricade
+Build Storage
+ID 15176
+
+Size_X 1
+Size_Y 1
+Size_Z 0.7
+
+Health 50000
+Range 10
+Radius 1
+Offset 1.25
+
+Storage_X 10
+Storage_Y 16
+
+Locked
+
+Salvage_Duration_Multiplier 10
+
+Should_Close_When_Outside_Range true
+
+Explosion 28

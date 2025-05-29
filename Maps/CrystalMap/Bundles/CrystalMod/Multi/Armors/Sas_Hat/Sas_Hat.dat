@@ -1,0 +1,16 @@
+GUID 3555963891d94ea9b1296dbe8d83f38f
+Type Hat
+Rarity Epic
+Useable Clothing
+ID 34063
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Beard
+
+Armor 0.24
+Armor_Explosion 0.65
+
+Should_Drop_On_Death False

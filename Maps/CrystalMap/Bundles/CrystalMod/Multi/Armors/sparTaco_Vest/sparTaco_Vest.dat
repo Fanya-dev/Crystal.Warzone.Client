@@ -1,0 +1,18 @@
+GUID 8bdd58c28d614bce840d691cfe945be2
+Type Vest
+Rarity Mythical
+Useable Clothing
+ID 47103
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Width 10
+Height 10
+
+Armor 0.18
+Armor_Explosion 0.1
+
+
+Should_Drop_On_Death False

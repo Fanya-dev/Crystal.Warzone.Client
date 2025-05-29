@@ -1,0 +1,25 @@
+GUID a3b7aeae046248c69dd3e2c51e8f580b
+Type Storage
+Useable Barricade
+Build Storage
+ID 55174
+
+Size_X 1
+Size_Y 1
+Size_Z 0.7
+
+Health 50000
+Range 10
+Radius 1
+Offset 1.25
+
+Storage_X 10
+Storage_Y 16
+
+Locked
+
+Salvage_Duration_Multiplier 10
+
+Should_Close_When_Outside_Range true
+
+Explosion 28

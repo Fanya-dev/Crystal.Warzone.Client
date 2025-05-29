@@ -1,0 +1,27 @@
+GUID a8b336b463dd449ab0a9bd86c7343800
+Type Magazine
+Rarity Mythical
+ID 49641
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Amount 50
+Count_Min 50
+Count_Max 50
+
+Calibers 1
+Caliber_0 51732
+
+Tracer 49
+
+Speed 1.28
+
+Should_Drop_On_Death False
+
+Allow_Manual_Drop False
+
+Should_Fill_After_Detach True
+
+

@@ -1,0 +1,18 @@
+GUID 2c0e9579e9a94a2dae71836805c39e52
+Type Hat
+Rarity Uncommon
+Useable Clothing
+ID 29518
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Armor 0.35
+Armor_Explosion 0.6
+
+Beard_Visible False
+Hair_Visible False
+
+
+Should_Drop_On_Death False

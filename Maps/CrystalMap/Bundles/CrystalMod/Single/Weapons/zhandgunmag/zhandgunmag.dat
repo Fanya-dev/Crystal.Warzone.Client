@@ -1,0 +1,36 @@
+GUID 88e5e82a5a604601a2aeda9a4c36ac2e
+Type Magazine
+Rarity Mythical
+ID 33247
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+Size2_Z 0.3
+
+Amount 5
+Count_Min 1
+Count_Max 5
+
+Calibers 1
+Caliber_0 31312
+
+Range 6
+Player_Damage 100
+Zombie_Damage 100
+Animal_Damage 100
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 100
+Resource_Damage 100
+Object_Damage 125
+Explosion 136
+Explosive
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 33247
+Blueprint_0_Build 30
+
+Delete_Empty

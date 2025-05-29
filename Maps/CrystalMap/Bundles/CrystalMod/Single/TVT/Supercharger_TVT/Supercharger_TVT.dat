@@ -1,0 +1,17 @@
+GUID 6b41440196dc4c5699dcc20a31e5958a
+Type Tactical
+Rarity Epic
+ID 49647
+
+Size_X 1
+Size_Y 1
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 51732
+
+Firerate 2
+
+Should_Drop_On_Death False
+
+Allow_Manual_Drop False

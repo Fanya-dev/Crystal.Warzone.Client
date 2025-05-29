@@ -1,0 +1,63 @@
+GUID 7254983fc6114dd8871151459fed4406
+
+Type Shirt
+Rarity Mythical
+Useable Clothing
+ID 53512
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 8
+Height 12
+
+Armor 0.23
+Armor_Explosion 0.1
+
+Blueprints 5
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 53512
+Blueprint_0_Supply_1_ID 18658
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 53510
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 17
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 53512
+Blueprint_1_Supply_1_ID 18658
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 53511
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 17
+
+Blueprint_2_Type Supply
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 53512
+Blueprint_2_Supply_1_ID 18658
+Blueprint_2_Outputs 1
+Blueprint_2_Output_0_ID 53513
+Blueprint_2_Output_0_Amount 1
+Blueprint_2_Build 17
+
+Blueprint_3_Type Supply
+Blueprint_3_Supplies 2
+Blueprint_3_Supply_0_ID 53512
+Blueprint_3_Supply_1_ID 18658
+Blueprint_3_Outputs 1
+Blueprint_3_Output_0_ID 53514
+Blueprint_3_Output_0_Amount 1
+Blueprint_3_Build 17
+
+Blueprint_4_Type Supply
+Blueprint_4_Supplies 2
+Blueprint_4_Supply_0_ID 53512
+Blueprint_4_Supply_1_ID 18658
+Blueprint_4_Outputs 1
+Blueprint_4_Output_0_ID 53515
+Blueprint_4_Output_0_Amount 1
+Blueprint_4_Build 17

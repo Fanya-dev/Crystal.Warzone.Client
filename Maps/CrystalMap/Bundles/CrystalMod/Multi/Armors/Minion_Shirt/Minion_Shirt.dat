@@ -1,0 +1,17 @@
+GUID 8aa367f731204e0a9f38fb59469e6437
+Type Shirt
+Rarity Uncommon
+Useable Clothing
+ID 29520
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 7
+Height 5
+
+Armor 0.35
+Armor_Explosion 0.7
+
+Should_Drop_On_Death False

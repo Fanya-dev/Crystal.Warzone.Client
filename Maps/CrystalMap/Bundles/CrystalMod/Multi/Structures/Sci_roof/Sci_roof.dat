@@ -1,0 +1,17 @@
+GUID 1db7c8bb75ac408da7f74abd118c8002
+Type Structure
+Rarity Rare
+Useable Structure
+Construct Roof
+ID 47648
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 15000
+Range 8
+
+Explosion 29
+
+Bypass_Hash_Verification

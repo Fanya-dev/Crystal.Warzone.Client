@@ -1,0 +1,26 @@
+GUID a933d6c45aaa47309bc4a47da4ade6b5
+
+Type Sentry
+Rarity Mythical
+Useable Barricade
+Build Sentry
+ID 20020
+
+Size_X 2
+Size_Y 2
+Size_Z 0.55
+
+Health 2000
+Range 4
+Radius 0.5
+Offset 1
+
+Storage_X 5
+Storage_Y 2
+Display
+Locked
+Mode Hostile
+
+Explosion 36
+
+Bypass_Hash_Verification

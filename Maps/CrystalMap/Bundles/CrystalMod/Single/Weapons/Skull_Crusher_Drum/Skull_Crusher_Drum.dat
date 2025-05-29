@@ -1,0 +1,35 @@
+GUID 7670e9e73f1e4b6698b1729e13bcf684
+Type Magazine
+Rarity Legendary
+ID 39817
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Amount 7
+Count_Min 5
+Count_Max 12
+
+Calibers 1
+Caliber_0 47912
+
+Range 3
+Player_Damage 10
+Zombie_Damage 25
+Animal_Damage 25
+Barricade_Damage 50
+Structure_Damage 50
+Vehicle_Damage 50
+Resource_Damage 50
+Object_Damage 75
+Explosion 39166
+Explosive
+
+Tracer 50
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 39817
+Blueprint_0_Build 30

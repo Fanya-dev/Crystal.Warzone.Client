@@ -1,0 +1,22 @@
+GUID 180527589eba451eb18f29e8785abcc8
+
+Type Backpack
+Rarity Epic
+Useable Clothing
+ID 35138
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Earpiece
+Width 10
+Height 10
+Proof_Water
+
+
+Should_Drop_On_Death False
+
+Allow_Manual_Drop False
+
+Bypass_Hash_Verification

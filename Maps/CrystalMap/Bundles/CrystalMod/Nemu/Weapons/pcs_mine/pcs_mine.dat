@@ -1,0 +1,51 @@
+GUID 10ab3d3c09dc48c2a0086623e1abe260
+Type Trap
+Rarity Rare
+Useable Barricade
+Build Spike
+ID 46568
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Health 1
+Range 4
+Radius 0.05
+Offset 0.075
+
+Player_Damage 500
+Zombie_Damage 175
+Animal_Damage 175
+Barricade_Damage 50
+Structure_Damage 50
+Vehicle_Damage 5000
+Resource_Damage 625
+Object_Damage 100
+
+Range2 38
+Explosion2 31755
+
+Explosive
+
+Explosion 36
+Vulnerable
+Unrepairable
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 31140
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 73
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 285
+Blueprint_0_Supply_2_Amount 3
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+
+Asset_Bundle_Version 2
+
+Bypass_Hash_Verification

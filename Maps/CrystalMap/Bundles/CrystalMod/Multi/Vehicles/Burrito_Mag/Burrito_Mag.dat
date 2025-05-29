@@ -1,0 +1,44 @@
+GUID 6604f7a1392b44c0930939202c08bc38
+
+Type Magazine
+Rarity Epic
+ID 65002
+
+Bypass_Hash_Verification
+
+Size_X 4
+Size_Y 2
+Size_Z 0.25
+
+Amount 40
+Count_Min 5
+Count_Max 40
+
+Calibers 1
+Caliber_0 64002
+
+Range 5
+Player_Damage 20
+Zombie_Damage 25
+Animal_Damage 25
+Barricade_Damage 50
+Structure_Damage 50
+Vehicle_Damage 250
+Resource_Damage 250
+Object_Damage 75
+Explosion 44111
+Explosive
+
+Tracer 50
+Spread 0.85
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 1192
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 65002
+Blueprint_1_Build 30
+

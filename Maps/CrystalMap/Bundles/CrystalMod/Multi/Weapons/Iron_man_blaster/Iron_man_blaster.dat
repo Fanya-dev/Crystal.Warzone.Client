@@ -1,0 +1,85 @@
+GUID 35ed6d132e9d4043abc049e111683276
+Type Gun
+Rarity Mythical
+Useable Gun
+Slot Primary
+ID 35732
+
+Size_X 4
+Size_Y 2
+Size_Z 0.4
+Size2_Z 0.65
+
+Magazine 35739
+
+
+Ammo_Min 2
+Ammo_Max 2
+
+Semi
+
+Caliber 18271
+
+Range 10
+Firerate 50
+Action Trigger
+
+Player_Damage 400
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 350
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 1.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 99
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 20
+Structure_Damage 15
+Vehicle_Damage 1500
+Resource_Damage 5000
+Object_Damage 5000
+
+Durability 1
+Wear 3
+
+Fire_Delay_Seconds 1
+
+Can_Aim_During_Sprint True
+
+Spread_Aim 0.01
+Spread_Hip 0.2
+
+Explosion 50218
+
+Ballistic_Force 900
+
+Recoil_Aim 0.25
+Recoil_Min_X -5
+Recoil_Min_Y 5
+Recoil_Max_X 5
+Recoil_Max_Y 10
+
+Recover_X 0.5
+Recover_Y 0.5
+
+Shake_Min_X -0.005
+Shake_Min_Y 0.005
+Shake_Min_Z -0.05
+Shake_Max_X 0.005
+Shake_Max_Y -0.005
+Shake_Max_Z -0.1
+
+Infinite_Ammo true
+
+
+Asset_Bundle_Version 3
+
+Projectile_Explosion_Launch_Speed 4

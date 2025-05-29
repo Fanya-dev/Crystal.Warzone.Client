@@ -1,0 +1,37 @@
+GUID 5585eca79dd94af5aa040e7429a5c6cf
+
+
+Type Supply
+Rarity Mythical
+ID 64450
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Blueprints 1
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 64450
+Blueprint_0_Outputs 5
+Blueprint_0_Output_0_ID 64445
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 64446
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 64447
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Output_3_ID 64448
+Blueprint_0_Output_3_Amount 1
+Blueprint_0_Output_4_ID 64449
+Blueprint_0_Output_4_Amount 1
+Blueprint_0_Build 1253
+
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 64450
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text [Unpack]
+Action_0_Tooltip *Click to unpack*

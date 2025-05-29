@@ -1,0 +1,18 @@
+GUID 42e5aa03c427486ca9ebf6936a634bdc
+Type Shirt
+Rarity Legendary
+Useable Clothing
+ID 47980
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 9
+Height 9
+
+Armor 0.19
+Armor_Explosion 0.1
+
+Beard_Visible False
+Hair_Visible False

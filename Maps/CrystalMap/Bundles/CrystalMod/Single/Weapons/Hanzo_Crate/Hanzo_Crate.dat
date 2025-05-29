@@ -1,0 +1,41 @@
+GUID 2040f240bf9444f7ad04f45f54bf56b2
+
+Type Supply
+ID 20310
+
+Size_X 4
+Size_Y 2
+Size_Z 0.5
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 20310
+Blueprint_0_Outputs 6
+Blueprint_0_Output_0_ID 32240
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 32241
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 32242
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Output_3_ID 32243
+Blueprint_0_Output_3_Amount 1
+Blueprint_0_Output_4_ID 32244
+Blueprint_0_Output_4_Amount 1
+Blueprint_0_Output_5_ID 45711
+Blueprint_0_Output_5_Amount 1
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 4
+Blueprint_1_Supply_0_ID 22990
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_1_ID 22991
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Supply_2_ID 35711
+Blueprint_1_Supply_2_Amount 1
+Blueprint_1_Supply_3_ID 35990
+Blueprint_1_Supply_3_Amount 10
+Blueprint_1_Level 2
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+

@@ -1,0 +1,19 @@
+"Metadata"
+{
+	"GUID" "13c775db6bae4693837ab8bace489187"
+	"Type" "SDG.Unturned.ItemCurrencyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ValueFormat" "{0:N0} Silver TvT cup"
+	"Entries"
+	[
+		{
+			"Item"
+			{
+				"GUID" "bded4da40ef7415fa9974d784109204b"
+			}
+			"Value" "1"
+		}
+	]
+}

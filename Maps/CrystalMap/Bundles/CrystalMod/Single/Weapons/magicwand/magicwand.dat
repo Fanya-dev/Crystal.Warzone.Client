@@ -1,0 +1,76 @@
+GUID 859b0b3293eb4c34a10871097c51abed
+Type Gun
+Rarity Mythical
+Useable Gun
+Slot Secondary
+ID 41452
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Magazine 41453
+
+Hook_Barrel
+
+Ammo_Min 1
+Ammo_Max 1
+
+Safety
+Semi
+
+Caliber 41443
+
+Range 500
+Firerate 5
+Action Break
+
+Player_Damage 999
+Player_Leg_Multiplier 0.5
+Player_Arm_Multiplier 0.5
+Player_Spine_Multiplier 0.5
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 99999999
+Zombie_Leg_Multiplier 0.7
+Zombie_Arm_Multiplier 0.7
+Zombie_Spine_Multiplier 0.8
+Zombie_Skull_Multiplier 1.2
+
+Animal_Damage 99999999
+Animal_Leg_Multiplier 0.7
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.2
+
+Barricade_Damage 9999999
+Structure_Damage 9999999
+Vehicle_Damage 99999999
+Resource_Damage 9999999
+Object_Damage 99999999
+
+Invulnerable
+
+Durability 0.3
+
+Spread_Aim 0.165
+Spread_Hip 0.165
+
+Recoil_Min_X -0.05
+Recoil_Min_Y 17.01
+Recoil_Max_X 0.05
+Recoil_Max_Y 18.9
+
+Recover_X 1.02
+Recover_Y 1.02
+
+Shake_Min_X -0.00045
+Shake_Min_Y -0.00045
+Shake_Min_Z -0.02
+Shake_Max_X 0.00045
+Shake_Max_Y 0.00045
+Shake_Max_Z -0.03
+
+
+
+
+Asset_Bundle_Version 3

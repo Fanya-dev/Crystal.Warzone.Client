@@ -1,0 +1,17 @@
+GUID b4207316e65c42158fdb40c445699043
+Type Barricade
+Useable Barricade
+Build Fortification
+ID 43196
+
+Size_X 2
+Size_Y 1
+Size_Z 0.35
+
+Health 15000
+Range 4
+Radius 0.5
+
+Explosion 400
+
+Bypass_Hash_Verification

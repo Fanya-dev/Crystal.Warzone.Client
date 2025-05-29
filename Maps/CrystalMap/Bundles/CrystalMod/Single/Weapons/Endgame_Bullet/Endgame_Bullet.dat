@@ -1,0 +1,17 @@
+GUID 03167af6464d433a8f3449a7621c3c71
+Type Magazine
+Rarity Mythical
+ID 59133
+
+Size_X 2
+Size_Y 1
+Size_Z 0.8
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 52731
+
+Delete_Empty

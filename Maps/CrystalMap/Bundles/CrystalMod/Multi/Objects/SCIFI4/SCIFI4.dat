@@ -1,0 +1,38 @@
+GUID 0169f3e5c57c47079146fb8b192caec1
+Type Charge
+Rarity Epic
+Useable Barricade
+Build Charge
+ID 33393
+
+Size_X 1
+Size_Y 1
+Size_Z 0.325
+
+Health 79565
+Range 4
+Offset 0.05
+
+Player_Damage 200
+Zombie_Damage 200
+Animal_Damage 200
+Barricade_Damage 1000
+Structure_Damage 1000
+Vehicle_Damage 500
+Resource_Damage 2000
+Object_Damage 1000
+
+Range2 3
+Explosion2 123
+
+Explosion 36
+Vulnerable
+Unrepairable
+Proof_Explosion
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 42
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27

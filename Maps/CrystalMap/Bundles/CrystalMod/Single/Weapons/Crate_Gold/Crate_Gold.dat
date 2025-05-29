@@ -1,0 +1,24 @@
+GUID 9340308205454c3c8d757936f95c2cad
+Type Supply
+Rarity Mythical
+ID 47690
+
+Size_X 4
+Size_Y 2
+Size_Z 0.6
+
+Blueprints 2
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 35990
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Build 17
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 47690
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Product 35990
+Blueprint_1_Products 10
+Blueprint_1_Build 19

@@ -1,0 +1,70 @@
+GUID fdc600a8400a4c728cfd2e786967cc61
+
+Type Quest
+ID 56294
+
+Conditions 2
+Condition_0_Type Item
+Condition_0_ID 35353
+Condition_0_Amount 10
+Condition_0_Reset
+Condition_1_Type Kills_Zombie
+Condition_1_ID 50478
+Condition_1_Value 100
+Condition_1_Nav 10
+Condition_1_Reset
+
+
+Rewards 10
+
+Reward_0_Type Item
+Reward_0_ID 52013
+Reward_0_Amount 3
+
+Reward_1_Type Item
+Reward_1_ID 23335
+Reward_1_Amount 3
+
+Reward_2_Type Item
+Reward_2_ID 35874
+Reward_2_Amount 1
+
+Reward_3_Type Item
+Reward_3_ID 35875
+Reward_3_Amount 5
+
+Reward_4_Type Item
+Reward_4_ID 49610
+Reward_4_Amount 2
+
+Reward_5_Type Item
+Reward_5_ID 57695
+Reward_5_Amount 1
+
+Reward_6_Type Item
+Reward_6_ID 25171
+Reward_6_Amount 1
+
+Reward_7_Type Item
+Reward_7_ID 52452
+Reward_7_Amount 2
+
+Reward_8_Type Item
+Reward_8_ID 52631
+Reward_8_Amount 3
+
+Reward_9_Type Item
+Reward_9_ID 41452
+Reward_9_Amount 1
+
+
+
+
+
+
+
+
+
+
+
+

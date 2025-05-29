@@ -1,0 +1,17 @@
+GUID 57249cd04cab4e2f9775d0eebae6222d
+Type Pants
+Rarity Legendary
+Useable Clothing
+ID 47982
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 4
+Height 3
+
+Armor 0.6
+Armor_Explosion 0.7
+
+Should_Drop_On_Death False

@@ -1,0 +1,36 @@
+GUID cb6fc899ae0d4b6aacbd06d7ab4026d3
+Type Sentry
+Rarity Mythical
+Useable Barricade
+Build Sentry
+ID 55312
+
+Size_X 2
+Size_Y 2
+Size_Z 0.75
+
+Health 50000
+Range 4
+Radius 0
+Offset 1
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 35501
+Blueprint_0_Supply_0_Amount 125
+
+Storage_X 5
+Storage_Y 2
+Locked
+Display
+Mode Hostile
+Requires_Power False
+
+Should_Close_When_Outside_Range true
+
+Infinite_Ammo True
+
+Explosion 36
+
+Bypass_Hash_Verification

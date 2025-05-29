@@ -1,0 +1,72 @@
+GUID c824aef83ae7457c9567c19a29d2a687
+Type Gun
+Rarity Mythical
+Useable Gun
+Slot Primary
+ID 44953
+
+Size_X 5
+Size_Y 2
+Size_Z 0.55
+Size2_Z 0.01
+
+Sight 44955
+Magazine 44954
+
+Ammo_Min 1
+Ammo_Max 1
+
+Safety
+Semi
+
+Caliber 52969
+
+Firerate 25
+Replace 3
+Action Rocket
+
+Player_Damage 500
+Zombie_Damage 750
+Animal_Damage 200
+Barricade_Damage 8000
+Structure_Damage 8000
+Vehicle_Damage 2500
+Resource_Damage 2000
+Object_Damage 1000
+
+Range 13
+Explosion 44956
+
+Durability 0.999
+
+Invulnerable
+
+Wear 5
+
+Spread_Aim 0.1
+Spread_Hip 0.1
+
+Ballistic_Force 3000
+
+Recoil_Min_X 2
+Recoil_Min_Y 5
+Recoil_Max_X 3
+Recoil_Max_Y 8
+
+Recover_X 1
+Recover_Y 1
+
+Shake_Min_X -0.025
+Shake_Min_Y 0.025
+Shake_Min_Z -0.01
+Shake_Max_X 0.025
+Shake_Max_Y -0.025
+Shake_Max_Z -0.02
+
+Reload_Time 1.8
+
+Asset_Bundle_Version 3
+
+Projectile_Explosion_Launch_Speed 5
+
+

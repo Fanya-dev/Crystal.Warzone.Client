@@ -1,0 +1,28 @@
+GUID 69b99f4541f1450f9da09ed1168a850c
+Type Barrel
+Rarity Epic
+ID 49645
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 51732
+
+
+Silenced 
+Volume 0.7
+
+Recoil_X 0.8
+Recoil_Y 0.8
+
+Spread 0.75
+Ballistic_Damage_Multiplier 1.2
+
+
+Paintable
+
+Should_Drop_On_Death False
+
+Allow_Manual_Drop False

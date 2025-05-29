@@ -1,0 +1,20 @@
+GUID 06e40bc853be450f9f0f1dc41530aef4
+
+Type Mask
+Rarity Epic
+Useable Clothing
+ID 33266
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Hair
+
+
+Quality_Min 200
+Quality_Max 300
+
+Armor 0.95
+
+Should_Drop_On_Death false

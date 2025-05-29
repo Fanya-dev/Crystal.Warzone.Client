@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 881243138
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65e8ee7f5200fba4a360504d210da51d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/CrystalMapm/Music/Loading.mp3
+- Assets/CrystalMapm/Music/Outro.mp3
+Dependencies: []

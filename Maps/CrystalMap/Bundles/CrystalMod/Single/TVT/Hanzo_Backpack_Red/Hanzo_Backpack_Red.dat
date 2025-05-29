@@ -1,0 +1,19 @@
+GUID ed00dc03ea2d4013bf6f87f5e538dac3
+
+
+Type Backpack
+Rarity Mythical
+Useable Clothing
+ID 49649
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Width 10
+Height 12
+Proof_Water
+
+Should_Drop_On_Death False
+
+Allow_Manual_Drop False

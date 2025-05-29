@@ -1,0 +1,19 @@
+GUID 18bf453428e84fbab95223aeebfa8dd2
+
+Type Barricade
+Rarity Mythical
+Useable Barricade
+Build Vehicle
+ID 12321
+
+Size_X 1
+Size_Y 2
+Size_Z 0.65
+
+Range 8
+Radius 0.5
+Offset 1.25
+
+Explosion 13501
+
+Bypass_Hash_Verification

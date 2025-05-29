@@ -1,0 +1,5 @@
+Name Collect 10 Pirate coins and kill 100 zombies
+Description Go to the Abandoned Mine and bring me 10 pirate coins. Those pirates should have some in their pockets...
+
+Condition_0 Collect 10 pirate coins {0}/{1}
+Condition_1 Kill 100 zombies at Abandoned Mine {0}/{1}

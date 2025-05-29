@@ -1,0 +1,32 @@
+GUID d2fb5c72a92c4b76899701401f246471
+Type Storage
+Rarity Mythical
+Useable Barricade
+Build Storage
+ID 11522
+
+Size_X 3
+Size_Y 3
+Size_Z 0.5
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 35501
+Blueprint_0_Supply_0_Amount 10
+
+Health 60000
+Range 5
+Radius 0.9
+Offset 0.98
+
+Storage_X 30
+Storage_Y 30
+
+Locked
+
+Explosion 36
+
+Should_Close_When_Outside_Range true
+
+Bypass_Hash_Verification

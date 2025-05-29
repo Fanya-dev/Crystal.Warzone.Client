@@ -1,0 +1,22 @@
+GUID 23864dfa886a4071a1393d9c6fd01b20
+
+Type Hat
+Rarity Epic
+Useable Clothing
+ID 35137
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Earpiece
+
+Armor 0.9
+
+
+Should_Drop_On_Death False
+
+Allow_Manual_Drop False
+
+Bypass_Hash_Verification
+

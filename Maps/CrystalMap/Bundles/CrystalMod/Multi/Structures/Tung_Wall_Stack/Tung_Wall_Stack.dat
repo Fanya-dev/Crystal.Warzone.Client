@@ -1,0 +1,17 @@
+GUID 3170e03cf1c94ac2a81355cf1715d5df
+Type Supply
+ID 58971
+
+Size_X 3
+Size_Y 3
+Size_Z 0.5
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58971
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 58970
+Blueprint_0_Output_0_Amount 10
+Blueprint_0_Build 27
+

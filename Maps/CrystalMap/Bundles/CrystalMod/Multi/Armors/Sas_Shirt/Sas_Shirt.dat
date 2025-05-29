@@ -1,0 +1,17 @@
+GUID a3b6e401925f4d4d8e67851649d46bfc
+Type Shirt
+Rarity Epic
+Useable Clothing
+ID 34901
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 7
+Height 8
+
+Armor 0.34
+Armor_Explosion 0.65
+
+Should_Drop_On_Death False

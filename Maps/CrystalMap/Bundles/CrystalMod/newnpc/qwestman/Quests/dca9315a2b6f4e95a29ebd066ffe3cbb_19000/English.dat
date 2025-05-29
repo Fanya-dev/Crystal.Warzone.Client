@@ -1,0 +1,6 @@
+﻿// Made in NPC Maker by BowieD
+Name <color=#964BFA><b>Retro wawe</b></color>
+Description Bring to <color=#4B64FA>Retro</color> pirate coins and clean hazard zones from zombies!
+Condition_0 Kill zombies at Devils Arch {0}/{1}
+Condition_1 Kill zombies at City {0}/{1}
+Condition_2 Kill zombies at Mili {0}/{1}

@@ -1,0 +1,25 @@
+GUID b48e0051d4214f9bb264fd66184b82e4
+Type Generator
+Rarity Mythical
+Useable Barricade
+Build Generator
+ID 53911
+
+Size_X 3
+Size_Y 3
+Size_Z 0.8
+
+Health 15000
+Range 4
+Radius 1.25
+Offset 1.5
+
+Capacity 50000
+Wirerange 64.0
+Burn 60000
+
+Explosion 36
+
+Asset_Bundle_Version 3
+
+Bypass_Hash_Verification

@@ -1,0 +1,21 @@
+GUID 5661cee35b7c4cb2a953cf48326f7ae6
+
+Type Pants
+Rarity Rare
+Useable Clothing
+ID 49772
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 8
+Height 8
+
+Armor 0.35
+Armor_Explosion 0.7
+
+Should_Drop_On_Death False
+
+
+

@@ -1,0 +1,41 @@
+GUID 7d2f0c4d4d21431db2fe256ac0a7b4d6
+
+Type Vehicle
+Rarity Legendary
+ID 15953
+
+Speed_Min -20
+Speed_Max 25
+
+Steer_Min 50
+Steer_Max 50
+
+Fuel 3000
+
+Health 3000
+
+Exit 3
+
+Cam_Follow_Distance 7.5
+Cam_Driver_Offset_Z 3
+
+LockMouse
+Engine Helicopter
+
+Trunk_Storage_X 5
+Trunk_Storage_Y 5
+
+Explosion 20
+Invulnerable
+
+Turrets 1
+Turret_0_Seat_Index 0
+Turret_0_Item_ID 11939
+Turret_0_Yaw_Min -135
+Turret_0_Yaw_Max 135
+Turret_0_Pitch_Min 85
+Turret_0_Pitch_Max 180
+Turret_0_Ignore_Aim_Camera
+
+Asset_Bundle_Version 3
+

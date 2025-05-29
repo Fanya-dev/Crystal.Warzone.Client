@@ -1,0 +1,47 @@
+GUID 2ebe0b008d464f5aba96c7a2ad3899a5
+Type Trap
+Rarity Rare
+Useable Barricade
+Build Spike
+ID 22500
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Health 1
+Range 4
+Radius 0.05
+Offset 0.215
+
+Player_Damage 200
+Zombie_Damage 200
+Animal_Damage 200
+Barricade_Damage 85
+Structure_Damage 85
+Vehicle_Damage 200
+Resource_Damage 700
+Object_Damage 125
+
+Range2 10
+Explosion2 34
+
+Explosive
+
+Explosion 36
+Vulnerable
+Unrepairable
+
+Bypass_Hash_Verification
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 72
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 22503
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 71
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Build 27

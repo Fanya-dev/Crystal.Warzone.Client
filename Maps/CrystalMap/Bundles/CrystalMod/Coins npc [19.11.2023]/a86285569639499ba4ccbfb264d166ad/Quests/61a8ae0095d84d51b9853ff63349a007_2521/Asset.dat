@@ -1,0 +1,20 @@
+﻿// Made in NPC Maker by BowieD
+GUID 61a8ae0095d84d51b9853ff63349a007
+Type Quest
+ID 2521
+Conditions 1
+Condition_0_Type Kills_Zombie
+Condition_0_ID 0
+Condition_0_Value 1000
+Condition_0_Spawn_Quantity 1
+Condition_0_Nav 255
+Condition_0_Radius 512
+Condition_0_MinRadius 0
+Condition_0_Zombie None
+
+Rewards 1
+Reward_0_Type Item
+Reward_0_ID 35990
+Reward_0_Amount 15
+Reward_0_Auto_Equip False
+

@@ -1,0 +1,25 @@
+GUID af7d6741531c4216aa4efee60fe983d8
+Type Magazine
+Rarity Mythical
+ID 61051
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Amount 10
+Count_Min 1
+Count_Max 10
+
+Calibers 1
+Caliber_0 62244
+
+Tracer 15501
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 61051
+Blueprint_0_Build 30
+
+

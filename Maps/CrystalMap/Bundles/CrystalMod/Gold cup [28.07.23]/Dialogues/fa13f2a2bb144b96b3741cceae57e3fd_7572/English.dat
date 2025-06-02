@@ -1,4 +1,4 @@
-﻿// Made in NPC Maker by BowieD
+// Made in NPC Maker by BowieD
 Message_0_Page_0 Welcome,<name_char> to the <color=#FFD700>Gold Cup Shop</color>!
 Response_0 <color=#008000>What do you have?</color>
 Response_1 <color=#FF0000>Nothing</color>

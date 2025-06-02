@@ -1,4 +1,4 @@
-﻿// Made in NPC Maker by BowieD
+// Made in NPC Maker by BowieD
 Name <color=#DCB413><b>Hey bro, do /home :)</b></color>
 Description Bring to <color=#4B64FA>Retro</color> 20 pirate coins and kill pirates at Devils Arch!
 Condition_0 Kill zombies at Devils Arch {0}/{1}

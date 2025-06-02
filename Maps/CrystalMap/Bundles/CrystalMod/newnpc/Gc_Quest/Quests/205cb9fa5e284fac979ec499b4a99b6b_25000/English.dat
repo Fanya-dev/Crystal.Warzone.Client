@@ -1,4 +1,4 @@
-﻿// Made in NPC Maker by BowieD
+// Made in NPC Maker by BowieD
 Name Kill 2000 zombies at Mili
 Description <color=rare>Budik</color> wants you to kill 2000 zombies from 30m range at Mili.
 Condition_0 Kill 2000 zombies at Mili {0}/{1}

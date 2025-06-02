@@ -1,4 +1,4 @@
-// Made in NPC Maker by BowieD
+﻿// Made in NPC Maker by BowieD
 Name <color=#4B64FA><b>PvP? Nah, PvE first!</b></color>
 Description Bring to <color=#4B64FA>Retro</color> 100 emeralds and clean zombies at hazard zones 
 Condition_0 Kill zombies at Quarry {0}/{1}

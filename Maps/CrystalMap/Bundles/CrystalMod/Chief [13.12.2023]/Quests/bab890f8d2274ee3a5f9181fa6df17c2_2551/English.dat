@@ -1,4 +1,4 @@
-// Made in NPC Maker by BowieD
+﻿// Made in NPC Maker by BowieD
 Name <color=#000000>[Qwest]</color> <color=#008000>Zombies?</color>
 Description Kill 500 zombies on Alicante.
 Condition_0 <color=#FF0000>Killed zombies</color> {0}/{1}
